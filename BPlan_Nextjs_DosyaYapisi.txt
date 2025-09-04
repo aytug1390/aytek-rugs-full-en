@@ -1,0 +1,29 @@
+B Planı – Next.js’e Geçiş
+
+1. Dosya Yapısı
+
+app/
+  layout.jsx
+  page.jsx
+  services/
+    page.jsx
+    rug-cleaning/page.jsx
+    rug-repair/page.jsx
+    trade-in/page.jsx
+    certification/page.jsx
+    rug-padding/page.jsx
+    shipping/page.jsx
+components/
+  Navbar.jsx
+  Footer.jsx
+  Hero.jsx
+  ServicesGrid.jsx
+public/
+  images/
+    hero-bg/hero1.png hero2.png hero3.png
+    customers/
+    aytek-logo.png
+styles/
+  globals.css
+tailwind.config.js
+postcss.config.js

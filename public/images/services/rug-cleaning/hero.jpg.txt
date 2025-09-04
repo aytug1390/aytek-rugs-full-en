@@ -1,0 +1,1 @@
+Placeholder: Provide a real hero.jpg image (1600x600 recommended). Currently hero.svg is used visually. Replace this file with an actual hero.jpg to match code reference.

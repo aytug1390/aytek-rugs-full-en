@@ -1,0 +1,17 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='400' viewBox='0 0 900 400'>
+  <defs>
+    <linearGradient id='g' x1='0' x2='1' y1='0' y2='1'>
+      <stop offset='0%' stop-color='#fecaca'/>
+      <stop offset='100%' stop-color='#f87171'/>
+    </linearGradient>
+    <pattern id='p' width='40' height='40' patternUnits='userSpaceOnUse' patternTransform='rotate(45)'>
+      <rect width='40' height='40' fill='none'/>
+      <circle cx='20' cy='20' r='3' fill='rgba(255,255,255,0.35)'/>
+    </pattern>
+  </defs>
+  <rect width='900' height='400' fill='url(#g)'/>
+  <rect width='900' height='400' fill='url(#p)'/>
+  <text x='50%' y='42%' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='46' font-weight='700' fill='#ffffff' style='paint-order:stroke;stroke:#000;stroke-width:4;stroke-linejoin:round;'>PET DAMAGE</text>
+  <text x='50%' y='60%' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='26' font-weight='400' fill='#1f2937' style='paint-order:stroke;stroke:#fff;stroke-width:6;stroke-linejoin:round;'>Odor & Stain Removal Placeholder</text>
+  <text x='50%' y='82%' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='16' fill='rgba(0,0,0,0.65)'>Replace this file with an actual pet damage cleaning photo (pet-damage.jpg)</text>
+</svg>
