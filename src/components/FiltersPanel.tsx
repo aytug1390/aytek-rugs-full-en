@@ -81,3 +81,4 @@ export default function FiltersPanel({ onChange }:{ onChange:(f:Filters)=>void }
     </aside>
   );
 }
+

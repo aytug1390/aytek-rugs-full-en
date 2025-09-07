@@ -1,8 +1,13 @@
-/** @type {import('next').NextConfig} */
+const path = require("path");
+
+/** @type {import("next").NextConfig} */
 const nextConfig = {
-	outputFileTracingRoot: __dirname,
-	// We now proxy admin-api through a Next API route (app/api/admin-api/...) so
-	// the server can handle backend downtime gracefully.
+  async rewrites() {
+    return [
+      { source: "/admin-api/:path*", destination: "/api/admin-api/:path*" },
+    ];
+  },
+  outputFileTracingRoot: path.join(__dirname),
 };
 
 module.exports = nextConfig;

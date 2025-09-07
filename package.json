@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.10",
     "@react-google-maps/api": "^2.20.7",
     "axios": "^1.11.0",
     "bcrypt": "^6.0.0",
@@ -14,16 +15,22 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.5.0",
-    "react-scripts": "5.0.1",
     "react-slideshow-image": "^4.3.2",
     "swr": "^2.3.6",
     "yet-another-react-lightbox": "^3.25.0"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3.3.1",
+    "@eslint/js": "^9.34.0",
+    "@next/eslint-plugin-next": "^15.5.2",
+    "@types/node": "24.3.1",
     "@types/react": "19.1.12",
+    "@typescript-eslint/parser": "^8.42.0",
     "autoprefixer": "^10.4.0",
     "eslint": "^9.34.0",
     "eslint-config-next": "^15.5.2",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "globals": "^16.3.0",
     "postcss": "^8.4.0",
     "tailwindcss": "^3.3.0",
     "typescript": "^5.4.2"
@@ -37,8 +44,8 @@
     "dev": "npm run predev && next dev",
     "seed-admin": "node ./scripts/seedAdmin.mjs",
     "dev:api": "node server/index.js",
-    "lint": "eslint . --max-warnings=0 --cache --cache-location ./.eslintcache",
-    "lint:fix": "eslint . --fix --cache --cache-location ./.eslintcache"
+    "lint": "eslint . --config ./eslint.config.mjs --ext .js,.jsx,.ts,.tsx --max-warnings=0 --no-cache",
+    "lint:fix": "eslint . --config ./eslint.config.mjs --ext .js,.jsx,.ts,.tsx --max-warnings=0 --no-cache --fix"
   },
   "browserslist": {
     "production": [

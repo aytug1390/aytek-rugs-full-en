@@ -32,3 +32,4 @@ export default function CategoryChips({ active }: { active?: string }) {
     </div>
   );
 }
+

@@ -53,7 +53,7 @@ export default function Footer() {
           <div className="rounded overflow-hidden h-[250px] bg-gray-800 text-xs flex items-center justify-center">
             {apiKey ? (
               <LoadScript googleMapsApiKey={apiKey} loadingElement={<div className="text-gray-400">Loading map...</div>}>
-                <GoogleMap mapContainerStyle={{ width: "100%", height: "250px" }} center={center} zoom={15} options={{ disableDefaultUI: true, mapId: process.env.NEXT_PUBLIC_GOOGLE_MAP_ID }}>
+                <GoogleMap mapContainerStyle={{ width: "100%", height: "250px" }} center={center} zoom={15} options={{ disableDefaultUI: true, mapId: process.env.NEXT_PUBLIC_GOOGLE_MAPS_MAP_ID }}>
                   {/* AdvancedMarkerElement (new API). If not available in lib version, fallback to standard Marker */}
                   <div
                     data-advanced-marker
@@ -83,3 +83,4 @@ export default function Footer() {
     </footer>
   );
 }
+

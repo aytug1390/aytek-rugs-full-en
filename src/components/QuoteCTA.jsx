@@ -226,3 +226,4 @@ export default function QuoteCTA({ label = "Free Rug Repair Quote (2 min)", vari
     </>
   );
 }
+

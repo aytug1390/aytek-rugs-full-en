@@ -1,7 +1,7 @@
 
 import Image from "next/image";
-import ServiceHero from "../../../components/ServiceHero";
-import CleaningForm from "../../../components/CleaningForm";
+import ServiceHero from "../../components/ServiceHero";
+import CleaningForm from "../../components/CleaningForm";
 
 export default function RugCleaningPage() {
   return (
@@ -77,4 +77,5 @@ export default function RugCleaningPage() {
     </>
   );
 }
+
 

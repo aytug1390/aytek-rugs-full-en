@@ -3,7 +3,7 @@ import React, { useEffect, useMemo, useState } from "react";
 const API =
   process.env.NEXT_PUBLIC_ADMIN_API ||
   process.env.REACT_APP_ADMIN_API ||
-  "http://localhost:5000/admin-api";
+  "/admin-api";
 
 export default function ReviewSection({ productId, pageSize = 5 }) {
   const [items, setItems] = useState([]);
@@ -200,4 +200,5 @@ export default function ReviewSection({ productId, pageSize = 5 }) {
     </section>
   );
 }
+
 

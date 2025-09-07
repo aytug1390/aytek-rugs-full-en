@@ -38,10 +38,7 @@ export default function ProductCard({ p }: { p: any }) {
             title={img}
             className="w-full h-full object-cover"
             loading="lazy"
-            onError={(e) => {
-              try { console.warn("img error for", id, "->", img); } catch {}
-              e.currentTarget.src = "/placeholder.jpg";
-            }}
+            onError={(e)=>{ e.currentTarget.onerror = null; e.currentTarget.src = "/placeholder.jpg"; }}
           />
           {isSold && (
             <span className="absolute left-3 top-3 z-10 rounded-full bg-red-600 text-white text-xs font-semibold px-2 py-0.5">
@@ -78,3 +75,5 @@ export default function ProductCard({ p }: { p: any }) {
     </article>
   );
 }
+
+

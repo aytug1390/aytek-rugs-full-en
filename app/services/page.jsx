@@ -2,7 +2,7 @@
 "use client";
 
 import { LuBrush, LuWrench, LuBadgeDollarSign, LuBadgeCheck, LuGripHorizontal, LuPlane } from "react-icons/lu";
-import CleaningForm from "@/app/components/CleaningForm";
+import CleaningForm from "../components/CleaningForm";
 import Link from "next/link";
 
 const services = [
@@ -41,5 +41,8 @@ export default function Page() {
 		</section>
 	);
 }
+
+
+
 
 

@@ -1,6 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
-import ServiceHero from "../../../components/ServiceHero";
-import RepairForm from "../../../components/RepairForm";
+import ServiceHero from "../../components/ServiceHero";
+import RepairForm from "../../components/RepairForm";
 
 export default function RugRepairPage() {
   return (
@@ -111,5 +111,6 @@ export default function RugRepairPage() {
     </div>
   );
 }
+
 
 

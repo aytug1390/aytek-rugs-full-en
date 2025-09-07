@@ -96,3 +96,4 @@ export default function ProductsGrid({ category, filters }: { category?: string;
     </div>
   );
 }
+

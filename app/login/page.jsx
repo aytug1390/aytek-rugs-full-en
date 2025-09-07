@@ -8,8 +8,7 @@ export default function LoginPage() {
   async function onSubmit(e) {
     e.preventDefault();
     // TODO: burayı gerçek auth'a bağlayacağız
-    console.log({ email, password });
-  }
+    }
 
   return (
     <main className="max-w-md mx-auto px-4 py-10">
@@ -42,3 +41,4 @@ export default function LoginPage() {
     </main>
   );
 }
+
