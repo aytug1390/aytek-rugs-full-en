@@ -1,9 +1,7 @@
-// Global styles already included in root layout, duplicate import removed.
-import AdminLayout from '../components/admin/AdminLayout';
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
 
-export const metadata = { title: 'Admin | Aytek Rugs' };
-
-export default function RootAdminLayout({ children }) {
-  return <AdminLayout>{children}</AdminLayout>;
+export default function AdminLayout({ children }) {
+  // Top-level admin layout: UI shell only. No redirects here.
+  return <>{children}</>;
 }
-
