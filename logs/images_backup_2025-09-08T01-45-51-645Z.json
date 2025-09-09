@@ -1,0 +1,34 @@
+{
+  "startedAt": "2025-09-08T01:45:50.366Z",
+  "env": {
+    "hasMongoUri": true,
+    "dbNameEnv": "aytekdb"
+  },
+  "input": {
+    "csvRows": 2,
+    "skuCount": 1
+  },
+  "result": {
+    "found": 1,
+    "missing": 0
+  },
+  "items": [
+    {
+      "product_id": "16600",
+      "title": "16600.0",
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/sampleA.jpg",
+          "alt": "Front",
+          "isPrimary": true
+        },
+        {
+          "url": "https://lh3.googleusercontent.com/sampleB.jpg",
+          "alt": "Back",
+          "isPrimary": false
+        }
+      ]
+    }
+  ],
+  "missingSkus": []
+}

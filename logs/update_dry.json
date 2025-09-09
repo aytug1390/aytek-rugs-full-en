@@ -1,0 +1,23 @@
+[DRY RUN] Sadece çıktı, DB yazımı yok.
+CSV: C:\proje-aytek-rugs\aytek-rugs-full-en\missing_images.csv
+Satır sayısı: 2
+SKU sayısı: 1
+{
+  "sku": "16600",
+  "images": [
+    {
+      "order": 1,
+      "isPrimary": true,
+      "alt": "Front",
+      "url": "https://lh3.googleusercontent.com/sampleA.jpg"
+    },
+    {
+      "order": 2,
+      "isPrimary": false,
+      "alt": "Back",
+      "url": "https://lh3.googleusercontent.com/sampleB.jpg"
+    }
+  ]
+}
+
+(DRY RUN tamamlandı — hiçbir veri yazılmadı.)
