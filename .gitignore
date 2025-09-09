@@ -1,39 +1,21 @@
 node_modules
-.env
 .env.local
-.env.*.local
 .env
-.env.local
 .env.*
+
+# Next.js build output
+.next/
+
+# Node modules
+node_modules/
+
+# Local backups/reports
 _found_admin_backup.txt
 admin_backup_report.csv
-.env.local
-.env*
-.next
-node_modules
-.env.local
-.env*
-.next
-node_modules
-.env.local
-.env*
-.next
-node_modules
-.env.local
-.env*
-.next
-node_modules
-.env.local
-.env*
-.next
-node_modules
-.env.local
-.env*
-.next
-node_modules
-.env.local
-.env*
-.next
+
+# IDE / OS
+.vscode/
+.DS_Store
 node_modules
 
 .env.local
