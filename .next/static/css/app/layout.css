@@ -946,6 +946,9 @@ video {
 .flex-wrap {
   flex-wrap: wrap;
 }
+.place-items-center {
+  place-items: center;
+}
 .items-start {
   align-items: flex-start;
 }
@@ -1794,16 +1797,7 @@ video {
   transition-duration: 300ms;
 }
 
-/* Global reset veya custom stiller */
-body {
-  margin: 0;
-  padding: 0;
-  font-family: Arial, sans-serif;
-}
-
-html {
-  scroll-behavior: smooth;
-}
+/* Özel global kurallarınızı buraya ekleyin. CSS'te // yorum YOK, sadece /* ... *\/ */
 
 .hover\:scale-105:hover {
   --tw-scale-x: 1.05;

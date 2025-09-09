@@ -5,3 +5,9 @@ node_modules
 .env
 .env.local
 .env.*
+_found_admin_backup.txt
+admin_backup_report.csv
+.env.local
+.env*
+.next
+node_modules

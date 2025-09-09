@@ -1,11 +1,12 @@
-import { CATEGORIES } from "@/data/categories";
-import CategoryPageClient from "./page.client";
+import { Suspense } from "react";
+import PageClient from "./PageClient";
 
-export function generateStaticParams() {
-  return CATEGORIES.map(c => ({ slug: c.slug }));
-}
+export const dynamic = "force-dynamic"; // opsiyonel ama build’ı rahatlatır
 
-export default function Page({ params }:{ params:{ slug:string } }) {
-  const cat = CATEGORIES.find(c => c.slug === params.slug);
-  return <CategoryPageClient slug={params.slug} catName={cat?.name ?? "Rugs"} />;
+export default function PageWrapper(props: any) {
+  return (
+    <Suspense fallback={null}>
+      <PageClient {...props} />
+    </Suspense>
+  );
 }

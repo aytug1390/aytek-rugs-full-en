@@ -1,0 +1,21 @@
+[DRY RUN] Sadece çıktı, DB yazımı yok.
+CSV: C:\proje-aytek-rugs\aytek-rugs-full-en\missing_images.csv
+Satır sayısı: 3
+SKU sayısı: 2
+
+=== SKU-1001 ===
+┌─────────┬───────┬───────────┬──────────────┬─────────────────────────────────────────────────┐
+│ (index) │ order │ isPrimary │ alt          │ url                                             │
+├─────────┼───────┼───────────┼──────────────┼─────────────────────────────────────────────────┤
+│ 0       │ 1     │ true      │ 'Front view' │ 'https://lh3.googleusercontent.com/sample1.jpg' │
+│ 1       │ 2     │ false     │ 'Back view'  │ 'https://lh3.googleusercontent.com/sample2.jpg' │
+└─────────┴───────┴───────────┴──────────────┴─────────────────────────────────────────────────┘
+
+=== SKU-1002 ===
+┌─────────┬───────┬───────────┬────────┬────────────────────────────────────┐
+│ (index) │ order │ isPrimary │ alt    │ url                                │
+├─────────┼───────┼───────────┼────────┼────────────────────────────────────┤
+│ 0       │ 1     │ true      │ 'Main' │ 'https://drive.google.com/sample3' │
+└─────────┴───────┴───────────┴────────┴────────────────────────────────────┘
+
+(DRY RUN tamamlandı — hiçbir veri yazılmadı.)

@@ -1,0 +1,26 @@
+RAW_LEN: 236
+RAW_TAIL_HEX: 2f73616d706c65330d0a
+ROWS: 3
+[
+  {
+    product_id: 'SKU-1001',
+    order: '1',
+    isPrimary: 'true',
+    alt: 'Front view',
+    url: 'https://lh3.googleusercontent.com/sample1.jpg'
+  },
+  {
+    product_id: 'SKU-1001',
+    order: '2',
+    isPrimary: 'false',
+    alt: 'Back view',
+    url: 'https://lh3.googleusercontent.com/sample2.jpg'
+  },
+  {
+    product_id: 'SKU-1002',
+    order: '1',
+    isPrimary: 'true',
+    alt: 'Main',
+    url: 'https://drive.google.com/sample3'
+  }
+]
