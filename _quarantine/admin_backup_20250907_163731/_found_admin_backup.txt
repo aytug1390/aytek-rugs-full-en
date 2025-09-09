@@ -1,0 +1,4 @@
+C:\proje-aytek-rugs\aytek-rugs-full-en\_found_admin_backup.txt
+C:\proje-aytek-rugs\aytek-rugs-full-en\admin_backup_report.csv
+C:\proje-aytek-rugs\aytek-rugs-full-en\app\components\admin\AdminLayout.jsx
+C:\proje-aytek-rugs\aytek-rugs-full-en\scripts\seedAdmin.mjs
