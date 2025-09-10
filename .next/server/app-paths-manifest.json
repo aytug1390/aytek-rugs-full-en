@@ -1,8 +1,5 @@
 {
-  "/api/admin-api/products/[id]/route": "app/api/admin-api/products/[id]/route.js",
   "/api/admin-api/products/route": "app/api/admin-api/products/route.js",
-  "/api/drive/route": "app/api/drive/route.js",
-  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
   "/rug/[id]/page": "app/rug/[id]/page.js",
   "/all-rugs/page": "app/all-rugs/page.js"
 }

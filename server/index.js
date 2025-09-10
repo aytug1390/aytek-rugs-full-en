@@ -48,6 +48,17 @@ app.get('/admin-api/products', async (req, res) => {
 			query.$text = { $search: q };
 			sort = { score: { $meta: 'textScore' } };
 		}
+		// status / visibility filters: default to active/public unless caller overrides
+		if (typeof req.query.status !== 'undefined' && req.query.status !== null) {
+			query.status = String(req.query.status);
+		} else {
+			query.status = 'active';
+		}
+		if (typeof req.query.visibility !== 'undefined' && req.query.visibility !== null) {
+			query.visibility = String(req.query.visibility);
+		} else {
+			query.visibility = 'public';
+		}
 		if (category) {
 			// allow category to match pattern array, collections array, or title
 			query.$or = [

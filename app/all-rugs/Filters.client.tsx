@@ -58,20 +58,28 @@ export default function Filters() {
       // If URL equals current search, Next may do nothing — force refresh in that case.
       const curStr = (searchParams || new URLSearchParams()).toString();
       const outStr = cur.toString();
-      await router.push(out);
-  console.log('[filters] pushed', { curStr, outStr });
-      // Always refresh after pushing the new URL to ensure the UI reflects filters.
-      try { router.refresh(); } catch (e) { console.warn('refresh failed', e); }
-      // Fallback: after a short delay force a full page reload to the same URL.
-      // This guarantees the server will render the filtered page if the client
-      // path doesn't update the grid for some reason.
+      // Await router.push so we know navigation completed (or started) in Next.
+      try {
+        await router.push(out);
+      } catch (e) {
+        console.warn('[filters] router.push failed', e);
+      }
+      // Try a soft refresh to ensure server-rendered portions update.
+      try { await router.refresh(); } catch (e) { console.warn('refresh failed', e); }
+
+      // Fallback: if the browser URL didn't change after a short delay, perform a full reload.
       setTimeout(() => {
         try {
-          if (typeof window !== 'undefined') window.location.href = out;
+          if (typeof window !== 'undefined') {
+            const loc = window.location.pathname + (window.location.search || '');
+            if (loc !== out) {
+              window.location.href = out;
+            }
+          }
         } catch (e) {
           /* ignore */
         }
-      }, 250);
+      }, 1000);
     } catch (err) {
       console.error('applyFilters error', err);
       setError(String(err?.message || err));

@@ -26,11 +26,15 @@ async function fetchProducts(searchParams: any = {}) {
   // default: only fetch products that have at least one image unless explicitly asked
   if (searchParams.show !== 'all') params.set('has_image', '1');
 
-  const base = process.env.NEXT_PUBLIC_API_BASE || 'http://127.0.0.1:5000';
+  // Use the Next proxy so server-side rendering and client-side count use the same code path.
+  const proxy = process.env.NEXT_PUBLIC_PROXY_ORIGIN || 'http://127.0.0.1:3000';
+  // Ensure status/visibility defaults match the count endpoint so totals align.
+  if (!params.has('status')) params.set('status', 'active');
+  if (!params.has('visibility')) params.set('visibility', 'public');
   try {
-  const url = `${base}/admin-api/products?${params}`;
-  try { console.log('[fetchProducts] fetching upstream', url); } catch (e) {}
-  const res = await fetch(url, { cache: 'no-store' });
+    const url = `${proxy}/api/admin-api/products?${params}`;
+    try { console.log('[fetchProducts] fetching via proxy', url); } catch (e) {}
+    const res = await fetch(url, { cache: 'no-store' });
   if (!res.ok) throw new Error('Failed to fetch products');
   const json = await res.json();
   try { console.log('[fetchProducts] upstream returned total=', json?.total, 'sample=', (json?.items||[]).slice(0,3).map(i=>i.product_id||i._id)); } catch (e) {}
