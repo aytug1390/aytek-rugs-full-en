@@ -31,20 +31,20 @@ export default function MenuAdminPage() {
 
       <div className="flex flex-wrap gap-2 mb-8 items-end">
         <div>
-          <label className="block text-xs font-semibold uppercase tracking-wide">Label</label>
-          <input value={form.label} onChange={e => setForm(f => ({ ...f, label: e.target.value }))} className="border px-2 py-1 rounded" />
+          <label className="block text-xs font-semibold uppercase tracking-wide" htmlFor="menu-label">Label</label>
+          <input id="menu-label" name="label" value={form.label} onChange={e => setForm(f => ({ ...f, label: e.target.value }))} className="border px-2 py-1 rounded" />
         </div>
         <div>
-          <label className="block text-xs font-semibold uppercase tracking-wide">Href</label>
-          <input value={form.href} onChange={e => setForm(f => ({ ...f, href: e.target.value }))} className="border px-2 py-1 rounded" />
+          <label className="block text-xs font-semibold uppercase tracking-wide" htmlFor="menu-href">Href</label>
+          <input id="menu-href" name="href" value={form.href} onChange={e => setForm(f => ({ ...f, href: e.target.value }))} className="border px-2 py-1 rounded" />
         </div>
         <div>
-          <label className="block text-xs font-semibold uppercase tracking-wide">Order</label>
-          <input type="number" value={form.order} onChange={e => setForm(f => ({ ...f, order: Number(e.target.value) }))} className="border px-2 py-1 rounded w-24" />
+          <label className="block text-xs font-semibold uppercase tracking-wide" htmlFor="menu-order">Order</label>
+          <input id="menu-order" name="order" type="number" value={form.order} onChange={e => setForm(f => ({ ...f, order: Number(e.target.value) }))} className="border px-2 py-1 rounded w-24" />
         </div>
         <div>
-          <label className="block text-xs font-semibold uppercase tracking-wide">Roles (comma)</label>
-          <input value={form.roles} onChange={e => setForm(f => ({ ...f, roles: e.target.value }))} placeholder="admin,editor" className="border px-2 py-1 rounded" />
+          <label className="block text-xs font-semibold uppercase tracking-wide" htmlFor="menu-roles">Roles (comma)</label>
+          <input id="menu-roles" name="roles" value={form.roles} onChange={e => setForm(f => ({ ...f, roles: e.target.value }))} placeholder="admin,editor" className="border px-2 py-1 rounded" />
         </div>
         <button onClick={addMenu} className="bg-green-600 text-white px-4 py-2 rounded">Add</button>
       </div>

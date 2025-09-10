@@ -1,6 +1,7 @@
 "use client";
 import { useList } from "@/context/ListContext";
 import { getImgUrl } from "@/lib/imageUrl";
+import { getDriveImageSrc } from '../lib/drive';
 import Link from "next/link";
 
 function fmtPrice(v: any) {
@@ -12,7 +13,7 @@ function fmtPrice(v: any) {
 export default function ProductCard({ p }: { p: any }) {
   const { add, remove, has } = useList();
   const id = String(p._id ?? p.product_id ?? p.id ?? "");
-  const name = p.name || p.title || id;
+  const name = process.env.NEXT_PUBLIC_COLLECTION_TITLE || 'Cappadocia Collection';
   const raw =
     p.images?.[0]?.url ||
     p.image?.url ||
@@ -22,9 +23,15 @@ export default function ProductCard({ p }: { p: any }) {
     p.img ||
     "";
 
-  const img = raw && typeof raw === "string" && raw.startsWith("/uploads")
-    ? `/media${raw}`
-    : getImgUrl(raw);
+  let img = '';
+  if (raw && typeof raw === 'string') {
+    // prefer drive helper for google drive links or numeric raw values
+    img = getDriveImageSrc(raw);
+    if (img === '/placeholder.jpg') {
+      // fallback to original helper if not drive-like
+      img = (raw.startsWith('/uploads') ? `/media${raw}` : getImgUrl(raw));
+    }
+  }
   const inList = has(id);
   const isSold = (p.stock && String(p.stock).toLowerCase() !== "in") || p.sold === true;
 
@@ -71,6 +78,18 @@ export default function ProductCard({ p }: { p: any }) {
             {inList ? "Added" : "+ Add to List"}
           </button>
         </div>
+
+        {/* compact color swatches for listing */}
+        {((p.color_hex && p.color_hex.length) || (p.color_code && p.color_code.length)) ? (
+          <div className="mt-3 flex items-center gap-2">
+            {(p.color_hex || []).slice(0,4).map((h: string, i: number) => (
+              <span key={`${h}-${i}`} title={h} className="w-4 h-4 rounded-full border" style={{ backgroundColor: h || 'transparent' }} />
+            ))}
+            {p.color_code && p.color_code.length ? (
+              <span className="text-xs text-gray-500">{p.color_code.slice(0,3).join(', ')}</span>
+            ) : null}
+          </div>
+        ) : null}
       </div>
     </article>
   );

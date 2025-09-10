@@ -1,4 +1,4 @@
-/* eslint-disable no-console */
+ 
 const fs = require('fs');
 const path = require('path');
 const { parse } = require('csv-parse/sync');

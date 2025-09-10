@@ -119,6 +119,12 @@ type RouteHandlerConfig<Route extends AppRouteHandlerRoutes = AppRouteHandlerRou
   handler satisfies RouteHandlerConfig<"/api/admin-logout">
 }
 
+// Validate ../../app/api/drive/route.ts
+{
+  const handler = {} as typeof import("../../app/api/drive/route.js")
+  handler satisfies RouteHandlerConfig<"/api/drive">
+}
+
 // Validate ../../app/api/favicon/route.ts
 {
   const handler = {} as typeof import("../../app/api/favicon/route.js")

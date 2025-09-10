@@ -7,9 +7,12 @@ export default function DesignersForm() {
         Enjoy trade discounts, sample collections, and personalized support.
       </p>
       <form className="grid gap-4">
-        <input type="text" placeholder="Designer / Company Name" className="border p-3 rounded" />
-        <input type="email" placeholder="Email" className="border p-3 rounded" />
-        <textarea placeholder="Project Details" className="border p-3 rounded"></textarea>
+        <label htmlFor="designer-company-name" className="sr-only">Designer / Company Name</label>
+        <input id="designer-company-name" name="company_name" type="text" placeholder="Designer / Company Name" className="border p-3 rounded" />
+        <label htmlFor="designer-email" className="sr-only">Email</label>
+        <input id="designer-email" name="email" type="email" placeholder="Email" className="border p-3 rounded" />
+        <label htmlFor="designer-project-details" className="sr-only">Project Details</label>
+        <textarea id="designer-project-details" name="project_details" placeholder="Project Details" className="border p-3 rounded"></textarea>
         <button className="bg-yellow-500 text-white py-2 rounded hover:bg-yellow-600 transition">
           Submit Application
         </button>

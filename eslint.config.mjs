@@ -13,6 +13,9 @@ const compat = new FlatCompat({
 });
 
 export default defineConfig([{
+    // ignore build artifacts and deps (use `ignores` instead of .eslintignore)
+    ignores: ['.next', 'node_modules', 'dist', 'build'],
+}, {
     extends: compat.extends("next", "next/core-web-vitals"),
 }, {
     files: [

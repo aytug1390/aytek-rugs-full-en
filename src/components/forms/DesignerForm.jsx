@@ -68,24 +68,24 @@ export default function DesignerForm() {
       <form onSubmit={onSubmit} className="mt-6 space-y-4">
         <div className="grid md:grid-cols-2 gap-4">
           <div>
-            <label className="block text-sm font-medium">Full Name *</label>
-            <input className="w-full rounded-xl border px-3 py-2" value={form.fullName} onChange={(e)=>update("fullName", e.target.value)} required />
+            <label className="block text-sm font-medium" htmlFor="designer-fullName">Full Name *</label>
+            <input id="designer-fullName" name="fullName" className="w-full rounded-xl border px-3 py-2" value={form.fullName} onChange={(e)=>update("fullName", e.target.value)} required />
           </div>
           <div>
-            <label className="block text-sm font-medium">Email *</label>
-            <input type="email" className="w-full rounded-xl border px-3 py-2" value={form.email} onChange={(e)=>update("email", e.target.value)} required />
+            <label className="block text-sm font-medium" htmlFor="designer-email">Email *</label>
+            <input id="designer-email" name="email" type="email" className="w-full rounded-xl border px-3 py-2" value={form.email} onChange={(e)=>update("email", e.target.value)} required />
           </div>
           <div>
-            <label className="block text-sm font-medium">Phone (optional)</label>
-            <input className="w-full rounded-xl border px-3 py-2" value={form.phone} onChange={(e)=>update("phone", e.target.value)} />
+            <label className="block text-sm font-medium" htmlFor="designer-phone">Phone (optional)</label>
+            <input id="designer-phone" name="phone" className="w-full rounded-xl border px-3 py-2" value={form.phone} onChange={(e)=>update("phone", e.target.value)} />
           </div>
           <div>
-            <label className="block text-sm font-medium">Company / Studio</label>
-            <input className="w-full rounded-xl border px-3 py-2" value={form.company} onChange={(e)=>update("company", e.target.value)} />
+            <label className="block text-sm font-medium" htmlFor="designer-company">Company / Studio</label>
+            <input id="designer-company" name="company" className="w-full rounded-xl border px-3 py-2" value={form.company} onChange={(e)=>update("company", e.target.value)} />
           </div>
           <div>
-            <label className="block text-sm font-medium">City / State *</label>
-            <input className="w-full rounded-xl border px-3 py-2" value={form.city} onChange={(e)=>update("city", e.target.value)} required />
+            <label className="block text-sm font-medium" htmlFor="designer-city">City / State *</label>
+            <input id="designer-city" name="city" className="w-full rounded-xl border px-3 py-2" value={form.city} onChange={(e)=>update("city", e.target.value)} required />
           </div>
           <div>
             <label className="block text-sm font-medium">Project Type</label>
@@ -106,9 +106,9 @@ export default function DesignerForm() {
             </label>
           </div>
           <div className="mt-3 grid md:grid-cols-3 gap-3">
-            <input className="rounded-xl border px-3 py-2" placeholder="Preferred colors (e.g., beige, burgundy)" value={form.preferredColors} onChange={(e)=>update("preferredColors", e.target.value)} />
-            <input className="rounded-xl border px-3 py-2" placeholder="Preferred size (e.g., 8x10 ft)" value={form.preferredSize} onChange={(e)=>update("preferredSize", e.target.value)} />
-            <input className="rounded-xl border px-3 py-2" placeholder="SKU (if any)" value={form.preferredSKU} onChange={(e)=>update("preferredSKU", e.target.value)} />
+            <input id="designer-preferredColors" name="preferredColors" className="rounded-xl border px-3 py-2" placeholder="Preferred colors (e.g., beige, burgundy)" value={form.preferredColors} onChange={(e)=>update("preferredColors", e.target.value)} />
+            <input id="designer-preferredSize" name="preferredSize" className="rounded-xl border px-3 py-2" placeholder="Preferred size (e.g., 8x10 ft)" value={form.preferredSize} onChange={(e)=>update("preferredSize", e.target.value)} />
+            <input id="designer-preferredSKU" name="preferredSKU" className="rounded-xl border px-3 py-2" placeholder="SKU (if any)" value={form.preferredSKU} onChange={(e)=>update("preferredSKU", e.target.value)} />
           </div>
           <p className="text-xs text-gray-500 mt-2">Not: Mockup için oda/alan fotoğrafı eklemeniz önerilir.</p>
         </div>
@@ -118,7 +118,7 @@ export default function DesignerForm() {
         </div>
         <div>
           <label className="block text-sm font-medium">Upload files (room photo, plan, moodboard) — optional</label>
-          <input type="file" accept="image/*,.pdf" multiple onChange={onFileChange} className="block w-full text-sm" />
+          <input id="designer-files" name="files" type="file" accept="image/*,.pdf" multiple onChange={onFileChange} className="block w-full text-sm" />
           <p className="text-xs text-gray-500 mt-1">Max 5 files • up to 10MB each</p>
         </div>
         <button type="submit" disabled={sending} className="w-full md:w-auto px-5 py-2 rounded-xl bg-black text-white hover:opacity-90 disabled:opacity-50">

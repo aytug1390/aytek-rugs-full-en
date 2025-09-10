@@ -32,6 +32,56 @@ router.get("/", async (req, res) => {
     sort = { score: { $meta: "textScore" } };
   }
 
+  // color filter: ?color=red or ?color=red,blue
+  if (req.query.color) {
+    const colors = String(req.query.color).split(',').map(s=>s.trim()).filter(Boolean);
+    if (colors.length) {
+      filter.color_code = { $in: colors };
+    }
+  }
+
+  // origin filter: ?origin=Turkey (matches origin_country field)
+  if (req.query.origin) {
+    const origins = String(req.query.origin).split(',').map(s=>s.trim()).filter(Boolean);
+    if (origins.length) {
+      filter.origin_country = { $in: origins };
+    }
+  }
+
+  // size filter: ?size=6'4" x 9'5"  (exact match in description_html or description)
+  // also support width/height numeric filters: ?min_width=180&max_width=200 (cm expected)
+  if (req.query.size) {
+    const sz = String(req.query.size).trim();
+    // naive match: look for the size string inside description_html or description
+    filter.$or = filter.$or || [];
+    filter.$or.push({ description_html: { $regex: sz, $options: 'i' } }, { description: { $regex: sz, $options: 'i' } });
+  }
+
+  // numeric size range filters (cm)
+  const minW = req.query.min_width ? Number(req.query.min_width) : null;
+  const maxW = req.query.max_width ? Number(req.query.max_width) : null;
+  const minH = req.query.min_height ? Number(req.query.min_height) : null;
+  const maxH = req.query.max_height ? Number(req.query.max_height) : null;
+  if (minW != null || maxW != null) {
+    filter.width_cm = filter.width_cm || {};
+    if (minW != null) filter.width_cm.$gte = minW;
+    if (maxW != null) filter.width_cm.$lte = maxW;
+  }
+  if (minH != null || maxH != null) {
+    filter.height_cm = filter.height_cm || {};
+    if (minH != null) filter.height_cm.$gte = minH;
+    if (maxH != null) filter.height_cm.$lte = maxH;
+  }
+
+  // category filter: ?category=slug or ?category=12345 (matches category or category_id fields)
+  if (req.query.category) {
+    const cats = String(req.query.category).split(',').map(s=>s.trim()).filter(Boolean);
+    if (cats.length) {
+      filter.$or = filter.$or || [];
+      filter.$or.push({ category: { $in: cats } }, { category_id: { $in: cats } });
+    }
+  }
+
   const cursor = Product.find(filter).sort(sort).skip((page-1)*limit).limit(limit);
   if (q) cursor.select({ score: { $meta: "textScore" } });
 

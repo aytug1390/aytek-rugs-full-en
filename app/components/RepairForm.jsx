@@ -67,8 +67,10 @@ export default function RepairForm() {
       <form onSubmit={onSubmit} className="space-y-4">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div>
-            <label className="block text-sm mb-1">Full Name *</label>
+            <label htmlFor="repair-fullName" className="block text-sm mb-1">Full Name *</label>
             <input
+              id="repair-fullName"
+              name="fullName"
               className="w-full rounded-xl border px-3 py-2"
               value={form.fullName}
               onChange={(e) => update("fullName", e.target.value)}
@@ -76,8 +78,10 @@ export default function RepairForm() {
             />
           </div>
           <div>
-            <label className="block text-sm mb-1">City *</label>
+            <label htmlFor="repair-city" className="block text-sm mb-1">City *</label>
             <input
+              id="repair-city"
+              name="city"
               className="w-full rounded-xl border px-3 py-2"
               value={form.city}
               onChange={(e) => update("city", e.target.value)}
@@ -85,8 +89,10 @@ export default function RepairForm() {
             />
           </div>
           <div>
-            <label className="block text-sm mb-1">Email *</label>
+            <label htmlFor="repair-email" className="block text-sm mb-1">Email *</label>
             <input
+              id="repair-email"
+              name="email"
               type="email"
               className="w-full rounded-xl border px-3 py-2"
               value={form.email}
@@ -95,8 +101,10 @@ export default function RepairForm() {
             />
           </div>
           <div>
-            <label className="block text-sm mb-1">Phone (optional)</label>
+            <label htmlFor="repair-phone" className="block text-sm mb-1">Phone (optional)</label>
             <input
+              id="repair-phone"
+              name="phone"
               className="w-full rounded-xl border px-3 py-2"
               value={form.phone}
               onChange={(e) => update("phone", e.target.value)}
@@ -105,8 +113,10 @@ export default function RepairForm() {
         </div>
 
         <div>
-          <label className="block text-sm mb-1">Rug Photo(s) *</label>
+          <label htmlFor="repair-files" className="block text-sm mb-1">Rug Photo(s) *</label>
           <input
+            id="repair-files"
+            name="files"
             type="file"
             accept="image/*"
             multiple

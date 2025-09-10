@@ -122,19 +122,19 @@ export default function QuoteCTA({ label = "Free Rug Repair Quote (2 min)", vari
                     <p className="mb-4 text-sm text-gray-600">No obligation • Same-day reply</p>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                       <Field label="Full Name" required>
-                        <input value={form.name} onChange={e=>setForm(f=>({...f,name:e.target.value}))}
+                        <input id="quote-name" name="name" value={form.name} onChange={e=>setForm(f=>({...f,name:e.target.value}))}
                           className="w-full rounded-lg border border-gray-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-teal-500" />
                       </Field>
                       <Field label="Phone (for faster reply)">
-                        <input value={form.phone} onChange={e=>setForm(f=>({...f,phone:e.target.value}))}
+                        <input id="quote-phone" name="phone" value={form.phone} onChange={e=>setForm(f=>({...f,phone:e.target.value}))}
                           className="w-full rounded-lg border border-gray-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-teal-500" />
                       </Field>
                       <Field label="Email">
-                        <input type="email" value={form.email} onChange={e=>setForm(f=>({...f,email:e.target.value}))}
+                        <input id="quote-email" name="email" type="email" value={form.email} onChange={e=>setForm(f=>({...f,email:e.target.value}))}
                           className="w-full rounded-lg border border-gray-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-teal-500" />
                       </Field>
                       <Field label="ZIP Code" required>
-                        <input value={form.zip} onChange={e=>setForm(f=>({...f,zip:e.target.value}))}
+                        <input id="quote-zip" name="zip" value={form.zip} onChange={e=>setForm(f=>({...f,zip:e.target.value}))}
                           className="w-full rounded-lg border border-gray-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-teal-500" />
                       </Field>
                     </div>
@@ -156,11 +156,11 @@ export default function QuoteCTA({ label = "Free Rug Repair Quote (2 min)", vari
                         </select>
                       </Field>
                       <Field label="Rug Size (e.g., 8x10 ft)" required>
-                        <input value={form.rugSize} onChange={e=>setForm(f=>({...f,rugSize:e.target.value}))}
+                        <input id="quote-rugSize" name="rugSize" value={form.rugSize} onChange={e=>setForm(f=>({...f,rugSize:e.target.value}))}
                           className="w-full rounded-lg border border-gray-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-teal-500" />
                       </Field>
                       <Field label="Main Issue (short)" required>
-                        <input value={form.issue} onChange={e=>setForm(f=>({...f,issue:e.target.value}))}
+                        <input id="quote-issue" name="issue" value={form.issue} onChange={e=>setForm(f=>({...f,issue:e.target.value}))}
                           className="w-full rounded-lg border border-gray-300 px-3 py-2 focus:outline-none focus:ring-2 focus:ring-teal-500" />
                       </Field>
                       <Field label="Notes (optional)">
@@ -170,14 +170,14 @@ export default function QuoteCTA({ label = "Free Rug Repair Quote (2 min)", vari
                     </div>
 
                     <Field label="Photos (up to 5)">
-                      <input type="file" multiple accept="image/*" onChange={onFileChange} />
+                      <input id="quote-photos" name="photos" type="file" multiple accept="image/*" onChange={onFileChange} />
                       {form.files?.length ? (
                         <p className="mt-1 text-xs text-gray-500">{form.files.length} photo(s) selected</p>
                       ) : <p className="mt-1 text-xs text-gray-400">Tip: Add 2-3 clear photos for faster quote.</p>}
                     </Field>
 
                     <label className="mt-2 flex items-center gap-2 text-sm">
-                      <input type="checkbox" checked={form.consent} onChange={e=>setForm(f=>({...f,consent:e.target.checked}))} />
+                      <input id="quote-consent" name="consent" type="checkbox" checked={form.consent} onChange={e=>setForm(f=>({...f,consent:e.target.checked}))} />
                       I agree to be contacted about my quote.
                     </label>
                   </div>

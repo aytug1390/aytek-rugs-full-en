@@ -1,14 +1,14 @@
 {
   "pages": {
-    "/api/admin-api/products/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/admin-api/products/route.js"
-    ],
     "/api/admin-api/products/[id]/route": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/api/admin-api/products/[id]/route.js"
+    ],
+    "/api/admin-api/products/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/admin-api/products/route.js"
     ],
     "/layout": [
       "static/chunks/webpack.js",
@@ -16,30 +16,25 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/page": [
+    "/rug/[id]/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+      "static/chunks/app/rug/[id]/page.js"
     ],
-    "/api/reviews/route": [
+    "/api/drive/route": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/api/reviews/route.js"
+      "static/chunks/app/api/drive/route.js"
     ],
-    "/api/admin-api/[...path]/route": [
+    "/api/auth/[...nextauth]/route": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/api/admin-api/[...path]/route.js"
+      "static/chunks/app/api/auth/[...nextauth]/route.js"
     ],
     "/all-rugs/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/all-rugs/page.js"
-    ],
-    "/_not-found/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
     ]
   }
 }

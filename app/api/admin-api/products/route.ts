@@ -1,15 +1,21 @@
 import { NextRequest, NextResponse } from "next/server";
 export const dynamic = "force-dynamic";
 
-const API_BASE = process.env.API_BASE || "http://localhost:5000";
+// Prefer explicit env, but during local development force the local admin API to avoid
+// accidentally proxying to a remote/stale backend. Remove this override when debugging is done.
+const API_BASE = process.env.API_BASE || process.env.ADMIN_API_ORIGIN || "http://127.0.0.1:5000";
 
 export async function GET(req: NextRequest) {
-  const url   = new URL(req.url);
-  const limit = url.searchParams.get("limit") ?? "24";
-  const page  = url.searchParams.get("page")  ?? "1";
+  // Use req.nextUrl to safely access incoming searchParams (handles relative URLs)
+  const incoming = req.nextUrl;
+  const upstream = new URL(`${API_BASE}/admin-api/products`);
+  incoming.searchParams.forEach((value, key) => upstream.searchParams.set(key, value));
 
-  // Express list endpoint’ine proxy
-  const r = await fetch(`${API_BASE}/admin-api/products?limit=${limit}&page=${page}`, { cache: "no-store" });
+  // Ensure public listing defaults: only active, public products unless caller overrides
+  if (!upstream.searchParams.has('status')) upstream.searchParams.set('status', 'active');
+  if (!upstream.searchParams.has('visibility')) upstream.searchParams.set('visibility', 'public');
+
+  const r = await fetch(upstream.toString(), { cache: "no-store" });
   if (!r.ok) {
     return NextResponse.json({ error: "upstream_error", status: r.status }, { status: 502 });
   }

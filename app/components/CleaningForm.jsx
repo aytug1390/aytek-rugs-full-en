@@ -97,8 +97,10 @@ export default function CleaningForm() {
       <form onSubmit={onSubmit} className="space-y-4">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div>
-            <label className="block text-sm font-medium mb-1">Full Name *</label>
+            <label htmlFor="cleaning-fullName" className="block text-sm font-medium mb-1">Full Name *</label>
             <input
+              id="cleaning-fullName"
+              name="fullName"
               className="w-full rounded-xl border px-3 py-2"
               value={form.fullName}
               onChange={(e) => update("fullName", e.target.value)}
@@ -108,8 +110,10 @@ export default function CleaningForm() {
           </div>
 
           <div>
-            <label className="block text-sm font-medium mb-1">City *</label>
+            <label htmlFor="cleaning-city" className="block text-sm font-medium mb-1">City *</label>
             <input
+              id="cleaning-city"
+              name="city"
               className="w-full rounded-xl border px-3 py-2"
               value={form.city}
               onChange={(e) => update("city", e.target.value)}
@@ -119,8 +123,10 @@ export default function CleaningForm() {
           </div>
 
           <div>
-            <label className="block text-sm font-medium mb-1">Email *</label>
+            <label htmlFor="cleaning-email" className="block text-sm font-medium mb-1">Email *</label>
             <input
+              id="cleaning-email"
+              name="email"
               type="email"
               className="w-full rounded-xl border px-3 py-2"
               value={form.email}
@@ -131,8 +137,10 @@ export default function CleaningForm() {
           </div>
 
           <div>
-            <label className="block text-sm font-medium mb-1">Phone (optional)</label>
+            <label htmlFor="cleaning-phone" className="block text-sm font-medium mb-1">Phone (optional)</label>
             <input
+              id="cleaning-phone"
+              name="phone"
               className="w-full rounded-xl border px-3 py-2"
               value={form.phone}
               onChange={(e) => update("phone", e.target.value)}
@@ -158,9 +166,11 @@ export default function CleaningForm() {
             {form.sizes.map((s, idx) => (
               <div key={idx} className="grid grid-cols-12 gap-2 items-end">
                 <div className="col-span-4">
-                  <label className="block text-xs font-medium mb-1">Width</label>
+                  <label htmlFor={`cleaning-width-${idx}`} className="block text-xs font-medium mb-1">Width</label>
                   <input
                     type="number" min="0" step="0.01"
+                    id={`cleaning-width-${idx}`}
+                    name={`sizes[${idx}][width]`}
                     className="w-full rounded-xl border px-3 py-2"
                     value={s.width}
                     onChange={(e) => updateSize(idx, "width", e.target.value)}
@@ -169,9 +179,11 @@ export default function CleaningForm() {
                   />
                 </div>
                 <div className="col-span-4">
-                  <label className="block text-xs font-medium mb-1">Length</label>
+                  <label htmlFor={`cleaning-length-${idx}`} className="block text-xs font-medium mb-1">Length</label>
                   <input
                     type="number" min="0" step="0.01"
+                    id={`cleaning-length-${idx}`}
+                    name={`sizes[${idx}][length]`}
                     className="w-full rounded-xl border px-3 py-2"
                     value={s.length}
                     onChange={(e) => updateSize(idx, "length", e.target.value)}
@@ -180,8 +192,10 @@ export default function CleaningForm() {
                   />
                 </div>
                 <div className="col-span-3">
-                  <label className="block text-xs font-medium mb-1">Unit</label>
+                  <label htmlFor={`cleaning-unit-${idx}`} className="block text-xs font-medium mb-1">Unit</label>
                   <select
+                    id={`cleaning-unit-${idx}`}
+                    name={`sizes[${idx}][unit]`}
                     className="w-full rounded-xl border px-3 py-2"
                     value={s.unit}
                     onChange={(e) => updateSize(idx, "unit", e.target.value)}
@@ -210,8 +224,10 @@ export default function CleaningForm() {
         </div>
 
         <div>
-          <label className="block text-sm font-medium mb-1">Rug Photo(s) *</label>
+          <label htmlFor="cleaning-files" className="block text-sm font-medium mb-1">Rug Photo(s) *</label>
           <input
+            id="cleaning-files"
+            name="files"
             type="file"
             accept="image/*"
             multiple

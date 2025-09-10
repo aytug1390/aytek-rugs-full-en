@@ -40,7 +40,7 @@ export default function MapClient() {
             title: "Aytek Rugs, 711 Route 17 North, Carlstadt, NJ 07072",
           });
         } catch {
-          // eslint-disable-next-line no-undef
+           
           marker = new window.google.maps.Marker({
             position: { lat: 40.8401, lng: -74.0907 },
             map,

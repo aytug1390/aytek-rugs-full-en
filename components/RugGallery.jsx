@@ -1,12 +1,6 @@
-'use client';
+"use client";
 import { useState } from 'react';
-
-function resolveDriveUrl(url, size = 1600) {
-  if (!url) return '';
-  const m = url.match(/\/d\/([a-zA-Z0-9_-]+)\//) || url.match(/[?&]id=([a-zA-Z0-9_-]+)/);
-  if (m) return `https://drive.google.com/thumbnail?id=${m[1]}&sz=w${size}`;
-  return url;
-}
+import { getDriveImageSrc } from '../src/lib/drive';
 
 export default function RugGallery({ images }) {
   const [idx, setIdx] = useState(0);
@@ -26,14 +20,14 @@ export default function RugGallery({ images }) {
         )}
       </div>
       <div className="grid grid-cols-5 gap-2">
-        {list.map((im, i) => (
+    {list.map((im, i) => (
           <button
             key={i}
             onClick={() => setIdx(i)}
             className={`border rounded-lg overflow-hidden ${i===idx ? 'ring-2 ring-blue-500' : ''}`}
           >
             <img
-              src={resolveDriveUrl(im.url, 400)}
+      src={getDriveImageSrc(im.url, 400)}
               alt={im.alt || ''}
               className="w-full h-20 object-cover"
               referrerPolicy="no-referrer"

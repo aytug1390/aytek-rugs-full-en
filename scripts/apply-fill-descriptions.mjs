@@ -9,7 +9,16 @@ function pickDescription(p) {
   if (p.description_html && String(p.description_html).trim()) return null;
   const candidates = [p.description_html, p.description, p.long_description, p.short_description, p.summary, p.title, p.name, p.product_id];
   for (const c of candidates) {
-    if (c && String(c).trim()) return String(c).trim();
+    if (!c) continue;
+    let s = String(c).trim();
+    if (!s) continue;
+    // normalize numeric-like ids that ended up with a trailing .0 (e.g. "16532.0")
+    if (/^\d+\.0+$/.test(s)) {
+      s = s.replace(/\.0+$/, '');
+    }
+    // also strip a lone decimal if present (e.g. 16532. -> 16532)
+    s = s.replace(/\.$/, '');
+    return s;
   }
   return '';
 }

@@ -1,6 +1,7 @@
 "use client";
 import { useMemo, useState } from 'react';
 import FilterSidebar from '../../src/components/FilterSidebar';
+import { getDriveImageSrc } from '../../src/lib/drive';
 
 // Mock dataset (replace with API fetch later)
 const MOCK_RUGS = [
@@ -55,7 +56,7 @@ export default function RugsCatalog() {
                 <div className="aspect-[4/3] mb-3 bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center text-gray-400 text-sm font-medium overflow-hidden">
                   {r.images && r.images.length > 0 ? (
                     <img
-                      src={r.images[0].url}
+                      src={getDriveImageSrc(r.images[0].url)}
                       alt={r.images[0].alt || r.title}
                       className="object-cover w-full h-full rounded"
                     />

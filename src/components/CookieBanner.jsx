@@ -51,11 +51,11 @@ export default function CookieBanner() {
           </div>
           <div className="flex items-center gap-2">
             <label className="flex items-center gap-2 text-sm">
-              <input type="checkbox" checked={analytics} onChange={e=>setAnalytics(e.target.checked)} />
+              <input name="cookie_analytics" type="checkbox" checked={analytics} onChange={e=>setAnalytics(e.target.checked)} />
               Analytics
             </label>
             <label className="flex items-center gap-2 text-sm">
-              <input type="checkbox" checked={ads} onChange={e=>setAds(e.target.checked)} />
+              <input name="cookie_ads" type="checkbox" checked={ads} onChange={e=>setAds(e.target.checked)} />
               Advertising
             </label>
           </div>

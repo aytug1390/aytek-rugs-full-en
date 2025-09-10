@@ -20,9 +20,12 @@ export default function Contact() {
 
       {/* Contact Form */}
       <form className="grid gap-4">
-        <input type="text" placeholder="Name" className="border p-3 rounded" />
-        <input type="email" placeholder="Email" className="border p-3 rounded" />
-        <textarea placeholder="Message" className="border p-3 rounded"></textarea>
+        <label htmlFor="contact-name" className="sr-only">Name</label>
+        <input id="contact-name" name="name" type="text" placeholder="Name" className="border p-3 rounded" />
+        <label htmlFor="contact-email" className="sr-only">Email</label>
+        <input id="contact-email" name="email" type="email" placeholder="Email" className="border p-3 rounded" />
+        <label htmlFor="contact-message" className="sr-only">Message</label>
+        <textarea id="contact-message" name="message" placeholder="Message" className="border p-3 rounded"></textarea>
         <button className="bg-yellow-500 text-white py-2 rounded hover:bg-yellow-600 transition">
           Send Message
         </button>

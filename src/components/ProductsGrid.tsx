@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
+import { useSearchParams } from 'next/navigation';
 import ProductCard from "./ProductCard";
 import type { Filters } from "./FiltersPanel";
 import { safeJson } from "@/lib/safeJson";
@@ -8,6 +9,8 @@ function buildQuery(filters?: Filters, category?: string, page = 1, limit = 24, 
   const q = new URLSearchParams();
   q.set("limit", String(limit));
   q.set("page", String(page));
+  // default to only products that have at least one image
+  q.set("has_image", "1");
   if (category) q.set("category", category);
   if (sort === "price-asc") q.set("sort", "price:asc");
   if (sort === "price-desc") q.set("sort", "price:desc");
@@ -22,6 +25,8 @@ function buildQuery(filters?: Filters, category?: string, page = 1, limit = 24, 
 }
 
 export default function ProductsGrid({ category, filters }: { category?: string; filters?: Filters }) {
+  const searchParams = useSearchParams();
+  console.log('[ProductsGrid] mount searchParams=', (searchParams || new URLSearchParams()).toString());
   const [items, setItems] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
   const [sort, setSort] = useState<string>("featured");
@@ -29,17 +34,35 @@ export default function ProductsGrid({ category, filters }: { category?: string;
   const [total, setTotal] = useState<number>(0);
   const limit = 24;
 
-  useEffect(() => { setPage(1); }, [category, JSON.stringify(filters), sort]);
+  const serializedFilters = useMemo(() => JSON.stringify(filters || null), [filters]);
+  useEffect(() => { setPage(1); }, [category, serializedFilters, sort]);
 
   useEffect(() => {
-    const q = buildQuery(filters, category, page, limit, sort);
+    // If a filters prop is provided (explicit), use it; otherwise read from URL search params so Apply shows filtered results.
+    let q;
+    if (filters) {
+      q = buildQuery(filters, category, page, limit, sort);
+    } else {
+      const sp = new URLSearchParams((searchParams || new URLSearchParams()).toString());
+      // enforce defaults/overrides
+      sp.set('limit', String(limit));
+      sp.set('page', String(page));
+      if (!sp.has('has_image')) sp.set('has_image', '1');
+      // map local sort state to query when applicable
+      if (sort === 'price-asc') sp.set('sort', 'price:asc');
+      else if (sort === 'price-desc') sp.set('sort', 'price:desc');
+      else sp.delete('sort');
+      if (category) sp.set('category', category);
+      q = sp;
+    }
     const url = `/admin-api/products?${q.toString()}`;
     let alive = true;
-    (async () => {
+  (async () => {
       setLoading(true);
       try {
         const res = await fetch(url, { cache: "no-store", headers: { Accept: "application/json" } });
         const data = await safeJson(res, { items: [], total: 0 });
+  console.log('[ProductsGrid] fetched', url, 'total=', data?.total, 'items=', Array.isArray(data?.items) ? data.items.length : 0);
         if (!alive) return;
         const arr = Array.isArray(data.items) ? data.items : [];
         setItems(arr);
@@ -50,7 +73,7 @@ export default function ProductsGrid({ category, filters }: { category?: string;
       } finally { if (alive) setLoading(false); }
     })();
     return () => { alive = false; };
-  }, [category, filters, page, sort]);
+  }, [category, filters, page, sort, searchParams]);
 
   const pageCount = Math.max(1, Math.ceil(total / limit));
 

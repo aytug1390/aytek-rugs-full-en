@@ -1,0 +1,45 @@
+{
+  "source": "C:\\proje-aytek-rugs\\aytek-rugs-full-en\\logs\\kayseriproductsfinal.prepped.fixed.json",
+  "scanned": 400,
+  "proposals": 400,
+  "attempted": 400,
+  "updated": 391,
+  "errors": [
+    {
+      "id": "10435",
+      "error": "no-match"
+    },
+    {
+      "id": "10446",
+      "error": "no-match"
+    },
+    {
+      "id": "12102",
+      "error": "no-match"
+    },
+    {
+      "id": "13775",
+      "error": "no-match"
+    },
+    {
+      "id": "14921",
+      "error": "no-match"
+    },
+    {
+      "id": "15392",
+      "error": "no-match"
+    },
+    {
+      "id": "15355",
+      "error": "no-match"
+    },
+    {
+      "id": "16387",
+      "error": "no-match"
+    },
+    {
+      "id": "16600",
+      "error": "no-match"
+    }
+  ]
+}

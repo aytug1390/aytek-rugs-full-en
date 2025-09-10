@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import { getDriveImageSrc } from '../../src/lib/drive';
 
 export default function Products({ initialCategory }) {
   const [items, setItems] = useState([]);
@@ -40,7 +41,7 @@ export default function Products({ initialCategory }) {
         <article key={p._id || p.product_id} className="group border rounded-2xl overflow-hidden">
           <div className="h-56 bg-gray-100">
             <img
-              src={p.images?.[0]?.url}
+              src={getDriveImageSrc(p.images?.[0]?.url)}
               alt={p.images?.[0]?.alt || p.name || p.product_id}
               className="w-full h-full object-cover"
               loading="lazy"
@@ -55,4 +56,3 @@ export default function Products({ initialCategory }) {
     </div>
   );
 }
-

@@ -1,0 +1,6299 @@
+[
+  {
+    "_id": "68bf89d53e2af215b68e1d48",
+    "product_id": "10000",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d49",
+    "product_id": "10001",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d4a",
+    "product_id": "10002",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#a57b5a",
+      "#a5845a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1JrGeVxJI15MDNOai82tpr0PARlxMFR9T"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d4b",
+    "product_id": "10003",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c7b6b",
+      "#947b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1kG0uUvnTVTNH8uwQh6PQoBiYrS54kEBm"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d4c",
+    "product_id": "10004",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b524a",
+      "#634a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=14hzo9QzqE5-JmcBJEGresLx-9RBC1Hed"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d4d",
+    "product_id": "10005",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b523a",
+      "#7b5a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1VSx7MkDhgiTpGlBA2oNVKx6CJjoxaKkN"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d4e",
+    "product_id": "10006",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#634a3a",
+      "#4a3a31"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1rfTNtEvLvJpxFjxFfC8l_lVZ7B59ZUE-"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d4f",
+    "product_id": "10007",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947342",
+      "#8c6b3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Lyz-P-ALWVmcq8wgfGbswXfcmVoA1Mkd"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d50",
+    "product_id": "10008",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d51",
+    "product_id": "10009",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d52",
+    "product_id": "10010",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#84735a",
+      "#7b6b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1NMN4eRyuMMNnRnPvtaCT8bacwtnM3NJz"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d53",
+    "product_id": "10011",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#846b52",
+      "#8c735a",
+      "#7b634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1DiWIurHo52rJ4CxfqGMbHCwgWLxUtXvc"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d54",
+    "product_id": "10012",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#735a4a",
+      "#6b5242",
+      "#7b6352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1kgEJBLf1QbYBHCH7WvLlR0Yz0Hm5Eat4"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d55",
+    "product_id": "10013",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#422921",
+      "#732119"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Jhg2qGysyuF3rrrY4q2bRy-I6406CfAF"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d56",
+    "product_id": "10014",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#73523a",
+      "#7b5a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1fl2OPf9rknYCbY4kfk6bu9R07C99fVoi"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d57",
+    "product_id": "10015",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b523a",
+      "#634a31"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1giKJ6lelhVCmHH_ILFe4Y2S_pvcMXzcE"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d58",
+    "product_id": "10016",
+    "color_code": [
+      "red"
+    ],
+    "color_hex": [
+      "#5a2921",
+      "#633129",
+      "#522921"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1nv6hca2K36sc8EtDKicj4ObObjHjNkkH"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d59",
+    "product_id": "10017",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#b58c6b",
+      "#9c7b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1y0jw3Trw8Gw3xaB5v8TJnyKgu9X7GI1i"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d5a",
+    "product_id": "10018",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#846b52",
+      "#8c6b52",
+      "#8c735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1StUM0Bns5BaApeBG7ofFuwcf6rxk1acF"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d5b",
+    "product_id": "10019",
+    "color_code": [
+      "brown",
+      "red"
+    ],
+    "color_hex": [
+      "#634a3a",
+      "#732921",
+      "#5a4231"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=146xRnWyJsSRD06tbB8f86nmZzBNibWEx"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d5c",
+    "product_id": "10020",
+    "color_code": [
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#9c7b63",
+      "#a5846b",
+      "#845a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1UrNMyfrbd7kV6UlciJi3CsECmk3svXMD"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d5d",
+    "product_id": "10021",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#8c6b52",
+      "#84634a",
+      "#846b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1n4y9bmiPgAQx76JO8Xmxc6N3jpq0cjhU"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d5e",
+    "product_id": "10022",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b5242",
+      "#735a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1VqVzOD6Yc1YdK4IISFxHE5LK4jlsYlVK"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d5f",
+    "product_id": "10023",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947b63",
+      "#8c735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=12KU8N36bxCEpBuUB1KD0IUE_KC-ObpPm"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d60",
+    "product_id": "10024",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#94735a",
+      "#8c735a",
+      "#8c6b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Bbe8B0MOU6wpdZsrk0xgtjQe7ePrvoTy"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d61",
+    "product_id": "10025",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#846b52",
+      "#9c846b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Hwpvkp7yhGaBl4bUgdYm-rTS86HfUjT-"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d62",
+    "product_id": "10026",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#5a4231",
+      "#634231",
+      "#634a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1j9qxX46jpMi_hQN7Yiy8bSIgmWg3xHiT"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d63",
+    "product_id": "10027",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#8c735a",
+      "#8c6b5a",
+      "#947b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1lc-IdyXUEiNyGgq5aoU0M5hFcrHZ_qmi"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d64",
+    "product_id": "10028",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#634a3a",
+      "#5a4a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1gvpdIb9U694fUMDZ53EGYfkfs-pbpfAx"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d65",
+    "product_id": "10029",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b634a",
+      "#6b5a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1RQ4ImVfG-IU4ZLSDqnr3vAujOhQ8qR9p"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d66",
+    "product_id": "10030",
+    "color_code": [
+      "brown",
+      "red"
+    ],
+    "color_hex": [
+      "#6b5242",
+      "#634a42",
+      "#8c7b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1zkRL0oLV4Fayg-2mRVRVY9RHZRsMkTZE"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d67",
+    "product_id": "10031",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#52423a",
+      "#5a4a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1WcpSccp_MV2MJKHrVVoyQUm3jnwICihk"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d68",
+    "product_id": "10032",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#5a0810",
+      "#522121"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=15Rt6Xm48V6pC9oWHbjwKgWE8IWG_mZCx"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d69",
+    "product_id": "10033",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#94735a",
+      "#8c6b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1OLkr8PkIpcXNnRT9Sqm0I3lrGgvw_cpP"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d6a",
+    "product_id": "10034",
+    "color_code": [
+      "white",
+      "orange",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c847b",
+      "#947b73"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1fZ2FXVNY5orxNIHk-NOyyuU_NuupC4vm"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d6b",
+    "product_id": "10035",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#735242",
+      "#5a4231"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Rb397NfdhCrnC24q4IuScINgpk6oReon"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d6c",
+    "product_id": "10036",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#846342",
+      "#8c6b4a",
+      "#846b4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1sqduI95iLypbBi0EzDuMi5R6bFui1hcx"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d6d",
+    "product_id": "10037",
+    "color_code": [
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#8c7b63",
+      "#94846b",
+      "#847363"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1zkp4fPk_VtjU6OQh7g7h72Ih7lVkjcca"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d6e",
+    "product_id": "10038",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#635a4a",
+      "#736352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1-IUNNKhnbJCfh8tP2_huwF28-2CRZYCY"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d6f",
+    "product_id": "10039",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d70",
+    "product_id": "10040",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d71",
+    "product_id": "10041",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#735a4a",
+      "#6b5242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1ac5p_ijHsn9yiNbgieNzMRf1v1578ZXN"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d72",
+    "product_id": "10042",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#736352",
+      "#52423a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1XUxJhZMzFQDh51Q2TKhxXiCU5LtX0sdh"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d73",
+    "product_id": "10043",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b6b5a",
+      "#736352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=17nqsb51Xs8rUMIqRv6qtrQ_3cOXr6zqD"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d74",
+    "product_id": "10044",
+    "color_code": [
+      "gray",
+      "brown"
+    ],
+    "color_hex": [
+      "#524242",
+      "#4a4242",
+      "#7b5a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1JjKU539ZBxhmMo-DU4lKy88NZ0SvSSMG"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d75",
+    "product_id": "10045",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d76",
+    "product_id": "10046",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#84634a",
+      "#a58463"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1GI9hH4kP4UqVukJi9I7YmcN0NnH0_vO7"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d77",
+    "product_id": "10047",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#735a3a",
+      "#634a31"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1wbL4XmHczribT9IoH1d6g_peAkCRSpAM"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d78",
+    "product_id": "10048",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#8c7b63",
+      "#7b6b5a",
+      "#846b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Lfy64rLSHP241K7pY6yMp7Bd-I1iR2u2"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d79",
+    "product_id": "10049",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#5a4a3a",
+      "#735a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1COKxVyK0zN9vZaeb_zMJYDgijlIjOqRO"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d7a",
+    "product_id": "10050",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d7b",
+    "product_id": "10051",
+    "color_code": [
+      "brown",
+      "red"
+    ],
+    "color_hex": [
+      "#5a4a42",
+      "#8c6b52",
+      "#634a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Im4NVYziXGQZopt40yy_0_CcYoUdw_tE"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d7c",
+    "product_id": "10052",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b5a4a",
+      "#5a4a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1CVSj6rD2tKUgzPrc3wftTUAAFuvXKU5H"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d7d",
+    "product_id": "10053",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b4a3a",
+      "#735242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1nt8L1wpbVTFVmBLRb3jo2K6MPvOMhg2I"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d7e",
+    "product_id": "10054",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d7f",
+    "product_id": "10055",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b5a4a",
+      "#7b5242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1_oL9Jzfx1X1zXTjRERYpazexbKYtG9VE"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d80",
+    "product_id": "10056",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#735a52",
+      "#6b524a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1RkWGycQwC1oL7gAwLcWihtHHL3eNTdhe"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d81",
+    "product_id": "10057",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d82",
+    "product_id": "10058",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d83",
+    "product_id": "10059",
+    "color_code": [
+      "white",
+      "brown",
+      "yellow"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c7b63",
+      "#7b735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1zGsekGWY1Dr6gWbS3LOt7PkF2Nk5p3ip"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d84",
+    "product_id": "10060",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#735a4a",
+      "#7b6352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1arAER0pWrYrbrVz1o2SQ1usUFi6P8LdY"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d85",
+    "product_id": "10061",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#5a5242",
+      "#635242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=11t-zAUUMxdadyHeJIGLBMby8Q7zGbf5G"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d86",
+    "product_id": "10062",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad9473",
+      "#a58c6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1SoIRuEHQKJ4jsq6AaWUNDYuAAgnyewpS"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d87",
+    "product_id": "10063",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d88",
+    "product_id": "10064",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d89",
+    "product_id": "10065",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c8473",
+      "#94735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=15SOH2GvxqHIkAILYdbPD6BfZcrQx5kUK"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d8a",
+    "product_id": "10066",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad947b",
+      "#a58c73"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1YHMmWLLFV89Ke6ljgbtYPJOK4NsFwB6n"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d8b",
+    "product_id": "10067",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b523a",
+      "#735a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1sO0MKkP3VaURCAkQ4nKvBAfKeAriJa6W"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d8c",
+    "product_id": "10068",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#846b52",
+      "#73634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1O5cw_YFYmOdYtWGQvCqTin1wTs4Q6PIo"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d8d",
+    "product_id": "10069",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b5a4a",
+      "#736352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=15j65GXn3nzgeUiTZ1JaTm82m3eMGDXm9"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d8e",
+    "product_id": "10070",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c6b52",
+      "#946b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Ej8cRV3BYzYmCWF13wica-rVZx_LBxEq"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d8f",
+    "product_id": "10071",
+    "color_code": [
+      "white",
+      "red",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#633121",
+      "#633a29"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1ze0vzbGeQqV2fH61aFNiEopAs4cf8PFb"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d90",
+    "product_id": "10072",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947b6b",
+      "#846b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1LVPNMHHVsPnXgo22cMMFXV5--S3Exgdh"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d91",
+    "product_id": "10073",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#846b52",
+      "#8c735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1W-yR8N5CuUe2UbE2ecBc6bPjxraLSWFL"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d92",
+    "product_id": "10074",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#735a4a",
+      "#52423a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1U35O0Meor7kRfviJur28hAUIc7G5fRq-"
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d93",
+    "product_id": "10075",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d53e2af215b68e1d94",
+    "product_id": "10076",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b634a",
+      "#735a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1ghHcWPkKBrvMiMPijfVGd5wKm_rLjPSP"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1d95",
+    "product_id": "10077",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#94735a",
+      "#9c7b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1OGqtcKGr5dqmapQnL2-xxaHJg_bvS3yU"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1d96",
+    "product_id": "10078",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#84735a",
+      "#8c735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1p7Sk5Bj9DKPtLyfJfvLm-UxO1Faq6tbP"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1d97",
+    "product_id": "10079",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1d98",
+    "product_id": "10080",
+    "color_code": [
+      "black",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#000000",
+      "#8c7b6b",
+      "#9c8c7b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1zvZQYsYlUGq_s-W_oNdYgLvRCM2hvg3K"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1d99",
+    "product_id": "10081",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#5a4a31",
+      "#634a31"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1zFdKIL-_4oWH_HCBSFef8Nh1H_3I3xVj"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1d9a",
+    "product_id": "10082",
+    "color_code": [
+      "black",
+      "brown"
+    ],
+    "color_hex": [
+      "#000000",
+      "#7b634a",
+      "#735a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1eIYS-Gji9RmThnNfctru41TDDaemU7cp"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1d9b",
+    "product_id": "10083",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947352",
+      "#84634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1ixEL8Zq0viOEqABFgqm5NroGaDbb0d0c"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1d9c",
+    "product_id": "10084",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1d9d",
+    "product_id": "10085",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c6b52",
+      "#7b634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1wW5Fiziq7YhpwM1zaLreeQiu9ILZEERI"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1d9e",
+    "product_id": "10086",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1d9f",
+    "product_id": "10087",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#73523a",
+      "#6b4a31"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Wk2mhMjb-GLboUGjJgzML52IhOprUyAr"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1da0",
+    "product_id": "10088",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1da1",
+    "product_id": "10089",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#524231",
+      "#634a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1yUHbS1rbkUVCjYDYENJDEPaHxclZhiZ9"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1da2",
+    "product_id": "10090",
+    "color_code": [
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#8c7b6b",
+      "#948473",
+      "#947b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1DPmHZgdumaFe0uLcyYa31F7ebhGZq9hc"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1da3",
+    "product_id": "10091",
+    "color_code": [
+      "white",
+      "blue"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#101021",
+      "#081021"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1SQEqVxKCkExkTOuTBbsq149NNPsyItzD"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1da4",
+    "product_id": "10092",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1da5",
+    "product_id": "10093",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#7b5a4a",
+      "#7b6352",
+      "#735242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1nSx2juO4JPWYorLSz0znaDmeS49Dw3Q_"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1da6",
+    "product_id": "10094",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#84634a",
+      "#7b634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1KEgSPL9TtHDA8rDEZs2b3U1LcuAxmtL2"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1da7",
+    "product_id": "10095",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#7b523a",
+      "#8c6b4a",
+      "#7b5a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1IW1DjCHAgZaN-4qu_7iUTX8RIvY5zKUA"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1da8",
+    "product_id": "10096",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#735a4a",
+      "#7b6352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1G4HdgvzhaNVgRaDy7eeVIfE5dJ_SVT9i"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1da9",
+    "product_id": "10097",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#946b52",
+      "#8c5a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1lYc02RdRsMYsbBQjsagnXzbiVnJRMRW2"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1daa",
+    "product_id": "10098",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#635242",
+      "#7b6b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1v6W7RU1qvSf-eCZ0NNS9K0gfp8BUgptT"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dab",
+    "product_id": "10099",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#846352",
+      "#7b6352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1VW-FmRzl_pdHMIojnZ3VoMmFVQ9k7Rep"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1daf",
+    "product_id": "10100",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#634a3a",
+      "#6b5242",
+      "#635242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1BSsgFiwAWjyQWbHMOlIo7iJm27W84sKu"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1db0",
+    "product_id": "10101",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#736352",
+      "#84735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=18Jz1tDB3BU5hluur-Hif6K5l_KICv40y"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1db1",
+    "product_id": "10102",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#522929",
+      "#4a3131"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1g78GF5bUrJ3eW2INxmz3a0hf697ScbGi"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1db2",
+    "product_id": "10103",
+    "color_code": [
+      "red"
+    ],
+    "color_hex": [
+      "#8c5242",
+      "#845242",
+      "#844a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1DlWAsidIiY33kUWpRMUuAeYrvu9x4yff"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1db3",
+    "product_id": "10104",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b6352",
+      "#846b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1jrDHaUtovBIijcIf5gN7c7dHNs5Owsb1"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1db4",
+    "product_id": "10105",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#735242",
+      "#84634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1O8QOqDxR_sXSFsh-rgqknhwrrvfPo1nu"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1db5",
+    "product_id": "10106",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#946b52",
+      "#94735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=102iwe4Tin7HsHzGT18Lbn04m0VihUIb8"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1db6",
+    "product_id": "10107",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#846b52",
+      "#84634a",
+      "#8c6b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1imvYttdYZvEM0QbLomGckmJ4YyNWEaTc"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1db7",
+    "product_id": "10108",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#94735a",
+      "#8c6b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1lSDcIC_t4FpmJBWM_RbdN0S1yp-TdU-O"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1db8",
+    "product_id": "10109",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#5a423a",
+      "#7b5a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=19LW7Rfzv-a9ZMljm_6AthkoyBfzoq1hP"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1db9",
+    "product_id": "10110",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b523a",
+      "#63523a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1yacRCNdgDoTAYvU16lH3C229OMkConmp"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dba",
+    "product_id": "10111",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b634a",
+      "#5a4231"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1OWRI2Oy7ZLadPy2q8-Z3yI8stkIKqva2"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dbb",
+    "product_id": "10112",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#522121",
+      "#5a2929"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=14QsUhlwYgkWhq3Z369QuAGaZbMOqZOHz"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dbc",
+    "product_id": "10113",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c7b63",
+      "#94735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1RigeS1PM8N_XgFZpLy3uZ4qXdn8c7JEg"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dbd",
+    "product_id": "10114",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b6352",
+      "#8c735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1i0L0llgKvNkxF_7QN2fH0fi_vhHjijIv"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dbe",
+    "product_id": "10115",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c634a",
+      "#845a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=12EGSGJbAtzTh5V58tj5eiI_FZ0XHmTK8"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dbf",
+    "product_id": "10116",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b634a",
+      "#735a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1EhZWIdweSAJmD2Op2l1aXeRMCmlZHbJv"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dc0",
+    "product_id": "10117",
+    "color_code": [
+      "white",
+      "brown",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#523a31",
+      "#5a3a31"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Bxzg4mn8O1pZfmLASgOrV5WrSBLGfibI"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dc1",
+    "product_id": "10118",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c735a",
+      "#846b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1NwZWnBkmy5lP8m9SNpFG2Q3D6L0JTlpj"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dc2",
+    "product_id": "10119",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dc3",
+    "product_id": "10120",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b634a",
+      "#735a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Ei-kXtUiNfgTdj_N4P0IG2hcLOveWAxj"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dc4",
+    "product_id": "10121",
+    "color_code": [
+      "white",
+      "red",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#5a4242",
+      "#635252"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1tpoBkvVohD0lW9VA1B0NfFVTKyawzZtc"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dc5",
+    "product_id": "10122",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#7b634a",
+      "#84634a",
+      "#7b5a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1noZ0yrsdfTlXG5q68ZN6HlO8GimVunO0"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dc6",
+    "product_id": "10123",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#634a3a",
+      "#5a4231"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1QMXAzyI071NsCcadLuD8BTp-quAPdk0t"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dc7",
+    "product_id": "10124",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#63523a",
+      "#524231"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1qsQzd3DGyKz7h7XDf1ENB2GCRtpGBYUO"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dc8",
+    "product_id": "10125",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#5a4231",
+      "#6b523a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1FGJ8ps5xx7jVtm7J7AA1XDh_1f9hjz2y"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dc9",
+    "product_id": "10126",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#8c6b4a",
+      "#846342",
+      "#84634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1dBE-oQAz1bUAUtO12bdnUovF7AmkHE5b"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dca",
+    "product_id": "10127",
+    "color_code": [
+      "white",
+      "brown",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#5a4a42",
+      "#524a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1dUHmAmj1NsIhWXqH5-6HbY8v54eKMOkG"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dcb",
+    "product_id": "10128",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#a58c73",
+      "#ad947b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=12Py479rsjK5Q13rL3iqqHnX2LpMT4QE-"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dcc",
+    "product_id": "10129",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b5a4a",
+      "#845a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Mee4FRfoh4d5yp26gpseiY6cuDmds_D9"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dcd",
+    "product_id": "10130",
+    "color_code": [
+      "white",
+      "orange",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad846b",
+      "#a57363"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1a147Ir9jkH7pnpUonelzfYbcdg8ouRHz"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dce",
+    "product_id": "10131",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c7363",
+      "#947b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1PuLwzUMbmd-ZVIjVCDapkwqOPx8znmAK"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dcf",
+    "product_id": "10132",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#7b5a4a",
+      "#734a3a",
+      "#7b5242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1tgAmiMiV8qxS1VDuRSDq4wehh7sANXXD"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dd0",
+    "product_id": "10133",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#845a42",
+      "#7b5a42",
+      "#84634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1-BTJkjS8AC3eyLyaADtD6_g82Ymhw-yk"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dd1",
+    "product_id": "10134",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#948473",
+      "#8c7b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=11wtro9IOnAuyyWp20zE-Pw4LZe69IOdc"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dd2",
+    "product_id": "10135",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c846b",
+      "#947b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1wSvUvdTnmUYDYrIdvwPvtvjRqNaNbrRZ"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dd3",
+    "product_id": "10136",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dd4",
+    "product_id": "10137",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#845a42",
+      "#7b5a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1s5US-ua_tEOlSk8S9iCCtbkBMlX7lmh7"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dd5",
+    "product_id": "10138",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dd6",
+    "product_id": "10139",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#63524a",
+      "#6b5a52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1wqIHh7kKiGy70skY-nOUHMKNbzKHEdeu"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dd7",
+    "product_id": "10140",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#8c735a",
+      "#846b52",
+      "#94735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1FJzdf1ij7Y-9MGnPpTRKx-Wx29RL98r2"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dd8",
+    "product_id": "10141",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#b58c73",
+      "#a57b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1yXkcooLPySJp0ftKheuiLI92aeAvjw80"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dd9",
+    "product_id": "10142",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#5a5242",
+      "#635a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1AzxJPpE7e47CEgem7UuC9k3I5INXyfFO"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dda",
+    "product_id": "10143",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#7b6352",
+      "#735a4a",
+      "#7b634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1yw6P3YqodFM5q0tOR8VPcfC_88oQAxhc"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ddb",
+    "product_id": "10144",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ddc",
+    "product_id": "10145",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#846b5a",
+      "#7b6352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1cQ9kbOdfC1RFPE2z4k7TrGORm1nmgO12"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ddd",
+    "product_id": "10146",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#8c735a",
+      "#846b52",
+      "#947b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1uVwgTxC8LmJAeoDJFHedXnP3IG0iSAki"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dde",
+    "product_id": "10147",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#846b5a",
+      "#7b6352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1TsmB8SLB8siCqCZziNpFnZ_zn1rs7h33"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ddf",
+    "product_id": "10148",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#5a4231",
+      "#634a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1LfXBCHe4gJZ4b4oAiJn4FVzNAr9x8izw"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1de0",
+    "product_id": "10149",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1de1",
+    "product_id": "10150",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#944a4a",
+      "#8c4a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1nJYCKKO8-2cMLsi3B8SGT30P6CBbICJL"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1de2",
+    "product_id": "10151",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#63423a",
+      "#6b4a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1UQ1kADjXtBbjzF111Sjeq9P9FW2BEsSU"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1de3",
+    "product_id": "10152",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947b63",
+      "#8c6b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1zpLP7FVakjYl8NaGVauh4GNq9yzlIBF3"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1de4",
+    "product_id": "10153",
+    "color_code": [
+      "white",
+      "brown",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#846352",
+      "#844a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1bH4tb2a2Xw4LNY3wacDJ0m0uL0qn91Y-"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1de5",
+    "product_id": "10154",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1de6",
+    "product_id": "10155",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c293a",
+      "#842131"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1gYap8AwzlbziQ_39wBqcsaEsWen-Aa57"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1de7",
+    "product_id": "10156",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b5a4a",
+      "#635242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1plSz9f4FDgsZ63pctCk9xaFiXr_mKxxK"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1de8",
+    "product_id": "10157",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b634a",
+      "#7b5a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1mTdmlRqwANd1CyXD4jR5L9Xf0FIEXL8V"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1de9",
+    "product_id": "10158",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c7363",
+      "#947b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=182CrkfyTEW0Nky66M3jHanKjcZ9eVBN-"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dea",
+    "product_id": "10159",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1deb",
+    "product_id": "10160",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b4a3a",
+      "#52423a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1tnHP4a_tic4TXOC1AW0IAr_LVnFQwcRw"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dec",
+    "product_id": "10161",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#845a42",
+      "#7b523a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1w7E8rwlMfJ6fpoEiSOfezuuaojBw3pME"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ded",
+    "product_id": "10162",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dee",
+    "product_id": "10163",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#634a3a",
+      "#5a4231"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Nrb3mDrA4HHZO6XaDU8Tzdcq_l2nLDyh"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1def",
+    "product_id": "10164",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b3a3a",
+      "#6b3131"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1_Tk5baCg8y0dLTUecVeZzfLpxoy9NjDw"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1df0",
+    "product_id": "10165",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#b5946b",
+      "#ad8c63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1hGBIjJnvdXD76ku9frjOi8ikuOaH0kgl"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1df1",
+    "product_id": "10166",
+    "color_code": [
+      "white",
+      "brown",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b5242",
+      "#422921"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1EI1v-HxrDyLZsscqT783wlD-wNy0ssbf"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1df2",
+    "product_id": "10167",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#523a31",
+      "#4a3a31"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1FWvT6T4t53myRsHyX6KBnrzE4o9uWSDQ"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1df3",
+    "product_id": "10168",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#523129",
+      "#522929"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1dbwT2tJBTeiL9sISH38EkVP6Alg01Vyb"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1df4",
+    "product_id": "10169",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b5a4a",
+      "#736352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=10kZMc9Yt-ss0Z4CU34XmlkQq5_4Fsjhn"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1df5",
+    "product_id": "10170",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#846b52",
+      "#8c735a",
+      "#8c7352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1GtePUv7AHngKq9p5Oj8CytOciTEvaoN6"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1df6",
+    "product_id": "10171",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#635242",
+      "#73634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1lZS5HLhw2M0qfP1Uk4fUbRNJZsrdVol2"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1df7",
+    "product_id": "10172",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#b59473",
+      "#b59c7b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1VMj1BGZO_3wYFk6t6nYfIkSRLvY5ZqPC"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1df8",
+    "product_id": "10173",
+    "color_code": [
+      "red"
+    ],
+    "color_hex": [
+      "#7b4a3a",
+      "#7b4231",
+      "#844a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=17NmW98atwzqnNYJXKFCTB5WxoJ1p2pL_"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1df9",
+    "product_id": "10174",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#948473",
+      "#8c7b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1RwgMG_ehXluV5evEQ3RnthejO1E8p3-n"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dfa",
+    "product_id": "10175",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#7b5a4a",
+      "#735242",
+      "#846b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1VA35q3sQE-r1IVMhI2rfJaxIHTNvHGEv"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dfb",
+    "product_id": "10176",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947352",
+      "#8c6b4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1sj8hd50Uv7IVg-8WGUw9b8KjrFXSg_Hr"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dfc",
+    "product_id": "10177",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dfd",
+    "product_id": "10178",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dfe",
+    "product_id": "10179",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1dff",
+    "product_id": "10180",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#846342",
+      "#8c6b42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1gZjAZU_oTdmmHGRd1dtBQ7qFv3k77HRt"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e00",
+    "product_id": "10181",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#5a4231",
+      "#634a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1GfwqHZIzIKxaefZ399PCoJ63dUbRrRXu"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e01",
+    "product_id": "10182",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b5242",
+      "#634a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1RBuTZ9Z2vtcvrRtJN9H5Vht_63E5ENsZ"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e02",
+    "product_id": "10183",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#634a3a",
+      "#6b5242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1eLvqaggn7thpYTP0weYYa-VhEXB3AgY7"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e03",
+    "product_id": "10184",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#845a4a",
+      "#8c6352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=14kCrn3U_sBJ8FGznEzZ0efZoGKHD_r2F"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e04",
+    "product_id": "10185",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b635a",
+      "#947363"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1skqdnqcBJ8coYqNtiXKy9KaShT0Eywsq"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e05",
+    "product_id": "10186",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c4a42",
+      "#94524a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1DX3puIHpIXa5qosONCTRc_plM9Jac_Ca"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e06",
+    "product_id": "10187",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e07",
+    "product_id": "10188",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b5252",
+      "#634a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=19uRYBIoDUmUnOsZ_abpYPOyUHPXogPb8"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e08",
+    "product_id": "10189",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c6b52",
+      "#94735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1K_iS2NVBKZOc_olTqxwwKQ1szwxQwgyL"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e09",
+    "product_id": "10190",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#94735a",
+      "#9c7b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1p2CXm7lmlZ8sqTWLY2T4L0aTdGCGMQHO"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e0a",
+    "product_id": "10191",
+    "color_code": [
+      "white",
+      "red",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c4a3a",
+      "#9c6b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1wmzmTXBhYiqO-9SUgA9cAfHr1iNvpCmL"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e0b",
+    "product_id": "10192",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad8c73",
+      "#a5846b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Z3nEakWgTyhQr4Sf8l_3gr4C3pkmpTKo"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e0c",
+    "product_id": "10193",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c6352",
+      "#8c6b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=14KAF3il4VkwTVhLx2BkOn4zzE2gofFqB"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e0d",
+    "product_id": "10194",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947352",
+      "#9c7352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1So3WKqxKTg4XT_lNqk564TBfIOJZ77uX"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e0e",
+    "product_id": "10195",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#bd9c7b",
+      "#bd9c84"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1zU1-cB0EX8rfKUOd-F1Y0zfuGRzoki8Q"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e0f",
+    "product_id": "10196",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b5a4a",
+      "#6b5242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1fQf0o2TYpW8D0gaxRnYoSDN5nwYiQwQt"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e10",
+    "product_id": "10197",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#735a4a",
+      "#6b5242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1xBnhLaPMbCciEwZPgBIo-0RySs_4BL1c"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e11",
+    "product_id": "10198",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c7b63",
+      "#8c6352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1BhJhTuRkuiMk7K5DO2G991-ZLVpNRHjN"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e12",
+    "product_id": "10199",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#846b5a",
+      "#735a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1uusHuuPwmM1NaMbwBg-GKmknFzXA1zFD"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e14",
+    "product_id": "10200",
+    "color_code": [
+      "red"
+    ],
+    "color_hex": [
+      "#8c3a3a",
+      "#943a3a",
+      "#944242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=13a2kYSqW6PE0n7H0hTbu4snyzLtnfx9W"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e15",
+    "product_id": "10201",
+    "color_code": [
+      "white",
+      "gray",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b635a",
+      "#73635a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1JII6auBM8RaydlSveHy_COJ-gzfdvs2V"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e16",
+    "product_id": "10202",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#633a29",
+      "#6b4231",
+      "#6b4a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1gXTwXzFWOIOCWR-ZB9Q4kwmkwZAJTR1w"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e17",
+    "product_id": "10203",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad6b52",
+      "#8c6b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1b3plkShlDB2sorl2t7d_zGJIzRNM04kJ"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e18",
+    "product_id": "10204",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#7b5a42",
+      "#634a3a",
+      "#84634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1AfQ-2EondoDdFz6as0_LZ8hggBSdtmPl"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e19",
+    "product_id": "10205",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b5a42",
+      "#84634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1KiyXY1FGRuZuZ_B_3e9gFuxZxuHdckpX"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e1a",
+    "product_id": "10206",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947352",
+      "#9c7b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1DDl4el1TLdMheekBCiSvrEANmSHtQoXJ"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e1b",
+    "product_id": "10207",
+    "color_code": [
+      "orange",
+      "red"
+    ],
+    "color_hex": [
+      "#94846b",
+      "#6b524a",
+      "#948473"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1p4CcIMxpDbI_O_6QC91kyfGSWtUB85AN"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e1c",
+    "product_id": "10208",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#6b5242",
+      "#634a3a",
+      "#635242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=17kqMP_G_KtoXuqN0mZZZw6XrBs4_UPBT"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e1d",
+    "product_id": "10209",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#7b6b52",
+      "#735a4a",
+      "#736352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1oVbq5ZYuVRpcBOb_h58H3sG9rVMv-OMY"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e1e",
+    "product_id": "10210",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c6b5a",
+      "#947363"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1LyU665h6ZoNSotsbaRBfKVUnux-UDDkV"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e1f",
+    "product_id": "10211",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c6b5a",
+      "#947363"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1r9GKdcH2doAszTkIb_MTlnqYjpJZGFA8"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e20",
+    "product_id": "10212",
+    "color_code": [
+      "white",
+      "red",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#bd8473",
+      "#b58473"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1lhmYfJeSCf4UuGO0UkFd-WO0zKE5D93m"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e21",
+    "product_id": "10213",
+    "color_code": [
+      "white",
+      "gray",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#635a52",
+      "#52423a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1vqC4ArZKjhMfUrKtxhnlefseUF9yfCgB"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e22",
+    "product_id": "10214",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#846b52",
+      "#8c735a",
+      "#7b634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1nCxXhAoGuqbqk60jvGXqTEvNnyX2s_sA"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e23",
+    "product_id": "10215",
+    "color_code": [
+      "white",
+      "gray",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b635a",
+      "#73635a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1r5CjoCrNla1gBfasqUVuGERj7SnHsmrD"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e24",
+    "product_id": "10216",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c7363",
+      "#a58c7b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1X8NXIIMgrzBjnqJGSlglFnFqJuUvziGr"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e25",
+    "product_id": "10217",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c4242",
+      "#943a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1b0vb_WDtYl2bBcIEzMuaSNPYv2ybD8JC"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e26",
+    "product_id": "10218",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#94735a",
+      "#9c7b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1m_wo0RNIvd1zuRr15-CMNlvx_zjjw0pr"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e27",
+    "product_id": "10219",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e28",
+    "product_id": "10220",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#8c7352",
+      "#947b5a",
+      "#8c6b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1LNv0lzfgFtki8KQcANbIRKDH_FuyeFcT"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e29",
+    "product_id": "10221",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#84634a",
+      "#8c6b52",
+      "#8c634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1W_xtU0I4NlALsBsyhKy02xDgz88f2NP_"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e2a",
+    "product_id": "10222",
+    "color_code": [
+      "white",
+      "orange",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c847b",
+      "#9c8c84"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1J05rpxfP3tVHkURCDmJG8JP6iRLcKn5j"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e2b",
+    "product_id": "10223",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#94735a",
+      "#7b5a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1QS5BUiexOfl9QE7A4-GD6uZHXBP7Ocr3"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e2c",
+    "product_id": "10224",
+    "color_code": [
+      "red",
+      "brown"
+    ],
+    "color_hex": [
+      "#945a4a",
+      "#8c6352",
+      "#946352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1hyjNhVD8xeCSWNIQpy76z4tcj-0IHnXx"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e2d",
+    "product_id": "10225",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c634a",
+      "#845a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1R0mdIzNu5gBplIrR7jz6W4cyQxwNIFQJ"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e2e",
+    "product_id": "10226",
+    "color_code": [
+      "orange"
+    ],
+    "color_hex": [
+      "#a5735a",
+      "#ad8c6b",
+      "#ad8463"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1C7FPeemeUwO8w1CnD_mD8lcTrE2g3but"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e2f",
+    "product_id": "10227",
+    "color_code": [
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#9c7b63",
+      "#94735a",
+      "#8c6b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=16ziZFuW1o9ooKWcNgy8a8JWUPWaVovTH"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e30",
+    "product_id": "10228",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c7363",
+      "#947b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1n6L9BMDGFowRVLHQcZijM5F1x3QkGjlB"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e31",
+    "product_id": "10229",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#845a4a",
+      "#846352",
+      "#8c6352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=12tKFy9nEMnyB7zv_DYpAkysX-_LSuOnO"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e32",
+    "product_id": "10230",
+    "color_code": [
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#84634a",
+      "#a5845a",
+      "#7b5a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1HUlZO-68c5JEyjKwFMdsS_bEuOetqWy9"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e33",
+    "product_id": "10231",
+    "color_code": [
+      "brown",
+      "red"
+    ],
+    "color_hex": [
+      "#7b5a4a",
+      "#7b3a3a",
+      "#733a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1jgYEX3xgw-DSKRliA7qdKJBje1h6OqCq"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e34",
+    "product_id": "10232",
+    "color_code": [
+      "orange"
+    ],
+    "color_hex": [
+      "#b5946b",
+      "#ad8c6b",
+      "#ad8c63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=16wu_uyusQQ-8NPCmIt3uMImrxHOxCP3Q"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e35",
+    "product_id": "10233",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e36",
+    "product_id": "10234",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e37",
+    "product_id": "10235",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad9473",
+      "#b59c7b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1dEN97AX817wwGELGjRJCAUF6S4f-ruuY"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e38",
+    "product_id": "10236",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#bd9473",
+      "#b58c6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1PeuWfSZTe2Fqtf7N4y1pwghUlqa5dCiw"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e39",
+    "product_id": "10237",
+    "color_code": [
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#9c846b",
+      "#947b63",
+      "#846352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1ByHo_C5bFxOAIafl1vCnT3DljygUgA8W"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e3a",
+    "product_id": "10238",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#63524a",
+      "#6b5a52",
+      "#7b6b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1pjc3aHzlb9sRsGzHV5uZPSmTZihG8jAM"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e3b",
+    "product_id": "10239",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#73634a",
+      "#635242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1krnVyilmzASrVmDWmF-BCtkVAn_f9dQM"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e3c",
+    "product_id": "10240",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e3d",
+    "product_id": "10241",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#8c6b52",
+      "#94735a",
+      "#84634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1l-ih8Ty5fkUeyem-SIWCpYjn6CUAot7p"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e3e",
+    "product_id": "10242",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#8c6b52",
+      "#84634a",
+      "#846b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1pTT0oQTtEL85xMJBclN8S3nsLxQLAoPf"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e3f",
+    "product_id": "10243",
+    "color_code": [
+      "orange"
+    ],
+    "color_hex": [
+      "#ad8c73",
+      "#a58c73",
+      "#b5947b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1wUUyq3Uo_TE3nmTcIArA2kR1lUjBBV3B"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e40",
+    "product_id": "10244",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e41",
+    "product_id": "10245",
+    "color_code": [
+      "red",
+      "brown"
+    ],
+    "color_hex": [
+      "#846b63",
+      "#8c736b",
+      "#7b635a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1DpDf-DVJlDVUkNPyJ3qva-mjY5rlY0cI"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e42",
+    "product_id": "10246",
+    "color_code": [
+      "red"
+    ],
+    "color_hex": [
+      "#8c524a",
+      "#945a52",
+      "#94524a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1DL9AhN5owSoRGwB4o2o_DgDwxVxGS_Vu"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e43",
+    "product_id": "10247",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#7b6b5a",
+      "#847363",
+      "#736352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1FCVKXR2lhcAPHhL8QyYCF9ZEC1HMsdXQ"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e44",
+    "product_id": "10248",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#947352",
+      "#8c7352",
+      "#8c6b4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=17KfhDUFtrQe92E49z7jBPMu97ZkmSejD"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e45",
+    "product_id": "10249",
+    "color_code": [
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#8c7363",
+      "#7b6352",
+      "#947b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=18iu71o4_nvu_PtuDyQCBXKhwnU05ng8i"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e46",
+    "product_id": "10250",
+    "color_code": [
+      "red",
+      "brown"
+    ],
+    "color_hex": [
+      "#63423a",
+      "#5a423a",
+      "#6b4a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1PnRMJf3UXPbDuCbAdXsS57oz5Es7JHVq"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e47",
+    "product_id": "10251",
+    "color_code": [
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#947b63",
+      "#846b5a",
+      "#9c846b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1L531js-C0IBr4EqkNrrJKfkmUrhTRlqq"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e48",
+    "product_id": "10252",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#735a4a",
+      "#9c6b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=14Rlvb1K0KqUpgPhEs-yO9zvYBPcgrmU2"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e49",
+    "product_id": "10253",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947b6b",
+      "#846b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1dISqXHcs8jWHLX2V-y_9yRigVbwqrsf_"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e4a",
+    "product_id": "10254",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#8c7b63",
+      "#8c7b6b",
+      "#847363"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1hYDgSWr5yxFY_6vYXT6TSULRXHf8zYeu"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e4b",
+    "product_id": "10255",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#7b6352",
+      "#846b5a",
+      "#7b6b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1i6v01DuQe0_jU0exZItraBPFoQkoYJYh"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e4c",
+    "product_id": "10256",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e4d",
+    "product_id": "10257",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#8c6b5a",
+      "#947363",
+      "#846b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1HkdBW1FrFdirppu_UI-_XCkvY6ktWDSz"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e4e",
+    "product_id": "10258",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c7b63",
+      "#a5846b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1E9pCqXix7ECJeb8XhxFtidfbIiS7qi1X"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e4f",
+    "product_id": "10259",
+    "color_code": [
+      "orange"
+    ],
+    "color_hex": [
+      "#a5846b",
+      "#ad8c73",
+      "#b5947b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1ZubifOciWq8WAAX0aQ4lQ55cEXAIuyZW"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e50",
+    "product_id": "10260",
+    "color_code": [
+      "orange"
+    ],
+    "color_hex": [
+      "#ad8c6b",
+      "#a58463",
+      "#b59473"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=11mXZ6yBPEjdYCB8NYSnDIju2NhVDdItc"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e51",
+    "product_id": "10261",
+    "color_code": [
+      "gray",
+      "orange"
+    ],
+    "color_hex": [
+      "#8c7b73",
+      "#9c8c7b",
+      "#948473"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1BbfhekuW5nn1NykPBjJ6KFyCSRkINdtw"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e52",
+    "product_id": "10262",
+    "color_code": [
+      "red"
+    ],
+    "color_hex": [
+      "#6b4a42",
+      "#6b524a",
+      "#73524a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=10po1iLTN7H88Qbq5yUskUIR9vdotMT_k"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e53",
+    "product_id": "10263",
+    "color_code": [
+      "red"
+    ],
+    "color_hex": [
+      "#844242",
+      "#7b4242",
+      "#843a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1YItBgHgEB4d1pYBRtRCmpoFY3zNIY2QF"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e54",
+    "product_id": "10264",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e55",
+    "product_id": "10265",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#845a42",
+      "#8c634a",
+      "#94634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1ZuGqcgGB8YEZyaagHlD8pObtweqjwBVH"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e56",
+    "product_id": "10266",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e57",
+    "product_id": "10267",
+    "color_code": [
+      "brown",
+      "orange",
+      "red"
+    ],
+    "color_hex": [
+      "#946352",
+      "#ad8c6b",
+      "#8c5a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1cUaeQts8W20E7wlWsvz5apsa_lmHKz1v"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e58",
+    "product_id": "10268",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e59",
+    "product_id": "10269",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#946b52",
+      "#9c735a",
+      "#8c6b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=16Y7kZO2vQkkz2fEMeIr510KhFDv3-6Bs"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e5a",
+    "product_id": "10270",
+    "color_code": [
+      "red"
+    ],
+    "color_hex": [
+      "#6b4a42",
+      "#63423a",
+      "#6b3131"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1W_Xxlbaf0AGbdSC2X-13eLZhPXkemkrH"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e5b",
+    "product_id": "10271",
+    "color_code": [
+      "orange"
+    ],
+    "color_hex": [
+      "#ad9473",
+      "#a58c6b",
+      "#b59c7b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1v7RWWMeF0u2cerwJD0UqgojikZBLYbkM"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e5c",
+    "product_id": "10272",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e5d",
+    "product_id": "10273",
+    "color_code": [
+      "orange"
+    ],
+    "color_hex": [
+      "#9c8c73",
+      "#a5947b",
+      "#a58c73"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Drt43HNQGOg9y1ErUBSR8769Am0qWzmh"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e5e",
+    "product_id": "10274",
+    "color_code": [
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#947b6b",
+      "#8c7363",
+      "#8c7b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=11ZZOtfAzR0kj15oElglD9z2-HZFys1oi"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e5f",
+    "product_id": "10275",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e60",
+    "product_id": "10276",
+    "color_code": [
+      "orange"
+    ],
+    "color_hex": [
+      "#ad9c8c",
+      "#a59484",
+      "#9c8c7b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1OiOcnh-A14q98BwcUnW0QPmiXHbGRhDu"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e61",
+    "product_id": "10277",
+    "color_code": [
+      "red"
+    ],
+    "color_hex": [
+      "#844242",
+      "#8c4a4a",
+      "#843a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Dx6Sbh06kbF0RreQC231sxNThosqV6_2"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e62",
+    "product_id": "10278",
+    "color_code": [
+      "orange"
+    ],
+    "color_hex": [
+      "#ad947b",
+      "#b59c84",
+      "#a58c73"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1CT0ln-ZRArEPyCex6bH8sm57Yj6pCL-W"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e63",
+    "product_id": "10279",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e64",
+    "product_id": "10280",
+    "color_code": [
+      "gray"
+    ],
+    "color_hex": [
+      "#9c9c9c",
+      "#84736b",
+      "#8c7b73"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1X9asB6mveaKOl8uTh_8zqLdGcLq6A95X"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e65",
+    "product_id": "10281",
+    "color_code": [
+      "gray",
+      "white"
+    ],
+    "color_hex": [
+      "#e6e6e6",
+      "#efefef",
+      "#ffffff"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1zE-d8B1FGzqKnGt04hziWGa2njH1gIA2"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e66",
+    "product_id": "10282",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e67",
+    "product_id": "10283",
+    "color_code": [
+      "orange"
+    ],
+    "color_hex": [
+      "#b59473",
+      "#bd9c7b",
+      "#ad8c6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1qnBvxgFOUlRHRKCEIjHxaEQ8n8LdyO_X"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e68",
+    "product_id": "10284",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#7b6b5a",
+      "#847363",
+      "#8c7b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1ReoIBjCMSGGbQk0oK8D5lrielBn7YNGw"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e69",
+    "product_id": "10285",
+    "color_code": [
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ad8c73",
+      "#946b5a",
+      "#9c7363"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1yW2cj1lWalnPldzDhT78OLHLdtk1logL"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e6a",
+    "product_id": "10286",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#6b5a4a",
+      "#736352",
+      "#635242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1OEdiu7CbhKDpNzZbV9-6E2WvMWOyvlSR"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e6b",
+    "product_id": "10287",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e6c",
+    "product_id": "10288",
+    "color_code": [
+      "white",
+      "gray",
+      "blue"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#191919",
+      "#101019"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1eSMtu9vvpIV6fnkLHEaVKtGVZ7TbiT-S"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e6d",
+    "product_id": "10289",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e6e",
+    "product_id": "10290",
+    "color_code": [
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#8c7b6b",
+      "#947b6b",
+      "#948473"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1xzD_F2opc2CGOIBmAfl9YjlF-A6V07J9"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e6f",
+    "product_id": "10291",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c8473",
+      "#9c7b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1FWWVrPuR0VP6JoqzcjtS4CfTAma9suiv"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e70",
+    "product_id": "10292",
+    "color_code": [
+      "white",
+      "gray",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b6b63",
+      "#73635a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1OIndZfwzwfPsFzXURsnncV4rfCE4aVhn"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e71",
+    "product_id": "10293",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e72",
+    "product_id": "10294",
+    "color_code": [
+      "white",
+      "black"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#080819",
+      "#080810"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=15CvDZQQUo9khXXJee6Zj1vr6SWJAtx49"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e73",
+    "product_id": "10295",
+    "color_code": [
+      "white",
+      "black"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#080819",
+      "#080810"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1_xOHb-Wq8B5dkPXVRhWUDSP1HMpxauzV"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e74",
+    "product_id": "10296",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e75",
+    "product_id": "10297",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e76",
+    "product_id": "10298",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ce7373",
+      "#d67b7b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=18CsCo14ACLZ_RAoGj1U_5ViGbp2YwSGt"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e77",
+    "product_id": "10299",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#731010",
+      "#7b1919"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1ja1gm-7RYx2dl2u-RdmglOMWZIp-g79d"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e79",
+    "product_id": "10300",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e7a",
+    "product_id": "10301",
+    "color_code": [
+      "white",
+      "orange",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#a5948c",
+      "#9c948c"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1rJi8V2ujsJ1W0txegb9-1p-w1dARGPin"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e7b",
+    "product_id": "10302",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#94846b",
+      "#8c7b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1ZCayhhZlqGIoiCXcIQSS6T39IYMkJAnZ"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e7c",
+    "product_id": "10303",
+    "color_code": [
+      "white",
+      "orange",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#94846b",
+      "#735a5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1v7LO6qCvyynv7UyHZLJW6JuXg0FohVJA"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e7d",
+    "product_id": "10304",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e7e",
+    "product_id": "10305",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#846352",
+      "#ad8c73"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1knrX_fVltlZOUbFWNoKqOPDfG9FVNlB7"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e7f",
+    "product_id": "10306",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#b5a594",
+      "#ad9c8c"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Ni5fvnTeB7F6f8FXm5WcWzbFXs0GDcMB"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e80",
+    "product_id": "10307",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#c5a58c",
+      "#bd9c84"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=19Dg0lXrENa2MuZMan6fEufbLQ7QG6UhR"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e81",
+    "product_id": "10308",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c8473",
+      "#ad9484"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1YYUMWLKV_p7LX9e3Atq1hhHUJu3lnvLs"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e82",
+    "product_id": "10309",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947363",
+      "#ad8c73"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1XTm0ejD1EbwFWbdyFi2B89mFYAuB0fM9"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e83",
+    "product_id": "10310",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e84",
+    "product_id": "10311",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#634a42",
+      "#6b524a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1dEOoMBLXJzgYqys3pBGg0OqmdK88m27b"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e85",
+    "product_id": "10312",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e86",
+    "product_id": "10313",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#a59484",
+      "#a58c7b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1VzhVRsWbWpg-Haxr85uhDs0UCb5qmpf_"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e87",
+    "product_id": "10314",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#a58c7b",
+      "#9c8473"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1S-gZYHg-rSNElcT1l46_ghORqUAA1ZWB"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e88",
+    "product_id": "10315",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#a58c84",
+      "#ad8c84"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1P2G_lrnyw8StBrNqP3XsFyMTGmevfY4-"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e89",
+    "product_id": "10316",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e8a",
+    "product_id": "10317",
+    "color_code": [
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#94735a",
+      "#9c7b63",
+      "#946b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1a-lcPOWjVTyihYHKaF4Vx-13dmbKT1iD"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e8b",
+    "product_id": "10318",
+    "color_code": [
+      "white",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c847b",
+      "#94847b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1S0I7mgBiI3SCxBCUcUTJF5GjjVFj9tDe"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e8c",
+    "product_id": "10319",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e8d",
+    "product_id": "10320",
+    "color_code": [
+      "white",
+      "red",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947b73",
+      "#9c8473"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1MgH4jncC13nuq8p_n8yT_C3gDFsqgsfL"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e8e",
+    "product_id": "10321",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b6352",
+      "#735a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1JWCnPTy_ZFNSE2zPbuLZHLlxPWkB42Ka"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e8f",
+    "product_id": "10322",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e90",
+    "product_id": "10323",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c6b5a",
+      "#846352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=11g1mrkhrwGdykTOD8hapFcKepz1KsI8o"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e91",
+    "product_id": "10324",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e92",
+    "product_id": "10325",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#844a4a",
+      "#845252"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1CUsvg0cHowpka2Yupt-fTwSWm8Zy1LgX"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e93",
+    "product_id": "10326",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e94",
+    "product_id": "10327",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad8c84",
+      "#b58c84"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1WoQ9JisGs9RihFmwDVbm5J3ZcebJKVGb"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e95",
+    "product_id": "10328",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#84634a",
+      "#9c7b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Ni-sFkz1r7nE4QjH4bTcUgZDzZ-YIRUa"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e96",
+    "product_id": "10329",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad947b",
+      "#efe6d6"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1lwpuKHTArxuYwEodswxHzFEQC-F1VJIs"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e97",
+    "product_id": "10330",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e98",
+    "product_id": "10331",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#843a21",
+      "#8c634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1fcT8S7RjSdjmqA_yYAYwLrd_jFrdVcNP"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e99",
+    "product_id": "10332",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#845252",
+      "#8c5252"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=17dsBf2tjQINSG_taYxFRwW23wdIGNyqR"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e9a",
+    "product_id": "10333",
+    "color_code": [
+      "white",
+      "orange",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#a58473",
+      "#8c736b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1CeZYLQjHhGvsdYU_lA9SkCnT3UtCm9RU"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e9b",
+    "product_id": "10334",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e9c",
+    "product_id": "10335",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e9d",
+    "product_id": "10336",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e9e",
+    "product_id": "10337",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1e9f",
+    "product_id": "10338",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ea0",
+    "product_id": "10339",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ea1",
+    "product_id": "10340",
+    "color_code": [
+      "white",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c7b73",
+      "#84736b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=14-4mcGSxZqBPZ5lMbHztLb1kttu5gSK9"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ea2",
+    "product_id": "10341",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad8c6b",
+      "#7b6352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1WxV5i0jt8ZuMAGeAby7gBt2-5ApdjoHP"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ea3",
+    "product_id": "10342",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c7363",
+      "#947b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1GoU08cQ5NbwO52dC-aQAKpXmUw3Pfjmx"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ea4",
+    "product_id": "10343",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ea5",
+    "product_id": "10344",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ea6",
+    "product_id": "10345",
+    "color_code": [
+      "white",
+      "red",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad847b",
+      "#ad8c7b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1vGQN2GpdZxRvRMA2RJ4eMUuqG2nwOSxP"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ea7",
+    "product_id": "10346",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947363",
+      "#8c6b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1YhS4kJ0IO5SXzFR2W9Pl14AaZrndN_LV"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ea8",
+    "product_id": "10347",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#a51919",
+      "#ad2119"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1BBUavBylBG5Ry9Vr_AslkcnL-BnX7QBZ"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ea9",
+    "product_id": "10348",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eaa",
+    "product_id": "10349",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c7363",
+      "#946b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1PxebpW4zAGOxfu_i_520g98ObS2OcvQg"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eab",
+    "product_id": "10350",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad635a",
+      "#ad5a52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1eQ-AF0vZOIYJ_WvGSJbo2fiv4uXUJbE4"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eac",
+    "product_id": "10351",
+    "color_code": [
+      "white",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b6b63",
+      "#84736b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1xKuGtoUVf4ZEw325lbY3CuTohSIR1MOa"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ead",
+    "product_id": "10352",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eae",
+    "product_id": "10353",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eaf",
+    "product_id": "10354",
+    "color_code": [
+      "white",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c8c84",
+      "#94847b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=16jBeVOjYFM63bYxlbybfV2HA0c91LpR1"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eb0",
+    "product_id": "10355",
+    "color_code": [
+      "black",
+      "red"
+    ],
+    "color_hex": [
+      "#101010",
+      "#8c736b",
+      "#080808"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1MlycpiCgWjad79DRQFiC-nAUnWH6sMOQ"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eb1",
+    "product_id": "10356",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad8473",
+      "#a57b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1IpKtyt_9ds0bZN2nUjcEY8v15V2vt7bj"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eb2",
+    "product_id": "10357",
+    "color_code": [
+      "white",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#94847b",
+      "#8c7b73"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=18PhhwV-mgyr5dPcEjcL1pFi9RntyS7RD"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eb3",
+    "product_id": "10358",
+    "color_code": [
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#948473",
+      "#9c8c7b",
+      "#8c7b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1h-Zl3jgUvCvLQZ_ioR6grcz8XiBuj6xK"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eb4",
+    "product_id": "10359",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c6b52",
+      "#946b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1NosEOG5isnhyBgWe4S5sXoNU8XnVXpnW"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eb5",
+    "product_id": "10360",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eb6",
+    "product_id": "10361",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eb7",
+    "product_id": "10362",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eb8",
+    "product_id": "10363",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad8c6b",
+      "#a58463"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=18FEHXDlSrxLw778orVlrZQtKrvIURQtg"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eb9",
+    "product_id": "10364",
+    "color_code": [
+      "brown",
+      "orange",
+      "red"
+    ],
+    "color_hex": [
+      "#8c7b6b",
+      "#947b6b",
+      "#846b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1k6xlMUliTsQF6Ewm0_xkYsPVWrgcyAdl"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eba",
+    "product_id": "10365",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ebb",
+    "product_id": "10366",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ebc",
+    "product_id": "10367",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c634a",
+      "#845a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1KmOKyxHGaTbfV7tFSCBvq2iHc6upALwr"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ebd",
+    "product_id": "10368",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ebe",
+    "product_id": "10369",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b5a52",
+      "#7b6b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=12ihBoltt3DtWYiCiQah00UyM0U5msozC"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ebf",
+    "product_id": "10370",
+    "color_code": [
+      "white",
+      "teal",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#31423a",
+      "#de948c"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1L55kYXJ5CBtlBuSUxm2Kzk5tMkxz70yN"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ec0",
+    "product_id": "10371",
+    "color_code": [
+      "white",
+      "orange",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c847b",
+      "#a58c84"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1lZXClqeSoj1kflb7m-5XjtQ_oIgsCUuF"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ec1",
+    "product_id": "10372",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ec2",
+    "product_id": "10373",
+    "color_code": [
+      "red",
+      "brown"
+    ],
+    "color_hex": [
+      "#8c5242",
+      "#7b6352",
+      "#846b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1LzluZ5zcUACuCH9g7Ht2VNiObxQCQGk8"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ec3",
+    "product_id": "10374",
+    "color_code": [
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#8c6b52",
+      "#a57b63",
+      "#9c735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=19AcgjTmT6ZqVsU5GPvNoK18s83u8FfOr"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ec4",
+    "product_id": "10375",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b5a52",
+      "#84635a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1hbQ0_Sxs6NhJ6bjVLqqgiBC0BP_t3l14"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ec5",
+    "product_id": "10376",
+    "color_code": [
+      "white",
+      "yellow",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#f7efce",
+      "#846b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=16xifs9Ap5BfvO2AnY7UKBCr25HXWpteI"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ec6",
+    "product_id": "10377",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#847363",
+      "#b59c8c"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=15S5mzGx27kK7rvB3vE-OX0r9VpG7m6rK"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ec7",
+    "product_id": "10378",
+    "color_code": [
+      "white",
+      "blue"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#213a5a",
+      "#293a5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Vs66PV4lSS0V0nvjql9AOHsBxnWjg-j8"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ec8",
+    "product_id": "10379",
+    "color_code": [
+      "white",
+      "orange",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad947b",
+      "#6b5252"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=12F-u0I_l-Glid0oCoRAaBdL58gLCtxj6"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ec9",
+    "product_id": "10380",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947363",
+      "#8c6b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1oMIHRqIhDvvGt2Y9WTQUlofdYgGXC6WK"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eca",
+    "product_id": "10381",
+    "color_code": [
+      "brown",
+      "yellow"
+    ],
+    "color_hex": [
+      "#6b5242",
+      "#6b634a",
+      "#735a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=13BRjVv0W6Ri3kbCPpV6Ri3q1ed1xPOf2"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ecb",
+    "product_id": "10382",
+    "color_code": [
+      "red"
+    ],
+    "color_hex": [
+      "#731010",
+      "#7b1019",
+      "#731019"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1psl7RGgb_76dQ1VWxAYPO0ft1WigJX6l"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ecc",
+    "product_id": "10383",
+    "color_code": [
+      "red"
+    ],
+    "color_hex": [
+      "#6b0810",
+      "#630810",
+      "#5a1919"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1_tEgtHirQHzlEsV0oAy0V_a3hd7YqXIQ"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ecd",
+    "product_id": "10384",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#c5b5a5",
+      "#bdad9c"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=17dPnTAtIfKxpnrzyq8wd2_F75fGnHBgI"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ece",
+    "product_id": "10385",
+    "color_code": [
+      "white",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#736b6b",
+      "#6b6363"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=10wfD-DBQRMSOWTdSB1NfARILpLRjyC1C"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ecf",
+    "product_id": "10386",
+    "color_code": [
+      "red"
+    ],
+    "color_hex": [
+      "#b57373",
+      "#bd7b7b",
+      "#b56b73"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1HHS2f-bA_yq4aipYhgrFI6FKQ3ey4yvC"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ed0",
+    "product_id": "10387",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ed1",
+    "product_id": "10388",
+    "color_code": [
+      "gray",
+      "brown"
+    ],
+    "color_hex": [
+      "#212929",
+      "#7b6b63",
+      "#73635a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1PmOQg6BWUaFaWaEnrY79NGvC9acZgvBN"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ed2",
+    "product_id": "10389",
+    "color_code": [
+      "gray"
+    ],
+    "color_hex": [
+      "#8c7b73",
+      "#8c847b",
+      "#94847b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=13WykY-Hf_m-hH4aKSdLrAdKMKEefx55X"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ed3",
+    "product_id": "10390",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad8452",
+      "#c58c63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1POHxxgOmXjU8mH9PRGmeYsS5eCrbmHHN"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ed4",
+    "product_id": "10391",
+    "color_code": [
+      "white",
+      "orange",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#a5948c",
+      "#948c84"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1fTHloVmOrUJKURwsta_TCcVknsdItLXh"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ed5",
+    "product_id": "10392",
+    "color_code": [
+      "white",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b7b84",
+      "#848484"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1NT0Y1VJEjGow_Hc8H8jeJRb0lVNB66VF"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ed6",
+    "product_id": "10393",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#736352",
+      "#635a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1BCcDukaN-_yftDwKsraQiOAIGWltNFvf"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ed7",
+    "product_id": "10394",
+    "color_code": [
+      "gray"
+    ],
+    "color_hex": [
+      "#212929",
+      "#293131",
+      "#847b73"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1iJl9CSlL9XCZ1dQUN6xEggS1nf2v9cy6"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ed8",
+    "product_id": "10395",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1ed9",
+    "product_id": "10396",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1eda",
+    "product_id": "10397",
+    "has_image": false,
+    "image_url": null
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1edb",
+    "product_id": "10398",
+    "color_code": [
+      "white",
+      "blue",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#212131",
+      "#63423a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1c35zcjalTabBz_3c9eG5-oT8Mr1XyNvo"
+  },
+  {
+    "_id": "68bf89d63e2af215b68e1edc",
+    "product_id": "10399",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b5252",
+      "#735a52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1zlnOchJD4m-GeY3y4OE0quWKrNkP1vWr"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738a6",
+    "product_id": "10401",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#734a3a",
+      "#84634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1fuyj1NF2_ckeviXTVbdSlCt-Hdb8AgcV"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738ab",
+    "product_id": "10402",
+    "color_code": [
+      "white",
+      "brown",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c7363",
+      "#947b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Q8zh8dAImbC_VvILbeajvvtRR_1zoJTT"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738b0",
+    "product_id": "10403",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#a5846b",
+      "#9c735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1olcLFAH5ZynHmIATc6Lr8recNwKr377S"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738b3",
+    "product_id": "10404",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b6352",
+      "#846b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1j27A4uxojgr0uw9FqKQVdkNsJM9exLN8"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738b6",
+    "product_id": "10405",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c634a",
+      "#946b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Nd4KniygAzWn3rL5qJ0LEmD63SByj_OM"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738b9",
+    "product_id": "10406",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c7b63",
+      "#94735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1IISvE52Wqigy7dJ7coO2QoPecuGTVVGH"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738bc",
+    "product_id": "10407",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c634a",
+      "#946b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1PFuc0npMyCBJVOXstceRVFlSaaTZiBhO"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738bf",
+    "product_id": "10408",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad8c6b",
+      "#b59473"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1UjoXu5J8DvzcBOxoHkktJAMtS9QCkllc"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738c2",
+    "product_id": "10409",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#a57b63",
+      "#9c735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=10ARZMMIbRGz5Mfi6e3YTKkHsXeL0Wv8p"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738c5",
+    "product_id": "10410",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ad8c6b",
+      "#b59473"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1xWEOKZ_UXlCJfSp88Z-as9Vv-DFXKsEx"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738c8",
+    "product_id": "10411",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b3a3a",
+      "#734242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1HdXF4TgJS3g_CEzgwbCWeU8FArR0K0b_"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738cb",
+    "product_id": "10412",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c846b",
+      "#947b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1R-rYejknIqDsObZodW0LR_thbP20jvEt"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738ce",
+    "product_id": "10413",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c735a",
+      "#7b634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1EABoj9KWVzZcE8Etz9UEsCVP7sMKsQ-B"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738d1",
+    "product_id": "10416",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#735a52",
+      "#846b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1ziP3uavup_ZImt3zkV0tZTi9UiXnA1Eg"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738d4",
+    "product_id": "10417",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c6352",
+      "#946b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1XVI0OhMa2t-RD31KUtQdSZpcRsbSKSXb"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738d7",
+    "product_id": "10418",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#bd946b",
+      "#bd9473"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1b528ZESEqhRu6A6Qfjf5WT4YBcrOuvU1"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738da",
+    "product_id": "10420",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b6352",
+      "#94735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1omuDNPK2BkYi5yNgB02MJPYPDBs3E58P"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738dd",
+    "product_id": "10421",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b5242",
+      "#735a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1LZXF96xi5PosPp_1tvio-zu11vQboYMu"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738e0",
+    "product_id": "10422",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#847363",
+      "#8c7b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=18kekRxLgtOLIfSm-sM_g62ngotk4mpob"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738e3",
+    "product_id": "10423",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c846b",
+      "#a58c73"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1JDQnT2a9qMVSJGjLKeS_1GU2jV-dCSAI"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738e6",
+    "product_id": "10424",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#84634a",
+      "#6b4a3a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1YsRnndyboO3mbtBUwTTDC9HwxEybNFD5"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738e9",
+    "product_id": "10425",
+    "color_code": [
+      "white",
+      "red",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#947b73",
+      "#947b6b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1KKMQGJ5IyLyQRsR0oSp6Zqib4D1V3giG"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738ec",
+    "product_id": "10427",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b423a",
+      "#633a31"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=17WvkbskHA1a9p2MFe_8iV-fcSXMSRET9"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738ef",
+    "product_id": "10429",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#b59c84",
+      "#bda584"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1ERJ_CvwOapFXSnV03oHhtmL7qs9xVf4W"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738f2",
+    "product_id": "10431",
+    "color_code": [
+      "red"
+    ],
+    "color_hex": [
+      "#a5293a",
+      "#a52131",
+      "#9c2131"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1rM449mBYeuBSmkREGgWWvk5l4hIEq1ft"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738f5",
+    "product_id": "10432",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b4a42",
+      "#634a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1ncW4JxzbekXJQodz8BNvIbWVGvNRkQJW"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738f8",
+    "product_id": "10433",
+    "color_code": [
+      "gray",
+      "brown"
+    ],
+    "color_hex": [
+      "#524a42",
+      "#4a423a",
+      "#52423a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=10cazz4dwpWWPVH28D8AoKluChEhuMLuC"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738fb",
+    "product_id": "10434",
+    "color_code": [
+      "red",
+      "gray"
+    ],
+    "color_hex": [
+      "#735a52",
+      "#5a4a4a",
+      "#7b5a52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1T-M7QJFEyNP8yC3xiN_xIEIo5NRg7TRn"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e738fe",
+    "product_id": "10436",
+    "color_code": [
+      "white",
+      "gray"
+    ],
+    "color_hex": [
+      "#efefef",
+      "#e6e6e6",
+      "#ffffff"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1dnF46HTiRBCSHAYqwDF7cvN-XqurLsJg"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73901",
+    "product_id": "10437",
+    "color_code": [
+      "brown",
+      "gray"
+    ],
+    "color_hex": [
+      "#736352",
+      "#524a42",
+      "#5a4a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1qoFoda0LHIfVSMfwB6sWtGWPZSY9T4_U"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73904",
+    "product_id": "10438",
+    "color_code": [
+      "orange",
+      "red"
+    ],
+    "color_hex": [
+      "#947b6b",
+      "#8c736b",
+      "#846b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=150T_qkaN8EUahYRIO8Rf7lfHneBAnmBn"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73907",
+    "product_id": "10441",
+    "color_code": [
+      "red",
+      "brown"
+    ],
+    "color_hex": [
+      "#8c3a31",
+      "#73635a",
+      "#7b635a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1pNldF98nm2yGAy2BSPTQpw-9QYVZQRMP"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7390a",
+    "product_id": "10442",
+    "color_code": [
+      "red",
+      "brown"
+    ],
+    "color_hex": [
+      "#8c1919",
+      "#942121",
+      "#735a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1uLodhgEaWmDKbxl9pCRZZ0P14-pJN4qK"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7390d",
+    "product_id": "10451",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c7b4a",
+      "#947342"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1AWkyDlEJ3Ky__YyqEIhQPRTXKatnc3-_"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73910",
+    "product_id": "10472",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#ceb58c",
+      "#d6bd94"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=10JbchorkJgreGnhGy5KPkDFM8yRBOxHk"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73913",
+    "product_id": "11601",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c635a",
+      "#946b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=17PC2AMcJlwmMXnX4pt2tqU-_CJWfQ9Os"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73916",
+    "product_id": "13017",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c634a",
+      "#845a42"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1FINwGwAqsXirFMw12SLTel5XUH6V1VbV"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73919",
+    "product_id": "13101",
+    "color_code": [
+      "black",
+      "gray",
+      "brown"
+    ],
+    "color_hex": [
+      "#000000",
+      "#7b7b73",
+      "#6b5a52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1mxsnk1aJK2CgjKGSO9J_6I-wWfwnvt6P"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7391c",
+    "product_id": "13293",
+    "color_code": [
+      "black",
+      "brown"
+    ],
+    "color_hex": [
+      "#000000",
+      "#6b4a3a",
+      "#735242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Ru0RoE0RMEHvMnlltlnQVcWgUXHMUSO9"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7391f",
+    "product_id": "13296",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#735a4a",
+      "#846b52",
+      "#7b6352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1OHQxrvVycaV4WmiosFINntCzlutDvD69"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73922",
+    "product_id": "13297",
+    "color_code": [
+      "orange"
+    ],
+    "color_hex": [
+      "#b59c84",
+      "#bda58c",
+      "#ad947b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1QZEb6JA8e-WDxEJeeeCCAU6oXiXiYFZl"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73925",
+    "product_id": "13758",
+    "color_code": [
+      "white",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#736b6b",
+      "#737373"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1TysaNiEVFRbWo4esSuvL5Zp2Zhvfl6WD"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73928",
+    "product_id": "13759",
+    "color_code": [
+      "white"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#f7f7f7",
+      "#efefef"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1D8p0zUVJ2-avDZ7qzZ3dBuua6WZs_4sY"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7392b",
+    "product_id": "14360",
+    "color_code": [
+      "red",
+      "brown"
+    ],
+    "color_hex": [
+      "#732129",
+      "#634a3a",
+      "#6b5242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1RDXb6pXGEsIoD6mX-mZtyuIFY2mKP-wT"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7392e",
+    "product_id": "14440",
+    "color_code": [
+      "black",
+      "brown"
+    ],
+    "color_hex": [
+      "#000000",
+      "#634a3a",
+      "#6b5242"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1PM01AlaT8RAJ1h85WpS5N1_F1u3de8UH"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73931",
+    "product_id": "14442",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#846b52",
+      "#8c735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1qQu48dm0ohojjCwmDN9B2pV0UbC5oUV1"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73934",
+    "product_id": "14443",
+    "color_code": [
+      "orange"
+    ],
+    "color_hex": [
+      "#a58c73",
+      "#a5846b",
+      "#ad947b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1mD4klz-sQJnOh2B50bj0phorGCvUJj7Q"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73937",
+    "product_id": "14479",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#8c7363",
+      "#8c735a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1HRqVhLDgVT33tTzSFywZ-KH56Zc80on9"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7393a",
+    "product_id": "14890",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#b5947b",
+      "#ad8c73"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1tFOY4BaNjMmFJdGXD5_KrxbQUp-tWplM"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7393d",
+    "product_id": "15077",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#6b5a52",
+      "#73635a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1c5UbxLrW3hC_1UsQreRGYZM34qRl15MA"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73940",
+    "product_id": "15081",
+    "color_code": [
+      "gray"
+    ],
+    "color_hex": [
+      "#ada59c",
+      "#a59c94",
+      "#94847b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Seki_M8qXLZwVv5xO8vKLZM-A5l8PCaY"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73943",
+    "product_id": "15101",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#846b5a",
+      "#8c7363"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=15H_1JtGY1I9Whwz04f7W9IN9gSBFpPWR"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73946",
+    "product_id": "15114",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#52423a",
+      "#6b5a52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1fy_5LvaZJ_-QdKFNDBxub1raM4sD5aus"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73949",
+    "product_id": "15191",
+    "color_code": [
+      "white",
+      "red",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#5a3131",
+      "#735a4a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1BqmL2jJ7QKH1o2bZsT8Z20_TnQdtV3X8"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7394c",
+    "product_id": "16450",
+    "color_code": [
+      "white",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b5a4a",
+      "#84634a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1P2-snbEnNoboHOptUc8Ey-75CKmYGIwX"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7394f",
+    "product_id": "16476",
+    "color_code": [
+      "brown",
+      "gray"
+    ],
+    "color_hex": [
+      "#5a4a42",
+      "#3a3a3a",
+      "#5a423a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1iVQ9ve8UrXPp0_8AvfQnYuxMGcDy3ryF"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73952",
+    "product_id": "16523",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#944a52",
+      "#94424a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1xH4Vnkyn9ovdij80rpntheX6uKhrUGK8"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73955",
+    "product_id": "16532",
+    "color_code": [
+      "red",
+      "brown"
+    ],
+    "color_hex": [
+      "#312121",
+      "#3a2929",
+      "#3a2921"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1NwoiGOOrF047KySdEPd6h0dSMFSB41hX"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73958",
+    "product_id": "16533",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#634a31",
+      "#6b523a",
+      "#5a4231"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Ixu_7RzE7wPu7esRbOs8vx4lFw3ttV2L"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7395b",
+    "product_id": "16547",
+    "color_code": [
+      "white",
+      "orange"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c8c73",
+      "#94846b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1E-fxtnsAZigAMjGA04dlQQSyBrthno_X"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7395e",
+    "product_id": "16548",
+    "color_code": [
+      "white",
+      "brown",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#73635a",
+      "#7b6b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1R0aGnOSoiefKKW-CG0HFtu76OO-Q81Bp"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73961",
+    "product_id": "16549",
+    "color_code": [
+      "white",
+      "gray",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#7b6363",
+      "#b5736b"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1MWtsKNqaa4SX1z75N3C4-xOrIV75MFAh"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73964",
+    "product_id": "15198",
+    "color_code": [
+      "white",
+      "red"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#735a52",
+      "#846b63"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1KfSufRvpObKkwfpTTm6jwE2RTFQIuS_7"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73967",
+    "product_id": "15237",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#735a4a",
+      "#6b5242",
+      "#846b52"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1oINUF5gR8SNZJQNUhfYBjVDBrCR5SrD-"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7396a",
+    "product_id": "15356",
+    "color_code": [
+      "white",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#9c8c84",
+      "#c5c5bd"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1RbOEyxdVxKhcPvMWvSLK_L-5LGW8g6BE"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e7396d",
+    "product_id": "16189",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#8c6b52",
+      "#7b5a4a",
+      "#947b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1XDILcDPC8gzz3MXnKS-vV03fYImfujzc"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73970",
+    "product_id": "16192",
+    "color_code": [
+      "white",
+      "orange",
+      "brown"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#a58463",
+      "#9c7b5a"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1Frl6HJCKtA0vM52xoJqypkBoElUfSJtn"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73973",
+    "product_id": "16194",
+    "color_code": [
+      "brown"
+    ],
+    "color_hex": [
+      "#947b63",
+      "#8c735a",
+      "#847352"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1DmkPUDiv0a-2aoOrhkTnT2V__EHr8CIg"
+  },
+  {
+    "_id": "68bfa486b8548c8ef1e73976",
+    "product_id": "16390",
+    "color_code": [
+      "white",
+      "gray"
+    ],
+    "color_hex": [
+      "#ffffff",
+      "#736363",
+      "#6b6363"
+    ],
+    "has_image": true,
+    "image_url": "https://drive.google.com/uc?export=view&id=1q_ta8OKx9f5DAWJQ9a45X8mjgL3ZSC4E"
+  }
+]
