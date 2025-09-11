@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { tryFetchWithRetries } from '../../../../lib/adminApiProxy';
 
 const ORIGIN = process.env.ADMIN_API_ORIGIN || 'http://127.0.0.1:5000';
 
@@ -31,11 +32,12 @@ async function forward(
   }
 
   try {
-    const r = await fetch(target, init);
+    const r = await tryFetchWithRetries(target, init);
+    // Forward upstream status and headers/body
     return new NextResponse(r.body, { status: r.status, headers: r.headers });
-  } catch {
+  } catch (e) {
     return NextResponse.json(
-      { error: 'backend_unreachable', message: 'Admin API is not available' },
+      { error: 'backend_unreachable', message: 'Admin API is not available', detail: e && e.message ? e.message : undefined },
       { status: 502 }
     );
   }
