@@ -1,19 +1,52 @@
 import { NextRequest, NextResponse } from "next/server";
+import { tryFetchWithRetries } from '../../../../lib/adminApiProxy';
 export const dynamic = "force-dynamic";
 
-const API_BASE = process.env.API_BASE || "http://localhost:5000";
+// Prefer explicit env, but during local development force the local admin API to avoid
+// accidentally proxying to a remote/stale backend. Remove this override when debugging is done.
+const API_BASE = process.env.API_BASE || process.env.ADMIN_API_ORIGIN || "http://127.0.0.1:5000";
 
 export async function GET(req: NextRequest) {
-  const url   = new URL(req.url);
-  const limit = url.searchParams.get("limit") ?? "24";
-  const page  = url.searchParams.get("page")  ?? "1";
+  // Use req.nextUrl to safely access incoming searchParams (handles relative URLs)
+  const incoming = req.nextUrl;
+  const upstream = new URL(`${API_BASE}/admin-api/products`);
+  incoming.searchParams.forEach((value, key) => upstream.searchParams.set(key, value));
 
-  // Express list endpoint’ine proxy
-  const r = await fetch(`${API_BASE}/admin-api/products?limit=${limit}&page=${page}`, { cache: "no-store" });
+  // Ensure public listing defaults: only active, public products unless caller overrides
+  if (!upstream.searchParams.has('status')) upstream.searchParams.set('status', 'active');
+  if (!upstream.searchParams.has('visibility')) upstream.searchParams.set('visibility', 'public');
+  // Ensure default to image-bearing products unless caller explicitly opts out
+  if (!upstream.searchParams.has('has_image') && !upstream.searchParams.has('include_no_image')) {
+    upstream.searchParams.set('has_image', '1');
+  }
+
+  const r = await tryFetchWithRetries(upstream.toString(), { cache: "no-store" });
   if (!r.ok) {
+    // If upstream explicitly reports 404, forward 404 to caller; otherwise treat as upstream error
+    if (r.status === 404) return NextResponse.json({ error: 'not_found' }, { status: 404 });
     return NextResponse.json({ error: "upstream_error", status: r.status }, { status: 502 });
   }
   const data = await r.json();
+
+  // If caller asked only for a count, upstream already handled it.
+  if (upstream.searchParams.get('count_only') === '1' || upstream.searchParams.get('count_only') === 'true') {
+    return NextResponse.json(data);
+  }
+
+  // Otherwise, request an authoritative total from upstream using count_only
+  try {
+    const countUrl = new URL(upstream.toString());
+    countUrl.searchParams.set('count_only', '1');
+    const cr = await tryFetchWithRetries(countUrl.toString(), { cache: 'no-store' });
+    if (cr.ok) {
+      const cjson = await cr.json();
+      if (typeof cjson.total === 'number') data.total = cjson.total;
+    }
+  } catch (e) {
+    // ignore count failure and return original payload
+    console.warn('[proxy] count fetch failed', e && e.message ? e.message : e);
+  }
+
   return NextResponse.json(data);
 }
 
