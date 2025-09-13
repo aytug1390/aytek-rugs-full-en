@@ -1,0 +1,6 @@
+
+> aytek-rugs-full-en@1.0.0 dev:api
+> node server/index.js
+
+[api] running on 0.0.0.0:5000
+[api] Mongo connected to DB: aytekdb

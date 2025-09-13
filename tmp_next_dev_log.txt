@@ -1,0 +1,47 @@
+
+> dev
+> concurrently -k -n WEB,API -c "blue.bold,green.bold" "npm:dev:web" "npm:dev:api"
+
+(node:167524) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[WEB] 
+[WEB] > dev:web
+[WEB] > cd aytek-rugs-full-en && next dev
+[WEB] 
+[API] 
+[API] > dev:api
+[API] > cd aytek-rugs-full-en && node server/index.js
+[API] 
+[API] [api] running on 0.0.0.0:5000
+[API] [api] Mongo connected to DB: aytekdb
+[WEB]    ▲ Next.js 15.5.2
+[WEB]    - Local:        http://localhost:3000
+[WEB]    - Network:      http://192.168.1.218:3000
+[WEB]    - Environments: .env.local, .env
+[WEB] 
+[WEB]  ✓ Starting...
+[WEB]  ✓ Ready in 2.4s
+[WEB]  ○ Compiling /api/admin-api/products ...
+[WEB]  ✓ Compiled /api/admin-api/products in 1693ms (297 modules)
+[WEB]  GET /admin-api/products?limit=1&page=1 200 in 1972ms
+[WEB]  ○ Compiling /category/[slug] ...
+[WEB]  ✓ Compiled /category/[slug] in 971ms (695 modules)
+[WEB]  GET /category/traditional 200 in 2767ms
+[WEB]  ○ Compiling /api/auth/[...nextauth] ...
+[WEB]  ✓ Compiled /api/auth/[...nextauth] in 8.3s (930 modules)
+[WEB]  GET /api/auth/session 200 in 13097ms
+[WEB]  ○ Compiling /all-rugs ...
+[WEB]  ✓ Compiled /all-rugs in 2.2s (737 modules)
+[WEB]  GET /all-rugs 200 in 2704ms
+[WEB]  ✓ Compiled in 548ms (300 modules)
+[WEB]  GET /all-rugs 200 in 178ms
+[WEB]  GET /all-rugs 200 in 53ms
+[WEB]  ✓ Compiled /api/admin-api/products in 326ms (456 modules)
+[WEB]  GET /admin-api/products?limit=24&page=1 200 in 752ms
+[WEB]  GET /admin-api/products?limit=24&page=1 200 in 787ms
+[WEB]  GET /admin-api/products?limit=24&page=1 200 in 511ms
+[WEB]  GET /all-rugs 200 in 1004ms
+[WEB] [?25h
+[WEB] npm run dev:web exited with code 0
+--> Sending SIGTERM to other processes..
+[API] npm run dev:api exited with code 1

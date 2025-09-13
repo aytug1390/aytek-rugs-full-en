@@ -1,0 +1,29 @@
+{
+  "hints": {},
+  "connector": {
+    "name": "local",
+    "options": {
+      "pattern": [
+        "**",
+        "!.git/**",
+        "!.next/**",
+        "!node_modules/**",
+        "!archive/**",
+        "!archive_root_legacy-*/**",
+        "!secrets-archive-*/**",
+        "!*/archive/**",
+        "!tmp/*.html",
+        "!tmp/**"
+      ]
+    }
+  },
+  "ignoredUrls": [
+    { "domain": ".*\\/\\.next\\/.*", "hints": ["*"] },
+    { "domain": ".*\\/node_modules\\/.*", "hints": ["*"] },
+    { "domain": ".*\\/archive_root_legacy-.*\\/.*", "hints": ["*"] },
+    { "domain": ".*\\/secrets-archive-.*\\/.*", "hints": ["*"] }
+    ,{ "domain": ".*\\/tmp\\/.*", "hints": ["*"] },
+    { "domain": ".*tmp_page\\.html$", "hints": ["*"] }
+  ]
+  
+}
