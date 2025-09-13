@@ -57,19 +57,18 @@ jobs:
         run: |
           npm run start &> /tmp/next.log &
           echo $! > /tmp/next.pid
-          # Wait until /api/_health or /api/health returns 200
+          # Wait until /api/health returns 200 (simpler and matches current server)
           for i in {1..40}; do
-            if curl -sf http://localhost:3001/api/_health >/dev/null; then
-              echo "Health _OK"; break
-            fi
             if curl -sf http://localhost:3001/api/health >/dev/null; then
               echo "Health OK"; break
             fi
             sleep 1
           done
-          echo "--- Health probe results ---"
-          curl -i http://localhost:3001/api/_health || true
+          echo "--- Health probe result ---"
           curl -i http://localhost:3001/api/health || true
+
+          # If you want the `valid-token` test to run, ensure ADMIN_SECRET is set in repo secrets
+          # and available as env above. It's currently wired but may be empty in CI.
 
       - name: Run admin auth tests (no demo secret)
         if: ${{ success() }}
