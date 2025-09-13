@@ -21,7 +21,8 @@ jobs:
     env:
       NODE_ENV: production
       APP_URL: http://localhost:3001
-      # No secrets at job-level to avoid accidental exposure in build logs.
+      # Bind AYTEKRUGS secret into ADMIN_SECRET for the job
+      ADMIN_SECRET: ${{ secrets.AYTEKRUGS }}
     defaults:
       run:
         working-directory: admin-app
