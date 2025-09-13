@@ -7,7 +7,7 @@
     "build": "cross-env next build",
     "start": "cross-env next start -p 3001",
     "test:admin": "cross-env node scripts/test-admin-auth.js",
-  "smoke:admin": "cross-env node scripts/smoke-login.js",
+    "smoke:admin": "cross-env node scripts/smoke-login.js",
     "dev:demo": "cross-env ADMIN_SECRET=dev-secret next dev -p 3001",
     "test:admin:demo": "cross-env ADMIN_SECRET=dev-secret node scripts/test-admin-auth.js"
   },
@@ -18,9 +18,10 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@types/node": "^20.19.14",
     "@types/react": "19.1.13",
     "cross-env": "^10.0.0",
-    "typescript": "^5.2.2",
-    "@types/node": "^20.0.0"
+    "eslint": "^9.35.0",
+    "typescript": "^5.9.2"
   }
 }
