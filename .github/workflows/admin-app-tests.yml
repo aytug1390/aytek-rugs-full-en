@@ -1,0 +1,107 @@
+name: Admin App Tests
+
+on:
+  push:
+    paths:
+      - 'admin-app/**'
+      - '.github/workflows/admin-app-tests.yml'
+  pull_request:
+    paths:
+      - 'admin-app/**'
+      - '.github/workflows/admin-app-tests.yml'
+
+concurrency:
+  group: admin-app-tests-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  admin-app:
+    runs-on: ubuntu-latest
+    environment: production
+    env:
+      NODE_ENV: production
+      APP_URL: http://localhost:3001
+      # No secrets at job-level to avoid accidental exposure in build logs.
+    defaults:
+      run:
+        working-directory: admin-app
+        shell: bash
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: admin-app/package-lock.json
+
+      - name: Install deps
+        run: npm ci || npm i --no-audit --no-fund
+
+      - name: Build (prod)
+        run: npm run build
+
+      - name: Start server (prod) in background
+        env:
+          ADMIN_SECRET: ${{ secrets.ADMIN_SECRET }}
+          ADMIN_USERNAME: ${{ secrets.ADMIN_USERNAME }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+          JWT_SECRET: ${{ secrets.JWT_SECRET }}
+          REDIS_URL: ${{ secrets.REDIS_URL }}
+          PORT: 3001
+        run: |
+          npm run start &> /tmp/next.log &
+          echo $! > /tmp/next.pid
+          # Wait until /api/_health or /api/health returns 200
+          for i in {1..40}; do
+            if curl -sf http://localhost:3001/api/_health >/dev/null; then
+              echo "Health _OK"; break
+            fi
+            if curl -sf http://localhost:3001/api/health >/dev/null; then
+              echo "Health OK"; break
+            fi
+            sleep 1
+          done
+          echo "--- Health probe results ---"
+          curl -i http://localhost:3001/api/_health || true
+          curl -i http://localhost:3001/api/health || true
+
+      - name: Run admin auth tests (no demo secret)
+        if: ${{ success() }}
+        shell: bash
+        env:
+          ADMIN_USERNAME: ${{ secrets.ADMIN_USERNAME }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+          JWT_SECRET: ${{ secrets.JWT_SECRET }}
+          REDIS_URL: ${{ secrets.REDIS_URL }}
+        run: |
+          set -euo pipefail
+          # run tests without printing secrets
+          npm run test:admin
+
+      - name: Run smoke login test
+        if: ${{ success() }}
+        shell: bash
+        env:
+          ADMIN_USERNAME: ${{ secrets.ADMIN_USERNAME }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+          JWT_SECRET: ${{ secrets.JWT_SECRET }}
+          REDIS_URL: ${{ secrets.REDIS_URL }}
+        run: |
+          set -euo pipefail
+          # smoke test: avoid printing secrets
+          echo "Running smoke:admin (CSRF -> login -> /admin)"
+          npm run smoke:admin
+
+      - name: Print server logs on failure
+        if: failure()
+        run: |
+          echo "----- NEXT LOG -----"
+          cat /tmp/next.log || true
+
+      - name: Shutdown server
+        if: always()
+        run: |
+          if [ -f /tmp/next.pid ]; then kill $(cat /tmp/next.pid) || true; fi
