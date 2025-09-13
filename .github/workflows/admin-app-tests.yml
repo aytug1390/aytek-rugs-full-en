@@ -38,7 +38,10 @@ jobs:
           cache-dependency-path: admin-app/package-lock.json
 
       - name: Install deps
-        run: npm ci || npm i --no-audit --no-fund
+        env:
+          # Ensure devDependencies (like cross-env) are installed for the build step
+          NPM_CONFIG_PRODUCTION: "false"
+        run: npm ci --include=dev || npm i --no-audit --no-fund
 
       - name: Build (prod)
         run: npm run build
