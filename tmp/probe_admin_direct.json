@@ -1,0 +1,2147 @@
+{
+  "items": [
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73976",
+      "product_id": "16390",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 16390</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 3' 0'' X  4' 3''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#736363",
+        "#6b6363"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1q_ta8OKx9f5DAWJQ9a45X8mjgL3ZSC4E",
+          "alt": "16390",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=19xDVKfy75iCDGJHtdfir_tt5hx9m0M1w",
+          "alt": "16390",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1F0uF9dDdbZ9Dc6j8oY19BIlxc0uRxqHe",
+          "alt": "16390",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1h6OUCcxUfqM-IR5sRUyGeQpaeXA8BnPd",
+          "alt": "16390",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.595Z",
+      "updatedAt": "2025-09-10T17:18:31.278Z",
+      "slug": "placeholder-16390",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "gray"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#736363",
+        "#6b6363"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1q_ta8OKx9f5DAWJQ9a45X8mjgL3ZSC4E",
+      "origin_country": "Turkey",
+      "height_cm": 130,
+      "width_cm": 91
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73973",
+      "product_id": "16194",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 16194</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 6' 6'' X  9' 6''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#947b63",
+        "#8c735a",
+        "#847352"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1DmkPUDiv0a-2aoOrhkTnT2V__EHr8CIg",
+          "alt": "16194",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1g4JsuB_H_VXREc8Yv6A-efLVc80_VQgK",
+          "alt": "16194",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1S6-Q-6wyt-EY8CZ2M9hhqTwHRwVzZ2ez",
+          "alt": "16194",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1YgLMZE8GW35l9ELr6CgWHLd6LwbJ72fz",
+          "alt": "16194",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1WY1RLPsrF3mjya-6jL0MoeBvXE66SJn8",
+          "alt": "16194",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.593Z",
+      "updatedAt": "2025-09-10T17:18:31.275Z",
+      "slug": "placeholder-16194",
+      "__v": 0,
+      "color_code": [
+        "brown"
+      ],
+      "color_hex": [
+        "#947b63",
+        "#8c735a",
+        "#847352"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1DmkPUDiv0a-2aoOrhkTnT2V__EHr8CIg",
+      "origin_country": "Turkey",
+      "height_cm": 290,
+      "width_cm": 198
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73970",
+      "product_id": "16192",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 16192</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 7'11'' X 12' 4''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#a58463",
+        "#9c7b5a"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1Frl6HJCKtA0vM52xoJqypkBoElUfSJtn",
+          "alt": "16192",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1b_tNTWWfJsy3gJVGfUgNRrGCS2fa9ArN",
+          "alt": "16192",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1avROnQpJRjMoJsrgd3PJTLDYQWHsNpvs",
+          "alt": "16192",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1ue21MDMZHsMg6PLiOIhXXWYXsdgpRTJx",
+          "alt": "16192",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.591Z",
+      "updatedAt": "2025-09-10T17:18:31.272Z",
+      "slug": "placeholder-16192",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "orange",
+        "brown"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#a58463",
+        "#9c7b5a"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1Frl6HJCKtA0vM52xoJqypkBoElUfSJtn",
+      "origin_country": "Turkey",
+      "height_cm": 376,
+      "width_cm": 241
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e7396d",
+      "product_id": "16189",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 16189</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 6' 7'' X  9' 8''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#8c6b52",
+        "#7b5a4a",
+        "#947b5a"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1XDILcDPC8gzz3MXnKS-vV03fYImfujzc",
+          "alt": "16189",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1K-ir6Etz_ay657uoOgPJMk1xlNa8gEa1",
+          "alt": "16189",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1IyRQPgl7KMf70PTuTEB2ctwDi7tvYiTh",
+          "alt": "16189",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1_qMsJiHAAyeqYCoN-rOWMa1gZKsUMKgV",
+          "alt": "16189",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.589Z",
+      "updatedAt": "2025-09-10T17:18:31.268Z",
+      "slug": "placeholder-16189",
+      "__v": 0,
+      "color_code": [
+        "brown"
+      ],
+      "color_hex": [
+        "#8c6b52",
+        "#7b5a4a",
+        "#947b5a"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1XDILcDPC8gzz3MXnKS-vV03fYImfujzc",
+      "origin_country": "Turkey",
+      "height_cm": 295,
+      "width_cm": 201
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e7396a",
+      "product_id": "15356",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 15356</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 3'11'' X  5' 5''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#9c8c84",
+        "#c5c5bd"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1RbOEyxdVxKhcPvMWvSLK_L-5LGW8g6BE",
+          "alt": "15356",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1iSp6Nr4Ecs829vdrAFa0IQeizAGEUVUY",
+          "alt": "15356",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1hzoOy6sWamF_ovkehLCYrZLw63kZe_bO",
+          "alt": "15356",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=14hwBcKq2ok-fatkf6OJD6bVRVtvv4M5V",
+          "alt": "15356",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.587Z",
+      "updatedAt": "2025-09-10T17:18:31.265Z",
+      "slug": "placeholder-15356",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "gray"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#9c8c84",
+        "#c5c5bd"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1RbOEyxdVxKhcPvMWvSLK_L-5LGW8g6BE",
+      "origin_country": "Turkey",
+      "height_cm": 165,
+      "width_cm": 119
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73967",
+      "product_id": "15237",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 15237</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 6' 6'' X  9' 6''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#735a4a",
+        "#6b5242",
+        "#846b52"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1oINUF5gR8SNZJQNUhfYBjVDBrCR5SrD-",
+          "alt": "15237",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1iraEsv-QDDkKoiivHDCyn4oqjF7vwuWp",
+          "alt": "15237",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1uVpAdeh_CRMKwH0A7IAaxo2AW1MUfA-F",
+          "alt": "15237",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1IRt3GMbI57N0jb-xyaEP64-6jKe6rOPs",
+          "alt": "15237",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1MKB2_nN9-hE55LrKU-7A_Rz45zYBGsH9",
+          "alt": "15237",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=14ahG_4MwaSrQNJyLAblck1oto4jg_jzs",
+          "alt": "15237",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1GuM5iTauoqw6cfK2n1Ow8bGVd8Fitq9g",
+          "alt": "15237",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1fxJy1kolMI3LS-4_I_J3U_PiUk7aiLZR",
+          "alt": "15237",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1mKszKnb8VPMyWH1ZoCRA0codDi4CKG5B",
+          "alt": "15237",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.584Z",
+      "updatedAt": "2025-09-10T17:18:31.261Z",
+      "slug": "placeholder-15237",
+      "__v": 0,
+      "color_code": [
+        "brown"
+      ],
+      "color_hex": [
+        "#735a4a",
+        "#6b5242",
+        "#846b52"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1oINUF5gR8SNZJQNUhfYBjVDBrCR5SrD-",
+      "origin_country": "Turkey",
+      "height_cm": 290,
+      "width_cm": 198
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73964",
+      "product_id": "15198",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 15198</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 4'11'' X  7' 2''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#735a52",
+        "#846b63"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1KfSufRvpObKkwfpTTm6jwE2RTFQIuS_7",
+          "alt": "15198",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1wWQKG1L3ybIblLmoRbxJLePKD1e4oxMS",
+          "alt": "15198",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1Z__oSAuc4RhSDxwiykMzdoobRj-6W77Y",
+          "alt": "15198",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1C4UbGCj1m6DmWxwqqKH6oDDFUZWAXPJL",
+          "alt": "15198",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.581Z",
+      "updatedAt": "2025-09-10T17:18:31.257Z",
+      "slug": "placeholder-15198",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "red"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#735a52",
+        "#846b63"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1KfSufRvpObKkwfpTTm6jwE2RTFQIuS_7",
+      "origin_country": "Turkey",
+      "height_cm": 218,
+      "width_cm": 150
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73961",
+      "product_id": "16549",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 16549</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 3'11'' X  5' 8''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#7b6363",
+        "#b5736b"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1MWtsKNqaa4SX1z75N3C4-xOrIV75MFAh",
+          "alt": "16549",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1dazgRlzSfI2z1IlnlNKVDmdXlmhgPZJp",
+          "alt": "16549",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1aYe3pJb76wVRl-7tPsHMrpXmvguf6sDq",
+          "alt": "16549",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1ZEvYjA5M8TuV4pT2ScU2_tpMZyL-lu7r",
+          "alt": "16549",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.578Z",
+      "updatedAt": "2025-09-10T17:18:31.254Z",
+      "slug": "placeholder-16549",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "gray",
+        "red"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#7b6363",
+        "#b5736b"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1MWtsKNqaa4SX1z75N3C4-xOrIV75MFAh",
+      "origin_country": "Turkey",
+      "height_cm": 173,
+      "width_cm": 119
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e7395e",
+      "product_id": "16548",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 16548</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 3'11'' X  6' 6''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#73635a",
+        "#7b6b63"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1R0aGnOSoiefKKW-CG0HFtu76OO-Q81Bp",
+          "alt": "16548",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1VMAf2Cu3YIk_YYiMm1Zo-V-MWiRLa_Zn",
+          "alt": "16548",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1-53naIRqRjD4OTjm5bX6vfuN69G79H2p",
+          "alt": "16548",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1ciGv_sLUui2aofvDFlp78kSlnVyo3oK7",
+          "alt": "16548",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.576Z",
+      "updatedAt": "2025-09-10T17:18:31.251Z",
+      "slug": "placeholder-16548",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "brown",
+        "gray"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#73635a",
+        "#7b6b63"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1R0aGnOSoiefKKW-CG0HFtu76OO-Q81Bp",
+      "origin_country": "Turkey",
+      "height_cm": 198,
+      "width_cm": 119
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e7395b",
+      "product_id": "16547",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 16547</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 3'11'' X  6' 1''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#9c8c73",
+        "#94846b"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1E-fxtnsAZigAMjGA04dlQQSyBrthno_X",
+          "alt": "16547",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1VqBCo_LLuCJNOAqE266blW4-0xkE301M",
+          "alt": "16547",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1YukhnG32WXNiDJXfoEt_TEhsTvTESyba",
+          "alt": "16547",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1iYiCsiGIjStI0onfcvVisRL4VOEAhlQS",
+          "alt": "16547",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.573Z",
+      "updatedAt": "2025-09-10T17:18:31.248Z",
+      "slug": "placeholder-16547",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "orange"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#9c8c73",
+        "#94846b"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1E-fxtnsAZigAMjGA04dlQQSyBrthno_X",
+      "origin_country": "Turkey",
+      "height_cm": 185,
+      "width_cm": 119
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73958",
+      "product_id": "16533",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 16533</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 8' 3'' X 11' 7''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#634a31",
+        "#6b523a",
+        "#5a4231"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1Ixu_7RzE7wPu7esRbOs8vx4lFw3ttV2L",
+          "alt": "16533",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1YQlyxoqK6pftrADF0dUD-B_7PLxiQH3h",
+          "alt": "16533",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1M5eMG6c8iLjX3jXg9zRoX36JdtomrM1r",
+          "alt": "16533",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1zVq6z5oPJpC8cZ5ZtSoVdjLexxcWHa9O",
+          "alt": "16533",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1siPHFpx9Pg1k20HRqTBhR_DPfYzalcj4",
+          "alt": "16533",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=17SoOZp8xyi0aqRuoD7q-VjsAi8OfmKvb",
+          "alt": "16533",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1ab6O9HwEnhcM9RZ4AuAgX_zT2Qsna5KC",
+          "alt": "16533",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=164c9AAHKxp93jQVx9TMane--rd1xkLGn",
+          "alt": "16533",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1kXB_36k7O9_QRi0gNNiLQ4yKSuERFziO",
+          "alt": "16533",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.571Z",
+      "updatedAt": "2025-09-10T17:18:31.244Z",
+      "slug": "placeholder-16533",
+      "__v": 0,
+      "color_code": [
+        "brown"
+      ],
+      "color_hex": [
+        "#634a31",
+        "#6b523a",
+        "#5a4231"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1Ixu_7RzE7wPu7esRbOs8vx4lFw3ttV2L",
+      "origin_country": "Turkey",
+      "height_cm": 353,
+      "width_cm": 251
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73955",
+      "product_id": "16532",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 16532</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 7' 9'' X 11' 1''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#312121",
+        "#3a2929",
+        "#3a2921"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1NwoiGOOrF047KySdEPd6h0dSMFSB41hX",
+          "alt": "16532",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1bn0X0Tr8zWRbNiLiHT_1AUI6AYA1BuyI",
+          "alt": "16532",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1d7OOQdkPO3QOVV0kDitnIa7ran8Uu3-L",
+          "alt": "16532",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=12gw8pPuECjH-tw3r3grxZDmeu3TJcE1Q",
+          "alt": "16532",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=18eVli9f8EFX7vCyG-Vt4ypJ0OBQf2uNz",
+          "alt": "16532",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1LsM58btdBTf4_B6_ZR6mVgMrH_jBt6SR",
+          "alt": "16532",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1MAw3rTAGaEtU5T_QJtBo-l6N5SAyK_Ia",
+          "alt": "16532",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=11JiaKMbe6nM75wyP1q0l5Euj8ygCCH8P",
+          "alt": "16532",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.569Z",
+      "updatedAt": "2025-09-10T17:18:31.238Z",
+      "slug": "placeholder-16532",
+      "__v": 0,
+      "color_code": [
+        "red",
+        "brown"
+      ],
+      "color_hex": [
+        "#312121",
+        "#3a2929",
+        "#3a2921"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1NwoiGOOrF047KySdEPd6h0dSMFSB41hX",
+      "origin_country": "Turkey",
+      "height_cm": 338,
+      "width_cm": 236
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73952",
+      "product_id": "16523",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 16523</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 8' 4'' X 11' 8''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#944a52",
+        "#94424a"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1xH4Vnkyn9ovdij80rpntheX6uKhrUGK8",
+          "alt": "16523",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1_egiNJD_eYtG5O2pFrheOe0dDZgDsnHm",
+          "alt": "16523",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=16aYXUdXbgxpBoyqKXeK3Jm6JdfnuPa3X",
+          "alt": "16523",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1K9oBPELefWlJCggKDyePzOpV5bOkNQFg",
+          "alt": "16523",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.566Z",
+      "updatedAt": "2025-09-10T17:18:31.235Z",
+      "slug": "placeholder-16523",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "red"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#944a52",
+        "#94424a"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1xH4Vnkyn9ovdij80rpntheX6uKhrUGK8",
+      "origin_country": "Turkey",
+      "height_cm": 356,
+      "width_cm": 254
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e7394f",
+      "product_id": "16476",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 16476</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 3' 0'' X  9' 5''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#5a4a42",
+        "#3a3a3a",
+        "#5a423a"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1iVQ9ve8UrXPp0_8AvfQnYuxMGcDy3ryF",
+          "alt": "16476",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1Lo2uKkVCcQZRmey1CWHAcEDap3Z2s1uM",
+          "alt": "16476",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1SIENYjr61BwO9SPHtDUBpao4CiQIWbFL",
+          "alt": "16476",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1jSL8xvOjrAxG4WeyxCe7dCBbAQtrfDGx",
+          "alt": "16476",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1TgxZ0FGXqTjGFshsSc5AenQPQa1TMs-s",
+          "alt": "16476",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.564Z",
+      "updatedAt": "2025-09-10T17:18:31.231Z",
+      "slug": "placeholder-16476",
+      "__v": 0,
+      "color_code": [
+        "brown",
+        "gray"
+      ],
+      "color_hex": [
+        "#5a4a42",
+        "#3a3a3a",
+        "#5a423a"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1iVQ9ve8UrXPp0_8AvfQnYuxMGcDy3ryF",
+      "origin_country": "Turkey",
+      "height_cm": 287,
+      "width_cm": 91
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e7394c",
+      "product_id": "16450",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 16450</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 6' 5'' X 10' 0''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#7b5a4a",
+        "#84634a"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1P2-snbEnNoboHOptUc8Ey-75CKmYGIwX",
+          "alt": "16450",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1Bpe0A8swEOvZkpJq1jgJB3DjzfcavDhu",
+          "alt": "16450",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1PqCFSFcChHcx_aT-7Rxsy9gnWDxg5drL",
+          "alt": "16450",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1DD1c3hxEewXEfrDMa6ZWmXTIYwAKuZpj",
+          "alt": "16450",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1tXG2hI2RiK4YzEawA7eM9Ioc4zT6XQU2",
+          "alt": "16450",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.561Z",
+      "updatedAt": "2025-09-10T17:18:31.228Z",
+      "slug": "placeholder-16450",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "brown"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#7b5a4a",
+        "#84634a"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1P2-snbEnNoboHOptUc8Ey-75CKmYGIwX",
+      "origin_country": "Turkey",
+      "height_cm": 305,
+      "width_cm": 196
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73949",
+      "product_id": "15191",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 15191</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 6' 2'' X  9' 7''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#5a3131",
+        "#735a4a"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1BqmL2jJ7QKH1o2bZsT8Z20_TnQdtV3X8",
+          "alt": "15191",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1HamhsnJCrsLXjkHjwDoMqCfwox9UJk3A",
+          "alt": "15191",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1TZAYJxupeYoP3FS_KtuUff1UiadGlTWN",
+          "alt": "15191",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1xrGLJwv_f8mPg4EYtN5T3gE3GxkmW8sQ",
+          "alt": "15191",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1taxwKD0lC1t6ZAFOkZL718IzXISrThSo",
+          "alt": "15191",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.559Z",
+      "updatedAt": "2025-09-10T17:18:31.225Z",
+      "slug": "placeholder-15191",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "red",
+        "brown"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#5a3131",
+        "#735a4a"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1BqmL2jJ7QKH1o2bZsT8Z20_TnQdtV3X8",
+      "origin_country": "Turkey",
+      "height_cm": 292,
+      "width_cm": 188
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73946",
+      "product_id": "15114",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 15114</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 6' 6'' X  9'11''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#52423a",
+        "#6b5a52"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1fy_5LvaZJ_-QdKFNDBxub1raM4sD5aus",
+          "alt": "15114",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=147ZiS0QI8H5zRfj7fLR0MSKNz1n9PqFK",
+          "alt": "15114",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=163sA0JQfyJ0lOjF35dDvkW7WtT6RwM1j",
+          "alt": "15114",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1PoGM_7RfznfhreLA3trhGw5BlTfsMw08",
+          "alt": "15114",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=10fe5vjkuf29ltJ3_S0oDMT55nQTKCMkt",
+          "alt": "15114",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.556Z",
+      "updatedAt": "2025-09-10T17:18:31.221Z",
+      "slug": "placeholder-15114",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "brown"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#52423a",
+        "#6b5a52"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1fy_5LvaZJ_-QdKFNDBxub1raM4sD5aus",
+      "origin_country": "Turkey",
+      "height_cm": 302,
+      "width_cm": 198
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73943",
+      "product_id": "15101",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 15101</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 8' 1'' X 12' 5''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#846b5a",
+        "#8c7363"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=15H_1JtGY1I9Whwz04f7W9IN9gSBFpPWR",
+          "alt": "15101",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1zPQSOoTCIqQvcqL9w9492vaiZ2K5cB1X",
+          "alt": "15101",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1WhOimXsn1jVmD5U7fEXl_qeANa3xWyf_",
+          "alt": "15101",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1Q6J1HmRxztFersB89PkqSxSZ7BuKr7S7",
+          "alt": "15101",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.553Z",
+      "updatedAt": "2025-09-10T17:18:31.218Z",
+      "slug": "placeholder-15101",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "brown"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#846b5a",
+        "#8c7363"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=15H_1JtGY1I9Whwz04f7W9IN9gSBFpPWR",
+      "origin_country": "Turkey",
+      "height_cm": 378,
+      "width_cm": 246
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73940",
+      "product_id": "15081",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 15081</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 5' 0'' X  7' 0''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ada59c",
+        "#a59c94",
+        "#94847b"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1Seki_M8qXLZwVv5xO8vKLZM-A5l8PCaY",
+          "alt": "15081",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1cYnRwwwhNqtaMf3Jh3eoeF-j19jRzImm",
+          "alt": "15081",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1N56DqsH8OGZL96pj7PMOExdqGgG5Y1GQ",
+          "alt": "15081",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=17virUgH-QdzgjsLsqmWBxZYPX7dwsNXm",
+          "alt": "15081",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1Bgyc6FgCge5oTWrBv6sBH-PUznXZH7JN",
+          "alt": "15081",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.551Z",
+      "updatedAt": "2025-09-10T17:18:31.215Z",
+      "slug": "placeholder-15081",
+      "__v": 0,
+      "color_code": [
+        "gray"
+      ],
+      "color_hex": [
+        "#ada59c",
+        "#a59c94",
+        "#94847b"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1Seki_M8qXLZwVv5xO8vKLZM-A5l8PCaY",
+      "origin_country": "Turkey",
+      "height_cm": 213,
+      "width_cm": 152
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e7393d",
+      "product_id": "15077",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 15077</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 5' 0'' X  7' 1''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#6b5a52",
+        "#73635a"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1c5UbxLrW3hC_1UsQreRGYZM34qRl15MA",
+          "alt": "15077",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1BY_ndcdKGVNDh8oo_E0J74ZEhvAzQZsz",
+          "alt": "15077",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1GYZEz_lrIKD2mdAiyibbEo6GvhHjw7xq",
+          "alt": "15077",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1m2LPfJ2CpU6kYl5VvuQsgGN-uexHDqB4",
+          "alt": "15077",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=11Jzh2bPAjxeVDtG4k9h_pOYcPQMm46rc",
+          "alt": "15077",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=13mv6aEO1UU89ztAoPBwoymfof_Ypz6oF",
+          "alt": "15077",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1oFi_XdJszMkd-hnWvpNzyHAbJ5xIAHHj",
+          "alt": "15077",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1IDR2ZtTMxsU4cVGOpDTDF0c1fsj4-gm-",
+          "alt": "15077",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1iPMwhsIweJ1eWtaqaejQvF_tadtpzbZp",
+          "alt": "15077",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.547Z",
+      "updatedAt": "2025-09-10T17:18:31.211Z",
+      "slug": "placeholder-15077",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "brown"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#6b5a52",
+        "#73635a"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1c5UbxLrW3hC_1UsQreRGYZM34qRl15MA",
+      "origin_country": "Turkey",
+      "height_cm": 216,
+      "width_cm": 152
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e7393a",
+      "product_id": "14890",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 14890</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 4'11'' X  7' 2''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#b5947b",
+        "#ad8c73"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1tFOY4BaNjMmFJdGXD5_KrxbQUp-tWplM",
+          "alt": "14890",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1hCudI6BIlvFpuFnWz7ExCAXIF3zLH4np",
+          "alt": "14890",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1T-dEat-bWl4izfi6OUo67TRHiBStbeup",
+          "alt": "14890",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1WAqxn7msMWS70rLaU-vmPrs5XX3mXbxU",
+          "alt": "14890",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1gTcGSvWYhSOayl-ndNi6-uBZSgBHrmd6",
+          "alt": "14890",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.545Z",
+      "updatedAt": "2025-09-10T17:18:31.206Z",
+      "slug": "placeholder-14890",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "orange"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#b5947b",
+        "#ad8c73"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1tFOY4BaNjMmFJdGXD5_KrxbQUp-tWplM",
+      "origin_country": "Turkey",
+      "height_cm": 218,
+      "width_cm": 150
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73937",
+      "product_id": "14479",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 14479</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 7' 9'' X 11' 9''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#8c7363",
+        "#8c735a"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1HRqVhLDgVT33tTzSFywZ-KH56Zc80on9",
+          "alt": "14479",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=152OPOjEplnJqwQ1oDxGmun1uxz9-tEis",
+          "alt": "14479",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1KQMJkMGgrsT6zDWwSaQYCkeVwcEPQKcp",
+          "alt": "14479",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=192Gqa_FQv7nggYoRJKNhhYZs1TCUyWBp",
+          "alt": "14479",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.543Z",
+      "updatedAt": "2025-09-10T17:18:31.204Z",
+      "slug": "placeholder-14479",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "brown"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#8c7363",
+        "#8c735a"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1HRqVhLDgVT33tTzSFywZ-KH56Zc80on9",
+      "origin_country": "Turkey",
+      "height_cm": 358,
+      "width_cm": 236
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73934",
+      "product_id": "14443",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 14443</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 6' 5'' X 10' 0''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#a58c73",
+        "#a5846b",
+        "#ad947b"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1mD4klz-sQJnOh2B50bj0phorGCvUJj7Q",
+          "alt": "14443",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1d_gkFXUnbdMok8qbOSD0mrab1TUGlds2",
+          "alt": "14443",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1Fg92dzkgr_B4_SP8aA_QZo3gY58Qoguo",
+          "alt": "14443",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=18VNTWQzpGTE8_86luIuJ5hdxK8-gI7Wv",
+          "alt": "14443",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=17RkLJcParMPbf1W4oEPDYwS8SZZUCFLq",
+          "alt": "14443",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1AgrV6srNroOUuR6Tr58Q49smWOLTLjCG",
+          "alt": "14443",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1qXyA3ykRf8YfdrXqQMWGyRxATsgSaLQO",
+          "alt": "14443",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1EBW5zswzbjLaguzn43ZqrMmLKD7Qoenm",
+          "alt": "14443",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.54Z",
+      "updatedAt": "2025-09-10T17:18:31.2Z",
+      "slug": "placeholder-14443",
+      "__v": 0,
+      "color_code": [
+        "orange"
+      ],
+      "color_hex": [
+        "#a58c73",
+        "#a5846b",
+        "#ad947b"
+      ],
+      "has_image": true,
+      "image_url": "https://drive.google.com/uc?export=view&id=1mD4klz-sQJnOh2B50bj0phorGCvUJj7Q",
+      "origin_country": "Turkey",
+      "height_cm": 305,
+      "width_cm": 196
+    },
+    {
+      "price": {
+        "amount": 0,
+        "currency": "USD"
+      },
+      "sale_price": {
+        "amount": 0,
+        "active": false
+      },
+      "_id": "68bfa486b8548c8ef1e73931",
+      "product_id": "14442",
+      "title": "Cappadocia Rug",
+      "description_html": "<p><strong>SKU:</strong> 14442</p><p><strong>Material:</strong> Wool pile; cotton foundation (fringes cotton)</p><p><strong>Dyes:</strong> Natural vegetable & root dyes</p><p><strong>Eco‑Friendly:</strong> Low‑impact, sustainably dyed</p><p>Hand‑knotted <strong>Cappadocia (Kapadokya)</strong> rug — traditional Anatolian craftsmanship with balanced patterns and durable construction; ideal for living spaces seeking both character and longevity.</p>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Size:</strong> 6' 6'' X  9'10''</div>\n<div class=\"mt-4 text-sm text-gray-700\"><strong>Origin:</strong> Turkey</div>",
+      "condition": "vintage",
+      "availability": "in stock",
+      "brand": "Aytek Rugs",
+      "material": "",
+      "color": [
+        "#ffffff",
+        "#846b52",
+        "#8c735a"
+      ],
+      "size_text": "",
+      "pattern": [],
+      "origin": "",
+      "year": "",
+      "knot_density": "",
+      "pile": "",
+      "dyes": "",
+      "backing": "",
+      "certificate_id": "",
+      "gtin": "",
+      "mpn": "",
+      "images": [
+        {
+          "url": "/api/drive?id=1qQu48dm0ohojjCwmDN9B2pV0UbC5oUV1",
+          "alt": "14442",
+          "isPrimary": true
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1QSULxMkkRjVOb5emRDtvBnDahODh1Ku-",
+          "alt": "14442",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1Sqbj3qlwH3mKV5Gxc4jvU2L3JVfOnWis",
+          "alt": "14442",
+          "isPrimary": false
+        },
+        {
+          "url": "https://drive.google.com/uc?export=view&id=1RFWPb_qzvXjAUihWcXNV7jeLG6DCJL5t",
+          "alt": "14442",
+          "isPrimary": false
+        }
+      ],
+      "tags": [],
+      "collections": [
+        "traditional-collection",
+        "traditional"
+      ],
+      "seo_title": "",
+      "seo_description": "",
+      "status": "active",
+      "visibility": "public",
+      "createdAt": "2025-09-09T03:52:38.538Z",
+      "updatedAt": "2025-09-10T17:18:31.196Z",
+      "slug": "placeholder-14442",
+      "__v": 0,
+      "color_code": [
+        "white",
+        "brown"
+      ],
+      "color_hex": [
+        "#ffffff",
+        "#846b52",
+        "#8c735a"
+      ],
+      "has_image": true,
+      "image_url": "/api/drive?id=1qQu48dm0ohojjCwmDN9B2pV0UbC5oUV1",
+      "origin_country": "Turkey",
+      "height_cm": 300,
+      "width_cm": 198
+    }
+  ],
+  "total": 469,
+  "page": 1,
+  "pageSize": 24
+}

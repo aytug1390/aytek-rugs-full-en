@@ -1,0 +1,26 @@
+
+> aytek-rugs-full-en@1.0.0 predev
+> node ./scripts/preDevCleanup.mjs
+
+[cleanup] legacy page router files purged (if they existed)
+
+> aytek-rugs-full-en@1.0.0 dev
+> next dev
+
+ ΓÜá Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of C:\proje-aytek-rugs\package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * C:\proje-aytek-rugs\aytek-rugs-full-en\package-lock.json
+
+   Γû▓ Next.js 15.5.2
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.1.218:3000
+   - Environments: .env.local, .env
+
+ Γ£ô Starting...
+ Γ£ô Ready in 2.2s
+ Γùï Compiling / ...
+ Γ£ô Compiled / in 5.9s (1680 modules)
+ GET / 200 in 7114ms
