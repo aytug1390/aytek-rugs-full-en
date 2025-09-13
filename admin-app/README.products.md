@@ -1,17 +1,28 @@
-# Admin Products — CSV format
+# Products CSV (Prototype)
 
-Kısa CSV örneği (başlık satırı zorunlu):
+**Header row required.** Supported columns (case-sensitive):
+- `product_id` (required)
+- `title`
+- `price` (number)
+- `origin`
+- `size_text` (or `size`)
+- `color` (comma separated, e.g. `Red,Blue`)
+- `image_url`
 
-id,sku,name,price,description,image
-,SKU1234,El Dokuması Halı,249.99,Size özel el dokuma halı,http://example.com/img1.jpg
+Example:
 
-- `id` boş bırakılırsa import sırasında yeni id atanır.
-- `sku`, `name`, `price` önerilir. `image` alanı ürün resim URL'si içerir.
+```csv
+product_id,title,price,origin,size,color,image_url
+10002,Cappadocia Rug,299,Turkey,170x240,Beige,Burgundy,https://example.com/10002.jpg
+10003,Cappadocia Rug,329,Turkey,170x240,Red,https://example.com/10003.jpg
+```
 
-Import workflow
+Flow
 
-1. Admin > Products > CSV Upload sayfasından CSV seçilir.
-2. Preview görüntülenir.
-3. Upload ile CSV sunucuya gönderilir ve `admin-app/data/products.json` içinde saklanır (prototype).
+Go to Admin → Products → Upload CSV.
 
-Uyarı: Bu prototype file-backed store kullanır. Prod için DB (Postgres / Mongo) gerekli.
+Pick file → Preview → toggle rows → Import selected.
+
+See import summary and verify in Products list.
+
+This is a prototype: data is stored in `data/products.json`. For production use a real DB and a background job for large files.
