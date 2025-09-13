@@ -63,6 +63,9 @@ jobs:
               echo "Health OK"; break
             fi
             sleep 1
+            if [ "$i" -eq 40 ]; then
+              echo "Health probe timed out"; exit 1
+            fi
           done
           echo "--- Health probe result ---"
           curl -i http://localhost:3001/api/health || true
