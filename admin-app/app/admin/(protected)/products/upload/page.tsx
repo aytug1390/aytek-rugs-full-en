@@ -56,6 +56,25 @@ export default function UploadCsvPage() {
     setLog(JSON.stringify(data, null, 2));
   }
 
+  // One-click import: send the CSV file without a `selected` field so the
+  // server will import all rows (option A).
+  async function handleImportAll() {
+    if (!file) return;
+    const fd = new FormData();
+    fd.append("file", file);
+
+    try {
+      const res = await fetch("/api/admin-api/products/import", {
+        method: "POST",
+        body: fd,
+      });
+      const data = await res.json();
+      setLog(JSON.stringify(data, null, 2));
+    } catch (err: any) {
+      setLog(`Request failed: ${err?.message || String(err)}`);
+    }
+  }
+
   return (
     <div className="p-6 space-y-4">
       <h1 className="text-2xl font-semibold">Upload CSV</h1>
@@ -93,6 +112,13 @@ export default function UploadCsvPage() {
           disabled={!file}
         >
           Import selected
+        </button>
+        <button
+          onClick={handleImportAll}
+          className="px-3 py-2 rounded-xl bg-green-600 text-white hover:opacity-90 disabled:opacity-50"
+          disabled={!file}
+        >
+          Import all
         </button>
       </div>
 

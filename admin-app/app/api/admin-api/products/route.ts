@@ -21,19 +21,8 @@ export async function GET() {
 }
 
 // POST /api/admin-api/products
-export async function POST(req: NextRequest) {
-  const body = await req.json().catch(() => null);
-  const parsed = ProductSchema.safeParse(body);
-  if (!parsed.success) return json({ error: parsed.error.flatten() }, 400);
-
-  const items = await readAll();
-  const idx = items.findIndex((p) => p.product_id === parsed.data.product_id);
-  if (idx >= 0) items[idx] = { ...items[idx], ...parsed.data };
-  else items.push(parsed.data as Product);
-  await writeAll(items);
-
-  return json({ ok: true });
-}
+// single-item POST handling was merged into the main POST below to avoid
+// duplicate exported handlers (Next.js route files must export each method once).
 
 // DELETE /api/admin-api/products?product_id=123
 export async function DELETE(req: NextRequest) {
@@ -123,6 +112,21 @@ export async function POST(req: NextRequest, ctx: any) {
     });
   }
 
-  // Fallback to single-item POST handled above
+  // If POST /products (not /products/import) treat body as a single product JSON
+  // and upsert it. This merged flow keeps a single exported POST handler.
+  if (url.pathname.endsWith("/products")) {
+    const body = await req.json().catch(() => null);
+    const parsed = ProductSchema.safeParse(body);
+    if (!parsed.success) return json({ error: parsed.error.flatten() }, 400);
+
+    const items = await readAll();
+    const idx = items.findIndex((p) => p.product_id === parsed.data.product_id);
+    if (idx >= 0) items[idx] = { ...items[idx], ...parsed.data };
+    else items.push(parsed.data as Product);
+    await writeAll(items);
+
+    return json({ ok: true });
+  }
+
   return json({ error: "Invalid route. Try /products or /products/import" }, 404);
 }
