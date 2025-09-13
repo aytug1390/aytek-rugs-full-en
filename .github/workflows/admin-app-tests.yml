@@ -49,7 +49,6 @@ jobs:
 
       - name: Start server (prod) in background
         env:
-          ADMIN_SECRET: ${{ secrets.ADMIN_SECRET }}
           ADMIN_USERNAME: ${{ secrets.ADMIN_USERNAME }}
           ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
           JWT_SECRET: ${{ secrets.JWT_SECRET }}
