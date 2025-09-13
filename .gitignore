@@ -34,3 +34,13 @@ tmp/
 .env
 
 .env
+
+# CI and local run logs
+run--logs/
+run-*-logs/
+job-*-logs/
+job-*-logs.zip
+tmp/
+
+# secrets archive (local backup) - do not track
+secrets-archive-20250911_123312/
