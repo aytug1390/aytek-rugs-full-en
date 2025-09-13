@@ -34,3 +34,16 @@ Environment
 Notes
 
 - This scaffold only contains the auth flow (login/logout/middleware). Migrate your admin pages into `app/admin` in this project when ready.
+
+CI / Secrets
+
+- In CI the `ADMIN_SECRET` is provided via the repository secret named `AYTEKRUGS`.
+	- Do NOT commit the secret to source control.
+
+- For local development, create `admin-app/.env.local` with:
+	```
+	ADMIN_SECRET=your-local-admin-secret
+	```
+	and do not commit that file.
+
+- Security hygiene: rotate the secret periodically and limit access to the repository.

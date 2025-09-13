@@ -31,6 +31,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Cache Next.js build output
+        uses: actions/cache@v4
+        with:
+          path: admin-app/.next/cache
+          key: ${{ runner.os }}-next-${{ hashFiles('admin-app/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-next-
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
