@@ -26,3 +26,6 @@ tmp_*
 index_test*.html.bak
 tmp_page.html
 public/images/products/manifest.json.bak
+_bak_aytek-front_git/
+**/.next/
+**/node_modules/
