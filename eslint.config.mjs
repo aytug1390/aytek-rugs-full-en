@@ -24,6 +24,15 @@ export default defineConfig([{
 
     rules: {
         "@next/next/no-img-element": "off",
+        // Prevent developers from embedding direct Drive/LH3 hostnames in client code.
+        // Use `getDriveImageSrc()` or `/api/drive?...` instead so images are proxied.
+        "no-restricted-syntax": [
+            "error",
+            {
+                selector: "Literal[value=/lh3\\.googleusercontent\\.com|drive\\.google\\.com|drive\\.usercontent\\.google\\.com/ ]",
+                message: "Do not reference Drive/LH3 hostnames directly in client code. Use the same-origin `/api/drive?src=...` proxy or `getDriveImageSrc()`.",
+            },
+        ],
     },
 }, {
     files: ["app/admin/reviews/page.jsx", "app/admin/rugs/page.jsx"],

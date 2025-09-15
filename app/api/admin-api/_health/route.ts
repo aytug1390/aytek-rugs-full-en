@@ -1,5 +1,5 @@
-import { NextResponse } from 'next/server';
+import { jsonUtf8 } from '../../../../src/lib/responses';
 
 export async function GET() {
-  return NextResponse.json({ ok: true }, { status: 200 });
+  return jsonUtf8({ ok: true }, { status: 200 });
 }

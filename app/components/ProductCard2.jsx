@@ -1,11 +1,10 @@
 "use client";
 import Link from 'next/link';
+import { preferLocalDriveSrc } from '../../src/lib/drive';
 
 function resolveDriveUrl(url, size = 1200) {
   if (!url) return '';
-  const m = url.match(/\/d\/([a-zA-Z0-9_-]+)\//) || url.match(/[?&]id=([a-zA-Z0-9_-]+)/);
-  if (m) return `https://drive.google.com/thumbnail?id=${m[1]}&sz=w${size}`;
-  return url;
+  return preferLocalDriveSrc(url, size) || url;
 }
 
 export default function ProductCard({ product }) {

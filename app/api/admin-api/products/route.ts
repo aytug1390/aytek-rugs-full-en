@@ -1,5 +1,6 @@
-import { NextRequest, NextResponse } from "next/server";
+import { NextRequest } from "next/server";
 import { tryFetchWithRetries } from '../../../../lib/adminApiProxy';
+import { jsonUtf8 } from '../../../../src/lib/responses';
 export const dynamic = "force-dynamic";
 
 // Prefer explicit env, but during local development force the local admin API to avoid
@@ -23,14 +24,14 @@ export async function GET(req: NextRequest) {
   const r = await tryFetchWithRetries(upstream.toString(), { cache: "no-store" });
   if (!r.ok) {
     // If upstream explicitly reports 404, forward 404 to caller; otherwise treat as upstream error
-    if (r.status === 404) return NextResponse.json({ error: 'not_found' }, { status: 404 });
-    return NextResponse.json({ error: "upstream_error", status: r.status }, { status: 502 });
+    if (r.status === 404) return jsonUtf8({ error: 'not_found' }, { status: 404 });
+    return jsonUtf8({ error: "upstream_error", status: r.status }, { status: 502 });
   }
   const data = await r.json();
 
   // If caller asked only for a count, upstream already handled it.
   if (upstream.searchParams.get('count_only') === '1' || upstream.searchParams.get('count_only') === 'true') {
-    return NextResponse.json(data);
+    return jsonUtf8(data);
   }
 
   // Otherwise, request an authoritative total from upstream using count_only
@@ -47,7 +48,7 @@ export async function GET(req: NextRequest) {
     console.warn('[proxy] count fetch failed', e && e.message ? e.message : e);
   }
 
-  return NextResponse.json(data);
+  return jsonUtf8(data);
 }
 
 export async function HEAD() { return new Response(null, { status: 200 }); }

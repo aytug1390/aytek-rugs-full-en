@@ -1,5 +1,6 @@
 "use client";
 import { useList } from "@/context/ListContext";
+import { preferLocalDriveSrc } from "@/lib/drive";
 
 export default function MyListSidebar() {
   const { list, remove, clear } = useList();
@@ -19,7 +20,12 @@ export default function MyListSidebar() {
             <ul className="mt-3 space-y-3">
               {list.map(item => (
                 <li key={item.id} className="flex gap-2 items-center">
-                  <img src={item.image || "/placeholder.jpg"} alt="" className="w-12 h-12 object-cover rounded"/>
+                  <img
+                    src={preferLocalDriveSrc(item.image || '/placeholder.png', 400)}
+                    alt=""
+                    className="w-12 h-12 object-cover rounded"
+                    onError={(e)=>{ e.currentTarget.onerror = null; e.currentTarget.src = '/placeholder.png'; }}
+                  />
                   <div className="flex-1">
                     <div className="text-sm font-medium line-clamp-1">{item.name || item.id}</div>
                     {item.price ? <div className="text-xs text-gray-600">${item.price}</div> : null}

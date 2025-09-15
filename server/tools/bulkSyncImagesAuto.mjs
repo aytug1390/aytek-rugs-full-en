@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 dotenv.config({ path: path.join(__dirname, "..", "..", ".env.local") });
 
 function toDriveUrl(id) {
-  return `https://drive.google.com/uc?export=view&id=${id}`;
+  return `/api/drive?id=${encodeURIComponent(id)}`;
 }
 
 function buildFilterForPid(pid) {

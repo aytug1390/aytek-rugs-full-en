@@ -17,7 +17,7 @@ function exportImagesBySkuFolders() {
       const name = file.getName().toLowerCase();
       if (!name.match(/\.(jpg|jpeg|png|webp|avif)$/)) continue;
       const id = file.getId();
-      files.push({ name, url: 'https://drive.google.com/uc?export=view&id=' + id });
+  files.push({ name, url: '/api/drive?id=' + encodeURIComponent(id) });
     }
     if (!files.length) continue;
 

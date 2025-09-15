@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 dotenv.config({ path: path.join(__dirname, "..", "..", ".env.local") });
 
 const COLLECTION = process.env.PRODUCTS_COLL || "products";
-const toDriveUrl = (id) => `https://drive.google.com/uc?export=view&id=${id}`;
+const toDriveUrl = (id) => `/api/drive?id=${encodeURIComponent(id)}`;
 const buildFilterForPid = (pid) => {
   const num = Number(pid);
   const or = [{ product_id: String(pid) }];

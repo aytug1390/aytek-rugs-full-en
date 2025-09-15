@@ -26,6 +26,9 @@ export async function POST(req: Request) {
   const secure = !allowInsecure && proto === "https" && !isLocal;
 
   const res = NextResponse.json({ ok: true });
+  // Ensure consistent JSON headers
+  res.headers.set('Content-Type', 'application/json; charset=utf-8');
+  res.headers.set('X-Content-Type-Options', 'nosniff');
   res.headers.set("x-logout-secure", String(secure));
   res.headers.set("x-logout-proto", proto);
   res.headers.set("x-logout-host", host);

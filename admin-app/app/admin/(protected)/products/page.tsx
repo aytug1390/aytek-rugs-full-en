@@ -1,6 +1,7 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
+import ProxyImg from "../../../components/ProxyImg";
 
 type Product = {
   product_id: string;
@@ -65,11 +66,8 @@ export default function ProductsPage() {
                 </td>
                 <td className="p-2">
                   {p.image_url ? (
-                    <img
-                      src={p.image_url}
-                      alt={p.title || p.product_id}
-                      className="h-10 w-10 object-cover rounded-md"
-                    />
+                    // Use ProxyImg for consistent proxying and placeholder fallback
+                    <ProxyImg src={p.image_url} sz={400} alt={p.title || p.product_id} className="h-10 w-10 object-cover rounded-md" />
                   ) : (
                     ""
                   )}

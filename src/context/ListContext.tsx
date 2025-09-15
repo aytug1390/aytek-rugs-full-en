@@ -1,12 +1,12 @@
 "use client";
 import { createContext, useContext, useEffect, useMemo, useState } from "react";
 
-export type ListedItem = { id: string; name?: string; image?: string; price?: number };
+export type ListedItem = { id: string | number; name?: string; image?: string; price?: number; sku?: string };
 type Ctx = {
   list: ListedItem[];
   add: (item: ListedItem) => void;
-  remove: (id: string) => void;
-  has: (id: string) => boolean;
+  remove: (id: string | number) => void;
+  has: (id: string | number) => boolean;
   clear: () => void;
 };
 

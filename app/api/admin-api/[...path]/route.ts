@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { jsonUtf8 } from '../../../../src/lib/responses';
 import { tryFetchWithRetries } from '../../../../lib/adminApiProxy';
 
 const ORIGIN = process.env.ADMIN_API_ORIGIN || 'http://127.0.0.1:5000';
@@ -16,7 +17,7 @@ async function forward(
 
   // Sağlık kontrolünü asla proxy etme; lokal dön
   if (isHealth(url)) {
-    return NextResponse.json({ ok: true });
+    return jsonUtf8({ ok: true });
   }
 
   const { path = [] } = await ctx.params; // Next 15: params async
@@ -36,7 +37,7 @@ async function forward(
     // Forward upstream status and headers/body
     return new NextResponse(r.body, { status: r.status, headers: r.headers });
   } catch (e) {
-    return NextResponse.json(
+    return jsonUtf8(
       { error: 'backend_unreachable', message: 'Admin API is not available', detail: e && e.message ? e.message : undefined },
       { status: 502 }
     );

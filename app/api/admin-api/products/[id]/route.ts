@@ -1,4 +1,5 @@
 import { NextResponse } from "next/server";
+import { jsonUtf8 } from '../../../../../src/lib/responses';
 
 type Params = { id: string };
 
@@ -57,7 +58,7 @@ export async function GET(_req: Request, ctx: { params: Promise<Params> }) {
           const productFromList = normalizeProduct(rawCandidate);
           if (productFromList) {
             console.log('[proxy] fallback found product for', id);
-            return NextResponse.json({ ok: true, id, product: productFromList }, { status: 200 });
+            return jsonUtf8({ ok: true, id, product: productFromList }, { status: 200 });
           }
           console.log('[proxy] fallback did not find a product for', id, 'via single list result; attempting paged scan');
         }
@@ -84,7 +85,7 @@ export async function GET(_req: Request, ctx: { params: Promise<Params> }) {
                 const found = normalizeProduct(rawIt);
                 if (found) {
                   console.log('[proxy] paged-scan found product for', id, 'on page', p);
-                  return NextResponse.json({ ok: true, id, product: found }, { status: 200 });
+                  return jsonUtf8({ ok: true, id, product: found }, { status: 200 });
                 }
               }
             }
@@ -113,6 +114,7 @@ export async function GET(_req: Request, ctx: { params: Promise<Params> }) {
                     const rawCandidate2 = Array.isArray(payload2.items) && payload2.items[0] ? payload2.items[0] : payload2.item ?? payload2.product ?? payload2.data ?? null;
                     const mapped = normalizeProduct(rawCandidate2);
                     if (mapped) return NextResponse.json({ ok: true, id, product: mapped }, { status: 200 });
+                    if (mapped) return jsonUtf8({ ok: true, id, product: mapped }, { status: 200 });
                   }
                 }
               } finally {
@@ -147,6 +149,7 @@ export async function GET(_req: Request, ctx: { params: Promise<Params> }) {
                     const rawCandidate2 = Array.isArray(payload2.items) && payload2.items[0] ? payload2.items[0] : payload2.item ?? payload2.product ?? payload2.data ?? null;
                     const mapped = normalizeProduct(rawCandidate2);
                     if (mapped) return NextResponse.json({ ok: true, id, product: mapped }, { status: 200 });
+                    if (mapped) return jsonUtf8({ ok: true, id, product: mapped }, { status: 200 });
                   }
                 }
               } catch (e) {
@@ -167,9 +170,9 @@ export async function GET(_req: Request, ctx: { params: Promise<Params> }) {
     // If the upstream single-item endpoint returned 404 and our fallbacks didn't find it,
     // surface 404 to the caller (not a 502) to indicate the item is genuinely missing.
     if (r.status === 404) {
-      return NextResponse.json({ ok: false, error: "not_found" }, { status: 404 });
+      return jsonUtf8({ ok: false, error: "not_found" }, { status: 404 });
     }
-    return NextResponse.json({ ok: false, error: `upstream ${r.status}` }, { status: 502 });
+    return jsonUtf8({ ok: false, error: `upstream ${r.status}` }, { status: 502 });
   }
 
   const payload = await r.json();
@@ -177,7 +180,7 @@ export async function GET(_req: Request, ctx: { params: Promise<Params> }) {
   const product = normalizeProduct(raw);
   if (!product) return NextResponse.json({ ok: false, error: "not_found" }, { status: 404 });
 
-  return NextResponse.json({ ok: true, id, product }, { status: 200 });
+  return jsonUtf8({ ok: true, id, product }, { status: 200 });
 }
 
 export async function HEAD(_req: Request, ctx: { params: Promise<Params> }) {

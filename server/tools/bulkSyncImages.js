@@ -22,7 +22,7 @@ const ProductSchema = new mongoose.Schema(
 const Product = mongoose.model('Product', ProductSchema);
 
 // === Helpers ===
-const toDriveUrl = (id) => `https://drive.google.com/uc?export=view&id=${id}`;
+const toDriveUrl = (id) => `/api/drive?id=${encodeURIComponent(id)}`;
 
 async function main() {
   const csvPath = process.argv[2] || path.join(process.cwd(), 'images-map.csv');

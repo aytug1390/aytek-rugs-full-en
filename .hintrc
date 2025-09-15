@@ -1,5 +1,18 @@
 {
-  "hints": {},
+  "extends": ["development"],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "css.properties.fetchpriority",
+          "css.properties.text-size-adjust"
+        ]
+      }
+    ],
+    "meta-charset-utf-8": "default",
+    "meta-viewport": "default"
+  },
   "connector": {
     "name": "local",
     "options": {

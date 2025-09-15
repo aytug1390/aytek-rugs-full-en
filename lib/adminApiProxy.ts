@@ -24,5 +24,5 @@ export async function tryFetchWithRetries(url: string, options: any = {}, retrie
     }
   }
   // Shouldn't reach here
-  return new Response(null, { status: 502 }) as any;
+  return new Response(null, { status: 502, headers: { 'X-Content-Type-Options': 'nosniff' } }) as any;
 }

@@ -3,3 +3,42 @@
 @tailwind utilities;
 
 /* Özel global kurallarınızı buraya ekleyin. CSS'te // yorum YOK, sadece /* ... *\/ */
+
+/* 1. Metin ölçekleme: prefix + standart (standart en sonda) */
+html {
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+}
+
+/* 2. Seçim engelleme: IE/Edge eski -> Safari -> standart (sıra önemli) */
+.noselect, .no-select, .user-select-none {
+	-ms-user-select: none;
+	-webkit-user-select: none;
+	user-select: none;
+}
+
+/* 3. Backdrop filter: Safari prefix + standart (standart en sonda) */
+.blur-bg {
+	-webkit-backdrop-filter: blur(8px);
+	backdrop-filter: blur(8px);
+}
+
+/* 4. Mask-image: -webkit-… + standart */
+.mask-fade {
+	-webkit-mask-image: linear-gradient(#000, transparent);
+	mask-image: linear-gradient(#000, transparent);
+}
+
+/* 5. appearance ve background-clip: prefix önce, standart sonra */
+.input-reset {
+	-webkit-appearance: none;
+	appearance: none;
+}
+
+.text-clip {
+	-webkit-background-clip: text;
+	background-clip: text;
+}
+
+/* Prevent loading overlays from blocking pointer events by default */
+.loading-overlay { pointer-events: none; }

@@ -1,0 +1,2085 @@
+{
+  "checkedAt": "2025-09-13T18:20:23.987Z",
+  "products": [
+    {
+      "product_id": "10002",
+      "_id": "68b904d498e1ae0d4dda6778",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1JrGeVxJI15MDNOai82tpr0PARlxMFR9T&export=view",
+          "primary": "/api/drive?id=1JrGeVxJI15MDNOai82tpr0PARlxMFR9T&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1JrGeVxJI15MDNOai82tpr0PARlxMFR9T&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1JrGeVxJI15MDNOai82tpr0PARlxMFR9T",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1JrGeVxJI15MDNOai82tpr0PARlxMFR9T"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1PKO2rd6WvgiNOBcroYJVDhpImusX1Ufk",
+          "primary": "/api/drive?id=1PKO2rd6WvgiNOBcroYJVDhpImusX1Ufk&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1PKO2rd6WvgiNOBcroYJVDhpImusX1Ufk&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1PKO2rd6WvgiNOBcroYJVDhpImusX1Ufk",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1PKO2rd6WvgiNOBcroYJVDhpImusX1Ufk"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1cPHggB2sUcehNhGHz-6XaUzhFqSmgvsu",
+          "primary": "/api/drive?id=1cPHggB2sUcehNhGHz-6XaUzhFqSmgvsu&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1cPHggB2sUcehNhGHz-6XaUzhFqSmgvsu&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1cPHggB2sUcehNhGHz-6XaUzhFqSmgvsu",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1cPHggB2sUcehNhGHz-6XaUzhFqSmgvsu"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1-MmGPUvuQGkmkTzI1BdSJfwVe_C49vrP",
+          "primary": "/api/drive?id=1-MmGPUvuQGkmkTzI1BdSJfwVe_C49vrP&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1-MmGPUvuQGkmkTzI1BdSJfwVe_C49vrP&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1-MmGPUvuQGkmkTzI1BdSJfwVe_C49vrP",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1-MmGPUvuQGkmkTzI1BdSJfwVe_C49vrP"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1rBKjmIyrQa1JQW4rpJQzDwfURm5kb4GV",
+          "primary": "/api/drive?id=1rBKjmIyrQa1JQW4rpJQzDwfURm5kb4GV&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1rBKjmIyrQa1JQW4rpJQzDwfURm5kb4GV&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1rBKjmIyrQa1JQW4rpJQzDwfURm5kb4GV",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1rBKjmIyrQa1JQW4rpJQzDwfURm5kb4GV"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10003",
+      "_id": "68b904d498e1ae0d4dda6779",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1kG0uUvnTVTNH8uwQh6PQoBiYrS54kEBm&export=view",
+          "primary": "/api/drive?id=1kG0uUvnTVTNH8uwQh6PQoBiYrS54kEBm&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1kG0uUvnTVTNH8uwQh6PQoBiYrS54kEBm&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1kG0uUvnTVTNH8uwQh6PQoBiYrS54kEBm",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1kG0uUvnTVTNH8uwQh6PQoBiYrS54kEBm"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1RpsVav10g-qq7FUGUBnp62rsnUh3feYL",
+          "primary": "/api/drive?id=1RpsVav10g-qq7FUGUBnp62rsnUh3feYL&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1RpsVav10g-qq7FUGUBnp62rsnUh3feYL&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1RpsVav10g-qq7FUGUBnp62rsnUh3feYL",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1RpsVav10g-qq7FUGUBnp62rsnUh3feYL"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1wee2CTsaS-RPJWhxjuNQl2p5UVBTbhiN",
+          "primary": "/api/drive?id=1wee2CTsaS-RPJWhxjuNQl2p5UVBTbhiN&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1wee2CTsaS-RPJWhxjuNQl2p5UVBTbhiN&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1wee2CTsaS-RPJWhxjuNQl2p5UVBTbhiN",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1wee2CTsaS-RPJWhxjuNQl2p5UVBTbhiN"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1WkE_Y_pJEtpUn0HA6pJ55OfqI3KtQ50-",
+          "primary": "/api/drive?id=1WkE_Y_pJEtpUn0HA6pJ55OfqI3KtQ50-&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1WkE_Y_pJEtpUn0HA6pJ55OfqI3KtQ50-&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1WkE_Y_pJEtpUn0HA6pJ55OfqI3KtQ50-",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1WkE_Y_pJEtpUn0HA6pJ55OfqI3KtQ50-"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1rpdM4Fo72K2EMJHk9v0qPz3wG5d-3vvE",
+          "primary": "/api/drive?id=1rpdM4Fo72K2EMJHk9v0qPz3wG5d-3vvE&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1rpdM4Fo72K2EMJHk9v0qPz3wG5d-3vvE&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1rpdM4Fo72K2EMJHk9v0qPz3wG5d-3vvE",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1rpdM4Fo72K2EMJHk9v0qPz3wG5d-3vvE"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10004",
+      "_id": "68b904d498e1ae0d4dda677a",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=14hzo9QzqE5-JmcBJEGresLx-9RBC1Hed&export=view",
+          "primary": "/api/drive?id=14hzo9QzqE5-JmcBJEGresLx-9RBC1Hed&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=14hzo9QzqE5-JmcBJEGresLx-9RBC1Hed&sz=w1600"
+          },
+          "fallback": "/api/drive?id=14hzo9QzqE5-JmcBJEGresLx-9RBC1Hed",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=14hzo9QzqE5-JmcBJEGresLx-9RBC1Hed"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1dfU7Mj6GlHx4AqX05NIHkRxMt-qdDgeu",
+          "primary": "/api/drive?id=1dfU7Mj6GlHx4AqX05NIHkRxMt-qdDgeu&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1dfU7Mj6GlHx4AqX05NIHkRxMt-qdDgeu&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1dfU7Mj6GlHx4AqX05NIHkRxMt-qdDgeu",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1dfU7Mj6GlHx4AqX05NIHkRxMt-qdDgeu"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1iU-SCeqUFL-mUH3FgQ6kyPXRaMVEaDCk",
+          "primary": "/api/drive?id=1iU-SCeqUFL-mUH3FgQ6kyPXRaMVEaDCk&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1iU-SCeqUFL-mUH3FgQ6kyPXRaMVEaDCk&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1iU-SCeqUFL-mUH3FgQ6kyPXRaMVEaDCk",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1iU-SCeqUFL-mUH3FgQ6kyPXRaMVEaDCk"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1kaF7QAHDrYdEGWoXbuVshN-r7LAloezE",
+          "primary": "/api/drive?id=1kaF7QAHDrYdEGWoXbuVshN-r7LAloezE&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1kaF7QAHDrYdEGWoXbuVshN-r7LAloezE&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1kaF7QAHDrYdEGWoXbuVshN-r7LAloezE",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1kaF7QAHDrYdEGWoXbuVshN-r7LAloezE"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=194S2UNKJBwBtGeCxqRUF4ph6lpopfyjJ",
+          "primary": "/api/drive?id=194S2UNKJBwBtGeCxqRUF4ph6lpopfyjJ&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=194S2UNKJBwBtGeCxqRUF4ph6lpopfyjJ&sz=w1600"
+          },
+          "fallback": "/api/drive?id=194S2UNKJBwBtGeCxqRUF4ph6lpopfyjJ",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=194S2UNKJBwBtGeCxqRUF4ph6lpopfyjJ"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1Rk78AYo1yIANqT6H77Ej7Z0Deg4d7dg5",
+          "primary": "/api/drive?id=1Rk78AYo1yIANqT6H77Ej7Z0Deg4d7dg5&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Rk78AYo1yIANqT6H77Ej7Z0Deg4d7dg5&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1Rk78AYo1yIANqT6H77Ej7Z0Deg4d7dg5",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Rk78AYo1yIANqT6H77Ej7Z0Deg4d7dg5"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1lxgenNhWcGbBxAMZ_CIZh5V-YPgu5Fy0",
+          "primary": "/api/drive?id=1lxgenNhWcGbBxAMZ_CIZh5V-YPgu5Fy0&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1lxgenNhWcGbBxAMZ_CIZh5V-YPgu5Fy0&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1lxgenNhWcGbBxAMZ_CIZh5V-YPgu5Fy0",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1lxgenNhWcGbBxAMZ_CIZh5V-YPgu5Fy0"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10005",
+      "_id": "68b904d498e1ae0d4dda677b",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1VSx7MkDhgiTpGlBA2oNVKx6CJjoxaKkN&export=view",
+          "primary": "/api/drive?id=1VSx7MkDhgiTpGlBA2oNVKx6CJjoxaKkN&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1VSx7MkDhgiTpGlBA2oNVKx6CJjoxaKkN&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1VSx7MkDhgiTpGlBA2oNVKx6CJjoxaKkN",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1VSx7MkDhgiTpGlBA2oNVKx6CJjoxaKkN"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1TUL2gtkFLop1FV47pOMOLMmouOfLu2Sx",
+          "primary": "/api/drive?id=1TUL2gtkFLop1FV47pOMOLMmouOfLu2Sx&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1TUL2gtkFLop1FV47pOMOLMmouOfLu2Sx&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1TUL2gtkFLop1FV47pOMOLMmouOfLu2Sx",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1TUL2gtkFLop1FV47pOMOLMmouOfLu2Sx"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1wWFRVlEQPkCdczB3mjtNAJ6MKxzw7NjL",
+          "primary": "/api/drive?id=1wWFRVlEQPkCdczB3mjtNAJ6MKxzw7NjL&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1wWFRVlEQPkCdczB3mjtNAJ6MKxzw7NjL&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1wWFRVlEQPkCdczB3mjtNAJ6MKxzw7NjL",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1wWFRVlEQPkCdczB3mjtNAJ6MKxzw7NjL"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1lpSWuPYLZJsjHyueri4_stwQ15rgvHXx",
+          "primary": "/api/drive?id=1lpSWuPYLZJsjHyueri4_stwQ15rgvHXx&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1lpSWuPYLZJsjHyueri4_stwQ15rgvHXx&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1lpSWuPYLZJsjHyueri4_stwQ15rgvHXx",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1lpSWuPYLZJsjHyueri4_stwQ15rgvHXx"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1i3hQREc2VRn7YExvf1OqzqJrqVvNihTG",
+          "primary": "/api/drive?id=1i3hQREc2VRn7YExvf1OqzqJrqVvNihTG&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1i3hQREc2VRn7YExvf1OqzqJrqVvNihTG&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1i3hQREc2VRn7YExvf1OqzqJrqVvNihTG",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1i3hQREc2VRn7YExvf1OqzqJrqVvNihTG"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1f6E4xkt_OyUjc4vXcEXEiWG1M1kOCKia",
+          "primary": "/api/drive?id=1f6E4xkt_OyUjc4vXcEXEiWG1M1kOCKia&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1f6E4xkt_OyUjc4vXcEXEiWG1M1kOCKia&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1f6E4xkt_OyUjc4vXcEXEiWG1M1kOCKia",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1f6E4xkt_OyUjc4vXcEXEiWG1M1kOCKia"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1W8SVhE5PCs339MQXw1S7Q9zUmxH8luTw",
+          "primary": "/api/drive?id=1W8SVhE5PCs339MQXw1S7Q9zUmxH8luTw&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1W8SVhE5PCs339MQXw1S7Q9zUmxH8luTw&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1W8SVhE5PCs339MQXw1S7Q9zUmxH8luTw",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1W8SVhE5PCs339MQXw1S7Q9zUmxH8luTw"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10006",
+      "_id": "68b904d498e1ae0d4dda677c",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1rfTNtEvLvJpxFjxFfC8l_lVZ7B59ZUE-&export=view",
+          "primary": "/api/drive?id=1rfTNtEvLvJpxFjxFfC8l_lVZ7B59ZUE-&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1rfTNtEvLvJpxFjxFfC8l_lVZ7B59ZUE-&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1rfTNtEvLvJpxFjxFfC8l_lVZ7B59ZUE-",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1rfTNtEvLvJpxFjxFfC8l_lVZ7B59ZUE-"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1BzjwAkXhXSdygNCqJnVboH5irvb4LA0A",
+          "primary": "/api/drive?id=1BzjwAkXhXSdygNCqJnVboH5irvb4LA0A&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1BzjwAkXhXSdygNCqJnVboH5irvb4LA0A&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1BzjwAkXhXSdygNCqJnVboH5irvb4LA0A",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1BzjwAkXhXSdygNCqJnVboH5irvb4LA0A"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1cfuFSX3gXYL_A1e4O3HannOWHo9sH2as",
+          "primary": "/api/drive?id=1cfuFSX3gXYL_A1e4O3HannOWHo9sH2as&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1cfuFSX3gXYL_A1e4O3HannOWHo9sH2as&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1cfuFSX3gXYL_A1e4O3HannOWHo9sH2as",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1cfuFSX3gXYL_A1e4O3HannOWHo9sH2as"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1ONzIZrdxi1DiBHifJOGo_BjhT0baRieJ",
+          "primary": "/api/drive?id=1ONzIZrdxi1DiBHifJOGo_BjhT0baRieJ&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1ONzIZrdxi1DiBHifJOGo_BjhT0baRieJ&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1ONzIZrdxi1DiBHifJOGo_BjhT0baRieJ",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1ONzIZrdxi1DiBHifJOGo_BjhT0baRieJ"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1MH0nvzio97XNn7UF59Yt2XVUr--nMqUV",
+          "primary": "/api/drive?id=1MH0nvzio97XNn7UF59Yt2XVUr--nMqUV&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1MH0nvzio97XNn7UF59Yt2XVUr--nMqUV&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1MH0nvzio97XNn7UF59Yt2XVUr--nMqUV",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1MH0nvzio97XNn7UF59Yt2XVUr--nMqUV"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1fCrxOrznLqqk4LosUonnO3SZQQD_2XQL",
+          "primary": "/api/drive?id=1fCrxOrznLqqk4LosUonnO3SZQQD_2XQL&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1fCrxOrznLqqk4LosUonnO3SZQQD_2XQL&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1fCrxOrznLqqk4LosUonnO3SZQQD_2XQL",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1fCrxOrznLqqk4LosUonnO3SZQQD_2XQL"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1IMZ3_67s_EZYHA3HwBtXMp9Nqa2nDQ3k",
+          "primary": "/api/drive?id=1IMZ3_67s_EZYHA3HwBtXMp9Nqa2nDQ3k&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1IMZ3_67s_EZYHA3HwBtXMp9Nqa2nDQ3k&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1IMZ3_67s_EZYHA3HwBtXMp9Nqa2nDQ3k",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1IMZ3_67s_EZYHA3HwBtXMp9Nqa2nDQ3k"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10007",
+      "_id": "68b904d498e1ae0d4dda677d",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1Lyz-P-ALWVmcq8wgfGbswXfcmVoA1Mkd&export=view",
+          "primary": "/api/drive?id=1Lyz-P-ALWVmcq8wgfGbswXfcmVoA1Mkd&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Lyz-P-ALWVmcq8wgfGbswXfcmVoA1Mkd&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1Lyz-P-ALWVmcq8wgfGbswXfcmVoA1Mkd",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Lyz-P-ALWVmcq8wgfGbswXfcmVoA1Mkd"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1OKBBYLRK5S24Ji6-kurHihNQZH66T4xO",
+          "primary": "/api/drive?id=1OKBBYLRK5S24Ji6-kurHihNQZH66T4xO&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1OKBBYLRK5S24Ji6-kurHihNQZH66T4xO&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1OKBBYLRK5S24Ji6-kurHihNQZH66T4xO",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1OKBBYLRK5S24Ji6-kurHihNQZH66T4xO"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1YAj87bdY43fDCPazZGcZAn_z9DQ5c893",
+          "primary": "/api/drive?id=1YAj87bdY43fDCPazZGcZAn_z9DQ5c893&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1YAj87bdY43fDCPazZGcZAn_z9DQ5c893&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1YAj87bdY43fDCPazZGcZAn_z9DQ5c893",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1YAj87bdY43fDCPazZGcZAn_z9DQ5c893"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1dbFXsy-qPf8XwOalaeZ-appVhgNBcX1g",
+          "primary": "/api/drive?id=1dbFXsy-qPf8XwOalaeZ-appVhgNBcX1g&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1dbFXsy-qPf8XwOalaeZ-appVhgNBcX1g&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1dbFXsy-qPf8XwOalaeZ-appVhgNBcX1g",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1dbFXsy-qPf8XwOalaeZ-appVhgNBcX1g"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1Dsj-zhl6BmEqv9lrtLr0Ah3f6uw2eGkb",
+          "primary": "/api/drive?id=1Dsj-zhl6BmEqv9lrtLr0Ah3f6uw2eGkb&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Dsj-zhl6BmEqv9lrtLr0Ah3f6uw2eGkb&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1Dsj-zhl6BmEqv9lrtLr0Ah3f6uw2eGkb",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Dsj-zhl6BmEqv9lrtLr0Ah3f6uw2eGkb"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10010",
+      "_id": "68b904d498e1ae0d4dda677e",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1NMN4eRyuMMNnRnPvtaCT8bacwtnM3NJz&export=view",
+          "primary": "/api/drive?id=1NMN4eRyuMMNnRnPvtaCT8bacwtnM3NJz&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1NMN4eRyuMMNnRnPvtaCT8bacwtnM3NJz&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1NMN4eRyuMMNnRnPvtaCT8bacwtnM3NJz",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1NMN4eRyuMMNnRnPvtaCT8bacwtnM3NJz"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=14SAIB_pfi0zY_LtKScyB5wrCTC-WdWfj",
+          "primary": "/api/drive?id=14SAIB_pfi0zY_LtKScyB5wrCTC-WdWfj&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=14SAIB_pfi0zY_LtKScyB5wrCTC-WdWfj&sz=w1600"
+          },
+          "fallback": "/api/drive?id=14SAIB_pfi0zY_LtKScyB5wrCTC-WdWfj",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=14SAIB_pfi0zY_LtKScyB5wrCTC-WdWfj"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1KE2vrndzaYDudtye4-iQsyKNj7LfxWm0",
+          "primary": "/api/drive?id=1KE2vrndzaYDudtye4-iQsyKNj7LfxWm0&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1KE2vrndzaYDudtye4-iQsyKNj7LfxWm0&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1KE2vrndzaYDudtye4-iQsyKNj7LfxWm0",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1KE2vrndzaYDudtye4-iQsyKNj7LfxWm0"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1smbZdxemOXjW7vqgJ-v-QWG0i6UKwbLx",
+          "primary": "/api/drive?id=1smbZdxemOXjW7vqgJ-v-QWG0i6UKwbLx&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1smbZdxemOXjW7vqgJ-v-QWG0i6UKwbLx&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1smbZdxemOXjW7vqgJ-v-QWG0i6UKwbLx",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1smbZdxemOXjW7vqgJ-v-QWG0i6UKwbLx"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1UA1RJAzryIznyA9kjnvj5GHOECdXIcao",
+          "primary": "/api/drive?id=1UA1RJAzryIznyA9kjnvj5GHOECdXIcao&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1UA1RJAzryIznyA9kjnvj5GHOECdXIcao&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1UA1RJAzryIznyA9kjnvj5GHOECdXIcao",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1UA1RJAzryIznyA9kjnvj5GHOECdXIcao"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10011",
+      "_id": "68b904d498e1ae0d4dda677f",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1DiWIurHo52rJ4CxfqGMbHCwgWLxUtXvc&export=view",
+          "primary": "/api/drive?id=1DiWIurHo52rJ4CxfqGMbHCwgWLxUtXvc&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1DiWIurHo52rJ4CxfqGMbHCwgWLxUtXvc&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1DiWIurHo52rJ4CxfqGMbHCwgWLxUtXvc",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1DiWIurHo52rJ4CxfqGMbHCwgWLxUtXvc"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1_XJpm_dqRSuLZcHjFmbaBi6wfPshmFok",
+          "primary": "/api/drive?id=1_XJpm_dqRSuLZcHjFmbaBi6wfPshmFok&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1_XJpm_dqRSuLZcHjFmbaBi6wfPshmFok&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1_XJpm_dqRSuLZcHjFmbaBi6wfPshmFok",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1_XJpm_dqRSuLZcHjFmbaBi6wfPshmFok"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1R0SDpB627MtMdefNbRwVQx3bWjFhJeRg",
+          "primary": "/api/drive?id=1R0SDpB627MtMdefNbRwVQx3bWjFhJeRg&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1R0SDpB627MtMdefNbRwVQx3bWjFhJeRg&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1R0SDpB627MtMdefNbRwVQx3bWjFhJeRg",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1R0SDpB627MtMdefNbRwVQx3bWjFhJeRg"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1Kgquxr2uF7k_FgPWAz7HG8LuQnQXVXRJ",
+          "primary": "/api/drive?id=1Kgquxr2uF7k_FgPWAz7HG8LuQnQXVXRJ&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Kgquxr2uF7k_FgPWAz7HG8LuQnQXVXRJ&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1Kgquxr2uF7k_FgPWAz7HG8LuQnQXVXRJ",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Kgquxr2uF7k_FgPWAz7HG8LuQnQXVXRJ"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10012",
+      "_id": "68b904d498e1ae0d4dda6780",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1kgEJBLf1QbYBHCH7WvLlR0Yz0Hm5Eat4&export=view",
+          "primary": "/api/drive?id=1kgEJBLf1QbYBHCH7WvLlR0Yz0Hm5Eat4&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1kgEJBLf1QbYBHCH7WvLlR0Yz0Hm5Eat4&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1kgEJBLf1QbYBHCH7WvLlR0Yz0Hm5Eat4",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1kgEJBLf1QbYBHCH7WvLlR0Yz0Hm5Eat4"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1cAr2MfRa9d1skiG-70shMqQpaFCi4eEq",
+          "primary": "/api/drive?id=1cAr2MfRa9d1skiG-70shMqQpaFCi4eEq&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1cAr2MfRa9d1skiG-70shMqQpaFCi4eEq&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1cAr2MfRa9d1skiG-70shMqQpaFCi4eEq",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1cAr2MfRa9d1skiG-70shMqQpaFCi4eEq"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1tUG8Cq02Z1dVFmPFA2iuuoNhMedoIGlb",
+          "primary": "/api/drive?id=1tUG8Cq02Z1dVFmPFA2iuuoNhMedoIGlb&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1tUG8Cq02Z1dVFmPFA2iuuoNhMedoIGlb&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1tUG8Cq02Z1dVFmPFA2iuuoNhMedoIGlb",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1tUG8Cq02Z1dVFmPFA2iuuoNhMedoIGlb"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1yxpRIv7RF-czu5g0hgd3ufiICa1ngr49",
+          "primary": "/api/drive?id=1yxpRIv7RF-czu5g0hgd3ufiICa1ngr49&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1yxpRIv7RF-czu5g0hgd3ufiICa1ngr49&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1yxpRIv7RF-czu5g0hgd3ufiICa1ngr49",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1yxpRIv7RF-czu5g0hgd3ufiICa1ngr49"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=11yt3vBjgT5faaTy07Y6qBbL_Lx3gp04Y",
+          "primary": "/api/drive?id=11yt3vBjgT5faaTy07Y6qBbL_Lx3gp04Y&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=11yt3vBjgT5faaTy07Y6qBbL_Lx3gp04Y&sz=w1600"
+          },
+          "fallback": "/api/drive?id=11yt3vBjgT5faaTy07Y6qBbL_Lx3gp04Y",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=11yt3vBjgT5faaTy07Y6qBbL_Lx3gp04Y"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10013",
+      "_id": "68b904d498e1ae0d4dda6781",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1Jhg2qGysyuF3rrrY4q2bRy-I6406CfAF&export=view",
+          "primary": "/api/drive?id=1Jhg2qGysyuF3rrrY4q2bRy-I6406CfAF&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Jhg2qGysyuF3rrrY4q2bRy-I6406CfAF&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1Jhg2qGysyuF3rrrY4q2bRy-I6406CfAF",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Jhg2qGysyuF3rrrY4q2bRy-I6406CfAF"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1in9Pfu9Qz9SZvIj-wDYwwq-DGSFpJlNg",
+          "primary": "/api/drive?id=1in9Pfu9Qz9SZvIj-wDYwwq-DGSFpJlNg&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1in9Pfu9Qz9SZvIj-wDYwwq-DGSFpJlNg&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1in9Pfu9Qz9SZvIj-wDYwwq-DGSFpJlNg",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1in9Pfu9Qz9SZvIj-wDYwwq-DGSFpJlNg"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=19pezRj0bfVD8WHS__1AN9eGHc8cvJ_FQ",
+          "primary": "/api/drive?id=19pezRj0bfVD8WHS__1AN9eGHc8cvJ_FQ&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=19pezRj0bfVD8WHS__1AN9eGHc8cvJ_FQ&sz=w1600"
+          },
+          "fallback": "/api/drive?id=19pezRj0bfVD8WHS__1AN9eGHc8cvJ_FQ",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=19pezRj0bfVD8WHS__1AN9eGHc8cvJ_FQ"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1oZ8-MgOWeDb9fPPi0PudytJP-GXRGIvW",
+          "primary": "/api/drive?id=1oZ8-MgOWeDb9fPPi0PudytJP-GXRGIvW&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1oZ8-MgOWeDb9fPPi0PudytJP-GXRGIvW&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1oZ8-MgOWeDb9fPPi0PudytJP-GXRGIvW",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1oZ8-MgOWeDb9fPPi0PudytJP-GXRGIvW"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1XzcfgNgwf_ZZeZpqkTfzQ8RgicRxUOIu",
+          "primary": "/api/drive?id=1XzcfgNgwf_ZZeZpqkTfzQ8RgicRxUOIu&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1XzcfgNgwf_ZZeZpqkTfzQ8RgicRxUOIu&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1XzcfgNgwf_ZZeZpqkTfzQ8RgicRxUOIu",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1XzcfgNgwf_ZZeZpqkTfzQ8RgicRxUOIu"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10014",
+      "_id": "68b904d498e1ae0d4dda6782",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1fl2OPf9rknYCbY4kfk6bu9R07C99fVoi&export=view",
+          "primary": "/api/drive?id=1fl2OPf9rknYCbY4kfk6bu9R07C99fVoi&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1fl2OPf9rknYCbY4kfk6bu9R07C99fVoi&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1fl2OPf9rknYCbY4kfk6bu9R07C99fVoi",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1fl2OPf9rknYCbY4kfk6bu9R07C99fVoi"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1e1OPg1xoZtZcyE9rgsQSrO_Q3lD4MfFC",
+          "primary": "/api/drive?id=1e1OPg1xoZtZcyE9rgsQSrO_Q3lD4MfFC&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1e1OPg1xoZtZcyE9rgsQSrO_Q3lD4MfFC&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1e1OPg1xoZtZcyE9rgsQSrO_Q3lD4MfFC",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1e1OPg1xoZtZcyE9rgsQSrO_Q3lD4MfFC"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1aGMRGrC3VKQ8ZcPsfNwGI6URSdw4wtzt",
+          "primary": "/api/drive?id=1aGMRGrC3VKQ8ZcPsfNwGI6URSdw4wtzt&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1aGMRGrC3VKQ8ZcPsfNwGI6URSdw4wtzt&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1aGMRGrC3VKQ8ZcPsfNwGI6URSdw4wtzt",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1aGMRGrC3VKQ8ZcPsfNwGI6URSdw4wtzt"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1_y5BqecVwWChgjwveNH2wIKiCyAY_VgU",
+          "primary": "/api/drive?id=1_y5BqecVwWChgjwveNH2wIKiCyAY_VgU&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1_y5BqecVwWChgjwveNH2wIKiCyAY_VgU&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1_y5BqecVwWChgjwveNH2wIKiCyAY_VgU",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1_y5BqecVwWChgjwveNH2wIKiCyAY_VgU"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1DBS4pJxQM0GL6lfjh8Ml7m-N4rbYJ5UO",
+          "primary": "/api/drive?id=1DBS4pJxQM0GL6lfjh8Ml7m-N4rbYJ5UO&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1DBS4pJxQM0GL6lfjh8Ml7m-N4rbYJ5UO&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1DBS4pJxQM0GL6lfjh8Ml7m-N4rbYJ5UO",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1DBS4pJxQM0GL6lfjh8Ml7m-N4rbYJ5UO"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1kea15I_Qwgn4_48-he4vHaZta-Cv3O9c",
+          "primary": "/api/drive?id=1kea15I_Qwgn4_48-he4vHaZta-Cv3O9c&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1kea15I_Qwgn4_48-he4vHaZta-Cv3O9c&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1kea15I_Qwgn4_48-he4vHaZta-Cv3O9c",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1kea15I_Qwgn4_48-he4vHaZta-Cv3O9c"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1BbqlphrIZZ2Z3Uo8A1ajxn-GpskMXgP5",
+          "primary": "/api/drive?id=1BbqlphrIZZ2Z3Uo8A1ajxn-GpskMXgP5&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1BbqlphrIZZ2Z3Uo8A1ajxn-GpskMXgP5&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1BbqlphrIZZ2Z3Uo8A1ajxn-GpskMXgP5",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1BbqlphrIZZ2Z3Uo8A1ajxn-GpskMXgP5"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10015",
+      "_id": "68b904d498e1ae0d4dda6783",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1giKJ6lelhVCmHH_ILFe4Y2S_pvcMXzcE&export=view",
+          "primary": "/api/drive?id=1giKJ6lelhVCmHH_ILFe4Y2S_pvcMXzcE&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1giKJ6lelhVCmHH_ILFe4Y2S_pvcMXzcE&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1giKJ6lelhVCmHH_ILFe4Y2S_pvcMXzcE",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1giKJ6lelhVCmHH_ILFe4Y2S_pvcMXzcE"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1Z_cgNzOswPiYnIHR3J0pjIHGF-UWSrIX",
+          "primary": "/api/drive?id=1Z_cgNzOswPiYnIHR3J0pjIHGF-UWSrIX&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Z_cgNzOswPiYnIHR3J0pjIHGF-UWSrIX&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1Z_cgNzOswPiYnIHR3J0pjIHGF-UWSrIX",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Z_cgNzOswPiYnIHR3J0pjIHGF-UWSrIX"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1hFCV4Zv5yRbR_d2SgSM60QzwjWA8wRjX",
+          "primary": "/api/drive?id=1hFCV4Zv5yRbR_d2SgSM60QzwjWA8wRjX&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1hFCV4Zv5yRbR_d2SgSM60QzwjWA8wRjX&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1hFCV4Zv5yRbR_d2SgSM60QzwjWA8wRjX",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1hFCV4Zv5yRbR_d2SgSM60QzwjWA8wRjX"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1Evd_8fuVAN6U53nKgSyaqFpfayyvd8IN",
+          "primary": "/api/drive?id=1Evd_8fuVAN6U53nKgSyaqFpfayyvd8IN&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Evd_8fuVAN6U53nKgSyaqFpfayyvd8IN&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1Evd_8fuVAN6U53nKgSyaqFpfayyvd8IN",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Evd_8fuVAN6U53nKgSyaqFpfayyvd8IN"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1R3XT3qSAA9ePh1mCznmSXoGZQDzEvHok",
+          "primary": "/api/drive?id=1R3XT3qSAA9ePh1mCznmSXoGZQDzEvHok&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1R3XT3qSAA9ePh1mCznmSXoGZQDzEvHok&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1R3XT3qSAA9ePh1mCznmSXoGZQDzEvHok",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1R3XT3qSAA9ePh1mCznmSXoGZQDzEvHok"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10016",
+      "_id": "68b904d498e1ae0d4dda6784",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1nv6hca2K36sc8EtDKicj4ObObjHjNkkH&export=view",
+          "primary": "/api/drive?id=1nv6hca2K36sc8EtDKicj4ObObjHjNkkH&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1nv6hca2K36sc8EtDKicj4ObObjHjNkkH&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1nv6hca2K36sc8EtDKicj4ObObjHjNkkH",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1nv6hca2K36sc8EtDKicj4ObObjHjNkkH"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1aY49ZFYlPFGn2RsMW8iAwnVPa77Mkt44",
+          "primary": "/api/drive?id=1aY49ZFYlPFGn2RsMW8iAwnVPa77Mkt44&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1aY49ZFYlPFGn2RsMW8iAwnVPa77Mkt44&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1aY49ZFYlPFGn2RsMW8iAwnVPa77Mkt44",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1aY49ZFYlPFGn2RsMW8iAwnVPa77Mkt44"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1K7ToAQXMVa3VjLGJw-E-DQ_tlBP0fxnD",
+          "primary": "/api/drive?id=1K7ToAQXMVa3VjLGJw-E-DQ_tlBP0fxnD&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1K7ToAQXMVa3VjLGJw-E-DQ_tlBP0fxnD&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1K7ToAQXMVa3VjLGJw-E-DQ_tlBP0fxnD",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1K7ToAQXMVa3VjLGJw-E-DQ_tlBP0fxnD"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1kznvcrHpQDhpyrm_FnaKaBxL6fpbVChy",
+          "primary": "/api/drive?id=1kznvcrHpQDhpyrm_FnaKaBxL6fpbVChy&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1kznvcrHpQDhpyrm_FnaKaBxL6fpbVChy&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1kznvcrHpQDhpyrm_FnaKaBxL6fpbVChy",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1kznvcrHpQDhpyrm_FnaKaBxL6fpbVChy"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=16yXxuGNDGNwTxzckWPqxYYNilfRQmyOp",
+          "primary": "/api/drive?id=16yXxuGNDGNwTxzckWPqxYYNilfRQmyOp&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=16yXxuGNDGNwTxzckWPqxYYNilfRQmyOp&sz=w1600"
+          },
+          "fallback": "/api/drive?id=16yXxuGNDGNwTxzckWPqxYYNilfRQmyOp",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=16yXxuGNDGNwTxzckWPqxYYNilfRQmyOp"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10017",
+      "_id": "68b904d498e1ae0d4dda6785",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1y0jw3Trw8Gw3xaB5v8TJnyKgu9X7GI1i&export=view",
+          "primary": "/api/drive?id=1y0jw3Trw8Gw3xaB5v8TJnyKgu9X7GI1i&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1y0jw3Trw8Gw3xaB5v8TJnyKgu9X7GI1i&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1y0jw3Trw8Gw3xaB5v8TJnyKgu9X7GI1i",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1y0jw3Trw8Gw3xaB5v8TJnyKgu9X7GI1i"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1aL0_O2hGd1tluyHOwC7ezynK7s0VLObr",
+          "primary": "/api/drive?id=1aL0_O2hGd1tluyHOwC7ezynK7s0VLObr&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1aL0_O2hGd1tluyHOwC7ezynK7s0VLObr&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1aL0_O2hGd1tluyHOwC7ezynK7s0VLObr",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1aL0_O2hGd1tluyHOwC7ezynK7s0VLObr"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1Izaur3qOwE40V2WUec_1h1XqVHqkFKE_",
+          "primary": "/api/drive?id=1Izaur3qOwE40V2WUec_1h1XqVHqkFKE_&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Izaur3qOwE40V2WUec_1h1XqVHqkFKE_&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1Izaur3qOwE40V2WUec_1h1XqVHqkFKE_",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Izaur3qOwE40V2WUec_1h1XqVHqkFKE_"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1QNGpVq2G6wPLP8Q2hO_f9166HtqhmMOI",
+          "primary": "/api/drive?id=1QNGpVq2G6wPLP8Q2hO_f9166HtqhmMOI&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1QNGpVq2G6wPLP8Q2hO_f9166HtqhmMOI&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1QNGpVq2G6wPLP8Q2hO_f9166HtqhmMOI",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1QNGpVq2G6wPLP8Q2hO_f9166HtqhmMOI"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10018",
+      "_id": "68b904d498e1ae0d4dda6786",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1StUM0Bns5BaApeBG7ofFuwcf6rxk1acF&export=view",
+          "primary": "/api/drive?id=1StUM0Bns5BaApeBG7ofFuwcf6rxk1acF&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1StUM0Bns5BaApeBG7ofFuwcf6rxk1acF&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1StUM0Bns5BaApeBG7ofFuwcf6rxk1acF",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1StUM0Bns5BaApeBG7ofFuwcf6rxk1acF"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1NQRk2IFgEX1s9eiX5Ox2kx-CfJVHieW1",
+          "primary": "/api/drive?id=1NQRk2IFgEX1s9eiX5Ox2kx-CfJVHieW1&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1NQRk2IFgEX1s9eiX5Ox2kx-CfJVHieW1&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1NQRk2IFgEX1s9eiX5Ox2kx-CfJVHieW1",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1NQRk2IFgEX1s9eiX5Ox2kx-CfJVHieW1"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1MxqoN4ForeTyzdFhjstCiR62GpUW-fOA",
+          "primary": "/api/drive?id=1MxqoN4ForeTyzdFhjstCiR62GpUW-fOA&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1MxqoN4ForeTyzdFhjstCiR62GpUW-fOA&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1MxqoN4ForeTyzdFhjstCiR62GpUW-fOA",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1MxqoN4ForeTyzdFhjstCiR62GpUW-fOA"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1c1_RFqnCbLKpVFVIsya__0Kt3k3WKZku",
+          "primary": "/api/drive?id=1c1_RFqnCbLKpVFVIsya__0Kt3k3WKZku&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1c1_RFqnCbLKpVFVIsya__0Kt3k3WKZku&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1c1_RFqnCbLKpVFVIsya__0Kt3k3WKZku",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1c1_RFqnCbLKpVFVIsya__0Kt3k3WKZku"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1oYuBTRKxwoAOrRl_UQA6VTgQJQ0WNBVo",
+          "primary": "/api/drive?id=1oYuBTRKxwoAOrRl_UQA6VTgQJQ0WNBVo&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1oYuBTRKxwoAOrRl_UQA6VTgQJQ0WNBVo&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1oYuBTRKxwoAOrRl_UQA6VTgQJQ0WNBVo",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1oYuBTRKxwoAOrRl_UQA6VTgQJQ0WNBVo"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10019",
+      "_id": "68b904d498e1ae0d4dda6787",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=146xRnWyJsSRD06tbB8f86nmZzBNibWEx&export=view",
+          "primary": "/api/drive?id=146xRnWyJsSRD06tbB8f86nmZzBNibWEx&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=146xRnWyJsSRD06tbB8f86nmZzBNibWEx&sz=w1600"
+          },
+          "fallback": "/api/drive?id=146xRnWyJsSRD06tbB8f86nmZzBNibWEx",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=146xRnWyJsSRD06tbB8f86nmZzBNibWEx"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1l5zkSioMUEqgOSsCQ7xPHNSIWlxZN_OA",
+          "primary": "/api/drive?id=1l5zkSioMUEqgOSsCQ7xPHNSIWlxZN_OA&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1l5zkSioMUEqgOSsCQ7xPHNSIWlxZN_OA&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1l5zkSioMUEqgOSsCQ7xPHNSIWlxZN_OA",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1l5zkSioMUEqgOSsCQ7xPHNSIWlxZN_OA"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1bwnyn2KoNNM2m5u6n7t5YxBuqn6g0Mco",
+          "primary": "/api/drive?id=1bwnyn2KoNNM2m5u6n7t5YxBuqn6g0Mco&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1bwnyn2KoNNM2m5u6n7t5YxBuqn6g0Mco&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1bwnyn2KoNNM2m5u6n7t5YxBuqn6g0Mco",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1bwnyn2KoNNM2m5u6n7t5YxBuqn6g0Mco"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1UHGtAic_8YWUFbd_4YPAqesx55y9LfTm",
+          "primary": "/api/drive?id=1UHGtAic_8YWUFbd_4YPAqesx55y9LfTm&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1UHGtAic_8YWUFbd_4YPAqesx55y9LfTm&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1UHGtAic_8YWUFbd_4YPAqesx55y9LfTm",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1UHGtAic_8YWUFbd_4YPAqesx55y9LfTm"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1ttAMQBdQA5GzriFi8Md5UNnEunvQeV9B",
+          "primary": "/api/drive?id=1ttAMQBdQA5GzriFi8Md5UNnEunvQeV9B&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1ttAMQBdQA5GzriFi8Md5UNnEunvQeV9B&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1ttAMQBdQA5GzriFi8Md5UNnEunvQeV9B",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1ttAMQBdQA5GzriFi8Md5UNnEunvQeV9B"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10020",
+      "_id": "68b904d498e1ae0d4dda6788",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1UrNMyfrbd7kV6UlciJi3CsECmk3svXMD&export=view",
+          "primary": "/api/drive?id=1UrNMyfrbd7kV6UlciJi3CsECmk3svXMD&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1UrNMyfrbd7kV6UlciJi3CsECmk3svXMD&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1UrNMyfrbd7kV6UlciJi3CsECmk3svXMD",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1UrNMyfrbd7kV6UlciJi3CsECmk3svXMD"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1BvSGayCHJM2ffLsnrp3EYqfWnQj9laDB",
+          "primary": "/api/drive?id=1BvSGayCHJM2ffLsnrp3EYqfWnQj9laDB&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1BvSGayCHJM2ffLsnrp3EYqfWnQj9laDB&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1BvSGayCHJM2ffLsnrp3EYqfWnQj9laDB",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1BvSGayCHJM2ffLsnrp3EYqfWnQj9laDB"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1_84rAIYf_fj00Zo4lrUIM2ZrizRrD3aF",
+          "primary": "/api/drive?id=1_84rAIYf_fj00Zo4lrUIM2ZrizRrD3aF&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1_84rAIYf_fj00Zo4lrUIM2ZrizRrD3aF&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1_84rAIYf_fj00Zo4lrUIM2ZrizRrD3aF",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1_84rAIYf_fj00Zo4lrUIM2ZrizRrD3aF"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1UZIWhusefXXBR-xTSiUiorGIjQwua9TE",
+          "primary": "/api/drive?id=1UZIWhusefXXBR-xTSiUiorGIjQwua9TE&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1UZIWhusefXXBR-xTSiUiorGIjQwua9TE&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1UZIWhusefXXBR-xTSiUiorGIjQwua9TE",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1UZIWhusefXXBR-xTSiUiorGIjQwua9TE"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1ku-YiK06aHyCXv5AAUIaxsA0wh9-8GD5",
+          "primary": "/api/drive?id=1ku-YiK06aHyCXv5AAUIaxsA0wh9-8GD5&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1ku-YiK06aHyCXv5AAUIaxsA0wh9-8GD5&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1ku-YiK06aHyCXv5AAUIaxsA0wh9-8GD5",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1ku-YiK06aHyCXv5AAUIaxsA0wh9-8GD5"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10021",
+      "_id": "68b904d498e1ae0d4dda6789",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1n4y9bmiPgAQx76JO8Xmxc6N3jpq0cjhU&export=view",
+          "primary": "/api/drive?id=1n4y9bmiPgAQx76JO8Xmxc6N3jpq0cjhU&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1n4y9bmiPgAQx76JO8Xmxc6N3jpq0cjhU&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1n4y9bmiPgAQx76JO8Xmxc6N3jpq0cjhU",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1n4y9bmiPgAQx76JO8Xmxc6N3jpq0cjhU"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1GubxAQ5ZhgrT7D8b8JWecSG23smw4dB9",
+          "primary": "/api/drive?id=1GubxAQ5ZhgrT7D8b8JWecSG23smw4dB9&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1GubxAQ5ZhgrT7D8b8JWecSG23smw4dB9&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1GubxAQ5ZhgrT7D8b8JWecSG23smw4dB9",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1GubxAQ5ZhgrT7D8b8JWecSG23smw4dB9"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=121gd_hGejcxRso1Gv0go2JhktdenV4z2",
+          "primary": "/api/drive?id=121gd_hGejcxRso1Gv0go2JhktdenV4z2&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=121gd_hGejcxRso1Gv0go2JhktdenV4z2&sz=w1600"
+          },
+          "fallback": "/api/drive?id=121gd_hGejcxRso1Gv0go2JhktdenV4z2",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=121gd_hGejcxRso1Gv0go2JhktdenV4z2"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1xEb-0GbO-UBnNXemfQa_kK_rpHFfNZN1",
+          "primary": "/api/drive?id=1xEb-0GbO-UBnNXemfQa_kK_rpHFfNZN1&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1xEb-0GbO-UBnNXemfQa_kK_rpHFfNZN1&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1xEb-0GbO-UBnNXemfQa_kK_rpHFfNZN1",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1xEb-0GbO-UBnNXemfQa_kK_rpHFfNZN1"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1rMiFL7y7K8SjHeB-Fhj5FpNstkCxq1Qw",
+          "primary": "/api/drive?id=1rMiFL7y7K8SjHeB-Fhj5FpNstkCxq1Qw&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1rMiFL7y7K8SjHeB-Fhj5FpNstkCxq1Qw&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1rMiFL7y7K8SjHeB-Fhj5FpNstkCxq1Qw",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1rMiFL7y7K8SjHeB-Fhj5FpNstkCxq1Qw"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10022",
+      "_id": "68b904d498e1ae0d4dda678a",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1VqVzOD6Yc1YdK4IISFxHE5LK4jlsYlVK&export=view",
+          "primary": "/api/drive?id=1VqVzOD6Yc1YdK4IISFxHE5LK4jlsYlVK&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1VqVzOD6Yc1YdK4IISFxHE5LK4jlsYlVK&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1VqVzOD6Yc1YdK4IISFxHE5LK4jlsYlVK",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1VqVzOD6Yc1YdK4IISFxHE5LK4jlsYlVK"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1PSURX9ICqHXtMleqHz8uUUDh48XPiPei",
+          "primary": "/api/drive?id=1PSURX9ICqHXtMleqHz8uUUDh48XPiPei&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1PSURX9ICqHXtMleqHz8uUUDh48XPiPei&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1PSURX9ICqHXtMleqHz8uUUDh48XPiPei",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1PSURX9ICqHXtMleqHz8uUUDh48XPiPei"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1nt24SFYy7lY39ZxsLM2zUgAOw72-VLoh",
+          "primary": "/api/drive?id=1nt24SFYy7lY39ZxsLM2zUgAOw72-VLoh&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1nt24SFYy7lY39ZxsLM2zUgAOw72-VLoh&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1nt24SFYy7lY39ZxsLM2zUgAOw72-VLoh",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1nt24SFYy7lY39ZxsLM2zUgAOw72-VLoh"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1HovsMImLUBIdnYPGI1n1M3ShLtow1nbW",
+          "primary": "/api/drive?id=1HovsMImLUBIdnYPGI1n1M3ShLtow1nbW&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1HovsMImLUBIdnYPGI1n1M3ShLtow1nbW&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1HovsMImLUBIdnYPGI1n1M3ShLtow1nbW",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1HovsMImLUBIdnYPGI1n1M3ShLtow1nbW"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1siNyCkOm_qPAsR_Uye5G_2WlZ4VFtHnI",
+          "primary": "/api/drive?id=1siNyCkOm_qPAsR_Uye5G_2WlZ4VFtHnI&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1siNyCkOm_qPAsR_Uye5G_2WlZ4VFtHnI&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1siNyCkOm_qPAsR_Uye5G_2WlZ4VFtHnI",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1siNyCkOm_qPAsR_Uye5G_2WlZ4VFtHnI"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10023",
+      "_id": "68b904d498e1ae0d4dda678b",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=12KU8N36bxCEpBuUB1KD0IUE_KC-ObpPm&export=view",
+          "primary": "/api/drive?id=12KU8N36bxCEpBuUB1KD0IUE_KC-ObpPm&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=12KU8N36bxCEpBuUB1KD0IUE_KC-ObpPm&sz=w1600"
+          },
+          "fallback": "/api/drive?id=12KU8N36bxCEpBuUB1KD0IUE_KC-ObpPm",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=12KU8N36bxCEpBuUB1KD0IUE_KC-ObpPm"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1qqZl3KKN8HvUdRDOBukuNbKz8EV2kVXi",
+          "primary": "/api/drive?id=1qqZl3KKN8HvUdRDOBukuNbKz8EV2kVXi&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1qqZl3KKN8HvUdRDOBukuNbKz8EV2kVXi&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1qqZl3KKN8HvUdRDOBukuNbKz8EV2kVXi",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1qqZl3KKN8HvUdRDOBukuNbKz8EV2kVXi"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1xcGaQB72EdU0GSxZJAu5i0u3BhSiIJkC",
+          "primary": "/api/drive?id=1xcGaQB72EdU0GSxZJAu5i0u3BhSiIJkC&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1xcGaQB72EdU0GSxZJAu5i0u3BhSiIJkC&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1xcGaQB72EdU0GSxZJAu5i0u3BhSiIJkC",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1xcGaQB72EdU0GSxZJAu5i0u3BhSiIJkC"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1be7T5ljbwZ7kNyV8fZ7xvKGRL0YZ_jDz",
+          "primary": "/api/drive?id=1be7T5ljbwZ7kNyV8fZ7xvKGRL0YZ_jDz&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1be7T5ljbwZ7kNyV8fZ7xvKGRL0YZ_jDz&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1be7T5ljbwZ7kNyV8fZ7xvKGRL0YZ_jDz",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1be7T5ljbwZ7kNyV8fZ7xvKGRL0YZ_jDz"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10025",
+      "_id": "68b904d498e1ae0d4dda678d",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1Hwpvkp7yhGaBl4bUgdYm-rTS86HfUjT-&export=view",
+          "primary": "/api/drive?id=1Hwpvkp7yhGaBl4bUgdYm-rTS86HfUjT-&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Hwpvkp7yhGaBl4bUgdYm-rTS86HfUjT-&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1Hwpvkp7yhGaBl4bUgdYm-rTS86HfUjT-",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Hwpvkp7yhGaBl4bUgdYm-rTS86HfUjT-"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1Y4l6_JcKDH9yVsmG7VCp8xG2atUcs2AS",
+          "primary": "/api/drive?id=1Y4l6_JcKDH9yVsmG7VCp8xG2atUcs2AS&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Y4l6_JcKDH9yVsmG7VCp8xG2atUcs2AS&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1Y4l6_JcKDH9yVsmG7VCp8xG2atUcs2AS",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Y4l6_JcKDH9yVsmG7VCp8xG2atUcs2AS"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1ih4htLsPaXDXb7Jwp12hc7RPBEiyvT_x",
+          "primary": "/api/drive?id=1ih4htLsPaXDXb7Jwp12hc7RPBEiyvT_x&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1ih4htLsPaXDXb7Jwp12hc7RPBEiyvT_x&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1ih4htLsPaXDXb7Jwp12hc7RPBEiyvT_x",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1ih4htLsPaXDXb7Jwp12hc7RPBEiyvT_x"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1nOUdalEE432_DnQnWpFIIzRRazQft5aG",
+          "primary": "/api/drive?id=1nOUdalEE432_DnQnWpFIIzRRazQft5aG&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1nOUdalEE432_DnQnWpFIIzRRazQft5aG&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1nOUdalEE432_DnQnWpFIIzRRazQft5aG",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1nOUdalEE432_DnQnWpFIIzRRazQft5aG"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1eWXKJGkVnIy5FMys3-Vt_cOnP694Y9Fl",
+          "primary": "/api/drive?id=1eWXKJGkVnIy5FMys3-Vt_cOnP694Y9Fl&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1eWXKJGkVnIy5FMys3-Vt_cOnP694Y9Fl&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1eWXKJGkVnIy5FMys3-Vt_cOnP694Y9Fl",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1eWXKJGkVnIy5FMys3-Vt_cOnP694Y9Fl"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1aDYN7YW1Cxms4zea3MqOFhU5TFuCcaj5",
+          "primary": "/api/drive?id=1aDYN7YW1Cxms4zea3MqOFhU5TFuCcaj5&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1aDYN7YW1Cxms4zea3MqOFhU5TFuCcaj5&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1aDYN7YW1Cxms4zea3MqOFhU5TFuCcaj5",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1aDYN7YW1Cxms4zea3MqOFhU5TFuCcaj5"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1FBHrnQ88tHEkCHESA8GBKs8x15v1wQiA",
+          "primary": "/api/drive?id=1FBHrnQ88tHEkCHESA8GBKs8x15v1wQiA&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1FBHrnQ88tHEkCHESA8GBKs8x15v1wQiA&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1FBHrnQ88tHEkCHESA8GBKs8x15v1wQiA",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1FBHrnQ88tHEkCHESA8GBKs8x15v1wQiA"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10024",
+      "_id": "68b904d498e1ae0d4dda678c",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1Bbe8B0MOU6wpdZsrk0xgtjQe7ePrvoTy&export=view",
+          "primary": "/api/drive?id=1Bbe8B0MOU6wpdZsrk0xgtjQe7ePrvoTy&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Bbe8B0MOU6wpdZsrk0xgtjQe7ePrvoTy&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1Bbe8B0MOU6wpdZsrk0xgtjQe7ePrvoTy",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Bbe8B0MOU6wpdZsrk0xgtjQe7ePrvoTy"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=160yAtZZ7YsSOTls4L09UgG9NGZMmDGqg",
+          "primary": "/api/drive?id=160yAtZZ7YsSOTls4L09UgG9NGZMmDGqg&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=160yAtZZ7YsSOTls4L09UgG9NGZMmDGqg&sz=w1600"
+          },
+          "fallback": "/api/drive?id=160yAtZZ7YsSOTls4L09UgG9NGZMmDGqg",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=160yAtZZ7YsSOTls4L09UgG9NGZMmDGqg"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=18rheIcdqZoiTSbQLkGn9GXwafN7YOqyh",
+          "primary": "/api/drive?id=18rheIcdqZoiTSbQLkGn9GXwafN7YOqyh&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=18rheIcdqZoiTSbQLkGn9GXwafN7YOqyh&sz=w1600"
+          },
+          "fallback": "/api/drive?id=18rheIcdqZoiTSbQLkGn9GXwafN7YOqyh",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=18rheIcdqZoiTSbQLkGn9GXwafN7YOqyh"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1nl4JhuSy2u_AANvVgvpxeQDAaMeDslvW",
+          "primary": "/api/drive?id=1nl4JhuSy2u_AANvVgvpxeQDAaMeDslvW&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1nl4JhuSy2u_AANvVgvpxeQDAaMeDslvW&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1nl4JhuSy2u_AANvVgvpxeQDAaMeDslvW",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1nl4JhuSy2u_AANvVgvpxeQDAaMeDslvW"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1APjNqCDgtcsH28cILUERgSyCJR7XmW6s",
+          "primary": "/api/drive?id=1APjNqCDgtcsH28cILUERgSyCJR7XmW6s&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1APjNqCDgtcsH28cILUERgSyCJR7XmW6s&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1APjNqCDgtcsH28cILUERgSyCJR7XmW6s",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1APjNqCDgtcsH28cILUERgSyCJR7XmW6s"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10026",
+      "_id": "68b904d498e1ae0d4dda678e",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1j9qxX46jpMi_hQN7Yiy8bSIgmWg3xHiT&export=view",
+          "primary": "/api/drive?id=1j9qxX46jpMi_hQN7Yiy8bSIgmWg3xHiT&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1j9qxX46jpMi_hQN7Yiy8bSIgmWg3xHiT&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1j9qxX46jpMi_hQN7Yiy8bSIgmWg3xHiT",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1j9qxX46jpMi_hQN7Yiy8bSIgmWg3xHiT"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1Kxj5c5_gagC_t-B-kNDn-VJKH78voacw",
+          "primary": "/api/drive?id=1Kxj5c5_gagC_t-B-kNDn-VJKH78voacw&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Kxj5c5_gagC_t-B-kNDn-VJKH78voacw&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1Kxj5c5_gagC_t-B-kNDn-VJKH78voacw",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Kxj5c5_gagC_t-B-kNDn-VJKH78voacw"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=19ldn_o-LlxGjxxPWbDiRQQq4gfD9pk7e",
+          "primary": "/api/drive?id=19ldn_o-LlxGjxxPWbDiRQQq4gfD9pk7e&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=19ldn_o-LlxGjxxPWbDiRQQq4gfD9pk7e&sz=w1600"
+          },
+          "fallback": "/api/drive?id=19ldn_o-LlxGjxxPWbDiRQQq4gfD9pk7e",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=19ldn_o-LlxGjxxPWbDiRQQq4gfD9pk7e"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1zgAxSPkyJ_6NHYPAqcQqdp_7sopb0Ckp",
+          "primary": "/api/drive?id=1zgAxSPkyJ_6NHYPAqcQqdp_7sopb0Ckp&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1zgAxSPkyJ_6NHYPAqcQqdp_7sopb0Ckp&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1zgAxSPkyJ_6NHYPAqcQqdp_7sopb0Ckp",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1zgAxSPkyJ_6NHYPAqcQqdp_7sopb0Ckp"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1sMA7KMzRE6tr-YpeU0lfLcbir2atmzDd",
+          "primary": "/api/drive?id=1sMA7KMzRE6tr-YpeU0lfLcbir2atmzDd&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1sMA7KMzRE6tr-YpeU0lfLcbir2atmzDd&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1sMA7KMzRE6tr-YpeU0lfLcbir2atmzDd",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1sMA7KMzRE6tr-YpeU0lfLcbir2atmzDd"
+          }
+        }
+      ]
+    },
+    {
+      "product_id": "10027",
+      "_id": "68b904d498e1ae0d4dda678f",
+      "title": "Cappadocia rug",
+      "images": [
+        {
+          "raw": "https://drive.usercontent.google.com/download?id=1lc-IdyXUEiNyGgq5aoU0M5hFcrHZ_qmi&export=view",
+          "primary": "/api/drive?id=1lc-IdyXUEiNyGgq5aoU0M5hFcrHZ_qmi&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1lc-IdyXUEiNyGgq5aoU0M5hFcrHZ_qmi&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1lc-IdyXUEiNyGgq5aoU0M5hFcrHZ_qmi",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1lc-IdyXUEiNyGgq5aoU0M5hFcrHZ_qmi"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1ik_yifep1xLe0Ux0rezqCvO37346OEmb",
+          "primary": "/api/drive?id=1ik_yifep1xLe0Ux0rezqCvO37346OEmb&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1ik_yifep1xLe0Ux0rezqCvO37346OEmb&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1ik_yifep1xLe0Ux0rezqCvO37346OEmb",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1ik_yifep1xLe0Ux0rezqCvO37346OEmb"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1MS94eS2Zer7HdeTWOddkzEATFzUn68HV",
+          "primary": "/api/drive?id=1MS94eS2Zer7HdeTWOddkzEATFzUn68HV&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1MS94eS2Zer7HdeTWOddkzEATFzUn68HV&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1MS94eS2Zer7HdeTWOddkzEATFzUn68HV",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1MS94eS2Zer7HdeTWOddkzEATFzUn68HV"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1Tb_m4yy38jAqSp9ODZfK-C_c6Liq4Nqg",
+          "primary": "/api/drive?id=1Tb_m4yy38jAqSp9ODZfK-C_c6Liq4Nqg&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Tb_m4yy38jAqSp9ODZfK-C_c6Liq4Nqg&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1Tb_m4yy38jAqSp9ODZfK-C_c6Liq4Nqg",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1Tb_m4yy38jAqSp9ODZfK-C_c6Liq4Nqg"
+          }
+        },
+        {
+          "raw": "https://drive.google.com/uc?export=view&id=1SDb4Nsm3NbiPhKu0xBtEsrKVHD8yD4g_",
+          "primary": "/api/drive?id=1SDb4Nsm3NbiPhKu0xBtEsrKVHD8yD4g_&sz=w1600",
+          "primaryRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1SDb4Nsm3NbiPhKu0xBtEsrKVHD8yD4g_&sz=w1600"
+          },
+          "fallback": "/api/drive?id=1SDb4Nsm3NbiPhKu0xBtEsrKVHD8yD4g_",
+          "fallbackRes": {
+            "status": null,
+            "ok": false,
+            "error": "TypeError: Failed to parse URL from /api/drive?id=1SDb4Nsm3NbiPhKu0xBtEsrKVHD8yD4g_"
+          }
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "totalProducts": 24,
+    "totalImages": 127,
+    "okImages": 0,
+    "productsWithAllImagesOk": 0,
+    "productsWithMissingImages": 24
+  }
+}

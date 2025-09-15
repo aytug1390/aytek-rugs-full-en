@@ -1,12 +1,6 @@
 'use client';
 import { useState } from 'react';
-
-function resolveDriveUrl(url, size = 1600) {
-  if (!url) return '';
-  const m = url.match(/\/d\/([a-zA-Z0-9_-]+)\//) || url.match(/[?&]id=([a-zA-Z0-9_-]+)/);
-  if (m) return `https://drive.google.com/thumbnail?id=${m[1]}&sz=w${size}`;
-  return url;
-}
+import { getDriveImageSrc, makeSrcSet } from '@/utils/drive';
 
 export default function RugGallery({ images }) {
   const [idx, setIdx] = useState(0);
@@ -16,12 +10,16 @@ export default function RugGallery({ images }) {
   return (
     <div>
       <div className="w-full aspect-[4/3] bg-gray-100 rounded-xl overflow-hidden mb-3">
-        {current?.url && (
+        {current && (
           <img
-            src={resolveDriveUrl(current.url)}
+            src={getDriveImageSrc(current.url || current.id || current, 1200) || '/images/placeholder-rug.jpg'}
+            srcSet={makeSrcSet(current.url || current.id || current)}
+            sizes="100vw"
             alt={current.alt || ''}
             className="w-full h-full object-contain"
-            referrerPolicy="no-referrer"
+            loading="lazy"
+            decoding="async"
+            onError={(e)=>{ e.currentTarget.onerror = null; e.currentTarget.src = '/placeholder.png'; }}
           />
         )}
       </div>
@@ -30,13 +28,17 @@ export default function RugGallery({ images }) {
           <button
             key={i}
             onClick={() => setIdx(i)}
-            className={`border rounded-lg overflow-hidden ${i===idx ? 'ring-2 ring-blue-500' : ''}`}
+            className={`border rounded-lg overflow-hidden ${i === idx ? 'ring-2 ring-blue-500' : ''}`}
           >
             <img
-              src={resolveDriveUrl(im.url, 400)}
+              src={getDriveImageSrc(im.url || im.id || im, 400) || '/images/placeholder-rug.jpg'}
+              srcSet={makeSrcSet(im.url || im.id || im)}
+              sizes="80px"
               alt={im.alt || ''}
               className="w-full h-20 object-cover"
-              referrerPolicy="no-referrer"
+              loading="lazy"
+              decoding="async"
+              onError={(e)=>{ e.currentTarget.onerror = null; e.currentTarget.src = '/placeholder.png'; }}
             />
           </button>
         ))}

@@ -11,7 +11,13 @@ export default function Gallery() {
       <h2 className="text-3xl font-bold text-center mb-6">Happy Customers</h2>
       <div className="grid md:grid-cols-4 gap-4">
         {gallery.map((src, i) => (
-          <img key={i} src={src} alt="Customer Rug" className="w-full h-48 object-cover rounded-lg shadow" />
+          <img
+            key={i}
+            src={src}
+            alt="Customer Rug"
+            className="w-full h-48 object-cover rounded-lg shadow"
+            onError={(e)=>{ e.currentTarget.onerror = null; e.currentTarget.src = '/placeholder.png'; }}
+          />
         ))}
       </div>
       <p className="text-center mt-6 text-lg">

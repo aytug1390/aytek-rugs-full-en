@@ -26,8 +26,8 @@ function driveUrls(rawUrl, size = 1600) {
   const id = extractDriveId(rawUrl);
   if (!id) return { primary: null, fallback: null };
   return {
-    primary: `https://drive.google.com/thumbnail?id=${id}&sz=w${size}`,
-    fallback: `https://drive.google.com/uc?export=view&id=${id}`,
+    primary: `/api/drive?id=${encodeURIComponent(id)}&sz=w${size}`,
+    fallback: `/api/drive?id=${encodeURIComponent(id)}`,
   };
 }
 

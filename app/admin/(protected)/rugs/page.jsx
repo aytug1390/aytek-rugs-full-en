@@ -47,8 +47,8 @@ export default function AdminRugsPage() {
     currency: "USD",
     availability: "in stock",
     main_image: "",
-    width_cm: "",
-    length_cm: "",
+     width_cm: "",
+     length_cm: "",
   });
 
   const qs = useMemo(() => {
@@ -230,12 +230,12 @@ export default function AdminRugsPage() {
           </label>
           <label className="text-sm">
             <span className="block mb-1">Main Image URL *</span>
-            <input
-              className="border rounded-md px-3 py-2 w-full"
-              placeholder="https://drive.google.com/uc?export=view&id=..."
-              value={form.main_image}
-              onChange={(e) => setForm({ ...form, main_image: e.target.value })}
-            />
+              <input
+                className="border rounded-md px-3 py-2 w-full"
+                placeholder="/api/drive?id=... (use proxy)"
+                value={form.main_image}
+                onChange={(e) => setForm({ ...form, main_image: e.target.value })}
+              />
           </label>
           <label className="text-sm">
             <span className="block mb-1">Width (cm)</span>

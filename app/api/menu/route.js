@@ -10,8 +10,8 @@ export async function GET() {
 export async function POST(req) {
   await dbConnect();
   let data;
-  try { data = await req.json(); } catch { return new Response('Invalid JSON', { status: 400 }); }
-  if (!data.label || !data.href) return new Response('label & href required', { status: 422 });
+  try { data = await req.json(); } catch { return new Response('Invalid JSON', { status: 400, headers: { 'Content-Type': 'text/plain; charset=utf-8', 'X-Content-Type-Options': 'nosniff' } }); }
+  if (!data.label || !data.href) return new Response('label & href required', { status: 422, headers: { 'Content-Type': 'text/plain; charset=utf-8', 'X-Content-Type-Options': 'nosniff' } });
   const roles = Array.isArray(data.roles)
     ? data.roles
     : (typeof data.roles === 'string' ? data.roles.split(',').map(r=>r.trim()).filter(Boolean) : []);

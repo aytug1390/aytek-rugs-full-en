@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { CATEGORIES } from "@/data/categories";
 import { buildDriveCandidates, handleImgError } from "@/lib/driveImage";
+import { preferLocalDriveSrc, getDriveImageSrc } from '@/lib/drive';
 
 export default function CategoryStrip() {
   return (
@@ -18,14 +19,15 @@ export default function CategoryStrip() {
             <div className="h-28">
               {(() => {
                 const pool = buildDriveCandidates(c.image);
+                const src = getDriveImageSrc(pool[0], 800) || preferLocalDriveSrc(pool[0], 800);
                 return (
                   <img
-                    src={pool[0]}
+                    src={src}
                     data-pool={JSON.stringify(pool)}
                     data-idx={"0"}
                     alt={c.name}
                     className="w-full h-full object-cover"
-                    onError={handleImgError}
+                    onError={(e)=>{ e.currentTarget.onerror = null; handleImgError(e); e.currentTarget.src = '/placeholder.png'; }}
                   />
                 );
               })()}

@@ -1,6 +1,7 @@
 "use client";
 import { useList } from "@/context/ListContext";
 import { getImgUrl } from "@/lib/imageUrl";
+import { preferLocalDriveSrc, getDriveImageSrc } from "@/lib/drive";
 import Link from "next/link";
 
 function fmtPrice(v: any) {
@@ -22,9 +23,17 @@ export default function ProductCard({ p }: { p: any }) {
     p.img ||
     "";
 
-  const img = raw && typeof raw === "string" && raw.startsWith("/uploads")
-    ? `/media${raw}`
-    : getImgUrl(raw);
+  // Prefer same-origin proxy or local manifest for Drive-like sources
+  let img = '';
+  if (raw && typeof raw === 'string') {
+    img = preferLocalDriveSrc(raw, 1200);
+    // If preferLocalDriveSrc returned a non-proxy value, normalize to getDriveImageSrc
+    if (!img || img === '/placeholder.jpg' || img === '/placeholder.png') {
+      img = getDriveImageSrc(raw, 1200) || getImgUrl(raw);
+    }
+  } else {
+    img = getImgUrl(raw);
+  }
   const inList = has(id);
   const isSold = (p.stock && String(p.stock).toLowerCase() !== "in") || p.sold === true;
 
@@ -38,7 +47,7 @@ export default function ProductCard({ p }: { p: any }) {
             title={img}
             className="w-full h-full object-cover"
             loading="lazy"
-            onError={(e)=>{ e.currentTarget.onerror = null; e.currentTarget.src = "/placeholder.jpg"; }}
+            onError={(e)=>{ e.currentTarget.onerror = null; e.currentTarget.src = "/placeholder.png"; }}
           />
           {isSold && (
             <span className="absolute left-3 top-3 z-10 rounded-full bg-red-600 text-white text-xs font-semibold px-2 py-0.5">

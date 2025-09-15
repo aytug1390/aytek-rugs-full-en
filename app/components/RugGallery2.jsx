@@ -4,7 +4,7 @@ import { useState } from 'react';
 function resolveDriveUrl(url, size = 1600) {
   if (!url) return '';
   const m = url.match(/\/d\/([a-zA-Z0-9_-]+)\//) || url.match(/[?&]id=([a-zA-Z0-9_-]+)/);
-  if (m) return `https://drive.google.com/thumbnail?id=${m[1]}&sz=w${size}`;
+  if (m) return `/api/drive?id=${encodeURIComponent(m[1])}&sz=w${size}`;
   return url;
 }
 

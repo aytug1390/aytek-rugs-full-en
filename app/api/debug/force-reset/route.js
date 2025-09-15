@@ -4,13 +4,13 @@ import bcrypt from 'bcrypt';
 
 export async function POST(req) {
   if (process.env.NODE_ENV === 'production') {
-    return new Response('Disabled in production', { status: 403 });
+    return new Response('Disabled in production', { status: 403, headers: { 'Content-Type': 'text/plain; charset=utf-8', 'X-Content-Type-Options': 'nosniff' } });
   }
   await dbConnect();
-  let body; try { body = await req.json(); } catch { return new Response('Bad JSON', { status: 400 }); }
+  let body; try { body = await req.json(); } catch { return new Response('Bad JSON', { status: 400, headers: { 'Content-Type': 'text/plain; charset=utf-8', 'X-Content-Type-Options': 'nosniff' } }); }
   const email = (body.email||'').toLowerCase().trim();
   const password = body.password;
-  if (!email || !password) return new Response('email & password required', { status: 422 });
+  if (!email || !password) return new Response('email & password required', { status: 422, headers: { 'Content-Type': 'text/plain; charset=utf-8', 'X-Content-Type-Options': 'nosniff' } });
   let user = await User.findOne({ email });
   const passwordHash = await bcrypt.hash(password, 10);
   if (!user) {

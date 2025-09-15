@@ -2,6 +2,7 @@ export const dynamic = "force-dynamic";
 
 import type { NextRequest } from "next/server";
 import { NextResponse } from "next/server";
+import { jsonUtf8 } from '../../../src/lib/responses';
 import { headers } from "next/headers";
 
 function computeSecure(h: Headers, req: NextRequest): boolean {
@@ -36,11 +37,11 @@ export async function POST(req: NextRequest) {
     password = String(form.get("password") ?? "");
     from     = String(form.get("from") ?? "");
   } else {
-    return NextResponse.json({ error: "Unsupported Media Type" }, { status: 415 });
+    return jsonUtf8({ error: "Unsupported Media Type" }, { status: 415 });
   }
 
   const ok = password === (process.env.ADMIN_PASSWORD || "AytekAdmin2025!");
-  if (!ok) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  if (!ok) return jsonUtf8({ error: "Unauthorized" }, { status: 401 });
 
   const h = await headers();
   const secure = computeSecure(h as unknown as Headers, req);
