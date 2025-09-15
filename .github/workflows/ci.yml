@@ -1,0 +1,21 @@
+name: CI - Lint
+
+on: [push, pull_request]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        app: ["aytek-rugs-full-en", "admin-app"]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install dependencies and run lint
+        working-directory: ${{ matrix.app }}
+        run: |
+          npm ci
+          npm run lint -- --max-warnings=0
