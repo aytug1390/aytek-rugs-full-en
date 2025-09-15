@@ -1,3 +1,34 @@
+# builds
+.next/
+dist/
+out/
+coverage/
+
+# deps
+node_modules/
+
+# env
+*.env
+*.env.local
+**/.env*
+admin-app/.env.local
+aytek-rugs-full-en/.env.local
+
+# editor/os
+.DS_Store
+Thumbs.db
+
+# local tmp & scratch
+tmp_*
+**/tmp_*
+*.bak
+**/*.bak
+index_test*.html.bak
+tmp_page.html
+public/images/products/manifest.json.bak
+
+# Optional: CSVs to ignore (uncomment to enable)
+# tmp_*.csv
 # env
 .env.local
 .env*
