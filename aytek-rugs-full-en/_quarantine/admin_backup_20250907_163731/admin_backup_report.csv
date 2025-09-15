@@ -1,0 +1,5 @@
+"path","note"
+"C:\proje-aytek-rugs\aytek-rugs-full-en\_found_admin_backup.txt","_found_admin_backup.txt — C:\proje-aytek-rugs\aytek-rugs-full-en\_found_admin_backup.txt C:\proje-aytek-rugs\aytek-rugs-full-en\admin_backup_report.csv C:\proje"
+"C:\proje-aytek-rugs\aytek-rugs-full-en\admin_backup_report.csv","admin_backup_report.csv — 'path','note' '', 'FullName','FullName — ' '--------','-------- — ' 'C:\proje-aytek-rugs\aytek-rugs-full-en\app\components\admin…','ad"
+"C:\proje-aytek-rugs\aytek-rugs-full-en\app\components\admin\AdminLayout.jsx","AdminLayout.jsx — 'use client'; import { useSession, signIn, signOut } from 'next-auth/react'; import Link from 'next/link'; import { usePathname } from 'next/n"
+"C:\proje-aytek-rugs\aytek-rugs-full-en\scripts\seedAdmin.mjs","seedAdmin.mjs — import 'dotenv/config'; import bcrypt from 'bcrypt'; import mongoose from 'mongoose'; import User from '../models/User.js'; "

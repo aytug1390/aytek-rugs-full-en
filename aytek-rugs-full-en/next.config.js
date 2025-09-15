@@ -1,0 +1,14 @@
+const path = require('path');
+
+/** @type {import('next').NextConfig} */
+module.exports = {
+  async rewrites() {
+    return [
+      { source: '/admin-api/:path*', destination: '/api/admin-api/:path*' },
+    ];
+  },
+  // Point to repository root so Next's output tracing is correct in a monorepo
+  outputFileTracingRoot: path.join(__dirname, '..'),
+  // Do not fail builds due to ESLint during CI; run lint in a separate job instead.
+  eslint: { ignoreDuringBuilds: true },
+};

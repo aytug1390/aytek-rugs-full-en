@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='800' height='600' viewBox='0 0 800 600'>
+  <defs>
+    <linearGradient id='grad' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#e2e8f0'/>
+      <stop offset='100%' stop-color='#cbd5e1'/>
+    </linearGradient>
+  </defs>
+  <rect width='800' height='600' fill='url(#grad)'/>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='42' fill='#475569' font-weight='600'>STEP IMAGE</text>
+  <text x='50%' y='65%' dominant-baseline='middle' text-anchor='middle' font-family='Arial, Helvetica, sans-serif' font-size='18' fill='#64748b'>Replace with real photo</text>
+</svg>

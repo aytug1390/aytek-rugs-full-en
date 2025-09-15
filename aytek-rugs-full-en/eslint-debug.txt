@@ -1,0 +1,24 @@
+2025-09-04T19:10:31.296Z eslint:cli CLI args: [ '--debug', '.' ]
+2025-09-04T19:10:31.297Z eslint:cli Using flat config? true
+2025-09-04T19:10:31.301Z eslint:cli Running on files
+2025-09-04T19:10:31.302Z eslint:eslint Using config loader LegacyConfigLoader
+2025-09-04T19:10:31.302Z eslint:eslint Using file patterns: .
+2025-09-04T19:10:31.302Z eslint:eslint Deleting cache file at C:\proje-aytek-rugs\aytek-rugs-full-en\.eslintcache
+2025-09-04T19:10:31.315Z eslint:config-loader Calculating config for file C:\proje-aytek-rugs\aytek-rugs-full-en\.env
+2025-09-04T19:10:31.316Z eslint:config-loader Searching for eslint.config.js
+
+Oops! Something went wrong! :(
+
+ESLint: 9.34.0
+
+ESLint couldn't find an eslint.config.(js|mjs|cjs) file.
+
+From ESLint v9.0.0, the default configuration file is now eslint.config.js.
+If you are using a .eslintrc.* file, please follow the migration guide
+to update your configuration file to the new format:
+
+https://eslint.org/docs/latest/use/configure/migration-guide
+
+If you still have problems after following the migration guide, please stop by
+https://eslint.org/chat/help to chat with the team.
+

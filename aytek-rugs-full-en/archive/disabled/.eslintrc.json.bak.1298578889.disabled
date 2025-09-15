@@ -1,0 +1,28 @@
+{
+  "extends": [
+    "next",
+    "next/core-web-vitals"
+  ],
+  "overrides": [
+    {
+      "files": [
+        "app/**/*.jsx",
+        "app/**/*.tsx",
+        "components/**/*.jsx",
+        "components/**/*.tsx"
+      ],
+      "rules": {
+        "@next/next/no-img-element": "off"
+      }
+    },
+    {
+      "rules": {
+        "react-hooks/exhaustive-deps": "off"
+      },
+      "files": [
+        "app/admin/reviews/page.jsx",
+        "app/admin/rugs/page.jsx"
+      ]
+    }
+  ]
+}

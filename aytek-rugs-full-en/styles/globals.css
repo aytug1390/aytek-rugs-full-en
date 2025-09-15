@@ -1,0 +1,147 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---- Global compatibility and accessibility tweaks ---- */
+/* Combine host/root/body text-size-adjust into a single rule (webkit + standard) */
+html, :host, :root, body {
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+}
+
+/* Ensure form controls use consistent appearance order and reset styles */
+button, input, select, textarea {
+	-webkit-appearance: none;
+	appearance: none;
+}
+
+/* Provide a consistent baseline for native buttons so linters don't complain
+	 about ordering. Keep this minimal and unobtrusive. */
+@layer base {
+	button {
+		-webkit-appearance: none;
+		appearance: none;
+		border: 0;
+		padding: 0;
+		margin: 0;
+		background: none;
+		border-radius: 0;
+	}
+}
+
+/* Backdrop-filter: add the Safari-prefixed property before the unprefixed one.
+	 This covers Tailwind's generated classes like "backdrop-blur-*". */
+@layer utilities {
+	[class*="backdrop-blur"] {
+		-webkit-backdrop-filter:
+			var(--tw-backdrop-blur)
+			var(--tw-backdrop-brightness)
+			var(--tw-backdrop-contrast)
+			var(--tw-backdrop-grayscale)
+			var(--tw-backdrop-hue-rotate)
+			var(--tw-backdrop-invert)
+			var(--tw-backdrop-opacity)
+			var(--tw-backdrop-saturate)
+			var(--tw-backdrop-sepia);
+		backdrop-filter:
+			var(--tw-backdrop-blur)
+			var(--tw-backdrop-brightness)
+			var(--tw-backdrop-contrast)
+			var(--tw-backdrop-grayscale)
+			var(--tw-backdrop-hue-rotate)
+			var(--tw-backdrop-invert)
+			var(--tw-backdrop-opacity)
+			var(--tw-backdrop-saturate)
+			var(--tw-backdrop-sepia);
+	}
+}
+
+/* Utility for color swatches: keep visual rule here, the actual --swatch-bg
+	 will be set via data attribute at runtime by a small client component. */
+.swatch {
+	background-color: var(--swatch-bg, transparent);
+}
+
+/* Background hero helper: use a CSS variable so components only set the variable
+	 instead of a full inline background-image value (reduces inline-style lint hits) */
+.bg-hero {
+	background-image: var(--hero-image);
+	background-size: cover;
+	background-position: center center;
+}
+
+/* Overlay opacity helper: components can set --overlay-opacity (0-1) */
+.hero-overlay {
+	background-color: rgba(0,0,0,var(--overlay-opacity, 0.5));
+}
+
+/* User-select fallbacks with WebKit prefix for Safari */
+.no-select,
+.user-select-none,
+.dev-tools-indicator-item {
+	-ms-user-select: none;        /* IE/old Edge */
+	-webkit-user-select: none;   /* Safari */
+	-moz-user-select: none;
+	user-select: none;
+}
+
+/* Small utility to normalize text-size-adjust if needed on specific elements */
+.text-size-adjust-100 {
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+}
+
+/* Provide explicit selection-allowed areas (keeps parity with compiled CSS selectors) */
+@layer utilities {
+	[data-nextjs-call-stack-frame],
+	[data-nextjs-call-stack-frame-no-source] {
+		-webkit-user-select: text;
+		-moz-user-select: text;
+		-ms-user-select: text;
+		user-select: text;
+	}
+}
+
+/* Small helpers for mask and blur compatibility (recommended to include both) */
+.blur-bg {
+	-webkit-backdrop-filter: blur(8px);
+	backdrop-filter: blur(8px);
+}
+
+.mask-fade {
+	-webkit-mask-image: linear-gradient(#000, transparent);
+	mask-image: linear-gradient(#000, transparent);
+}
+
+/* appearance/background-clip ordering helpers */
+.input-reset {
+	-webkit-appearance: none;
+	appearance: none;
+}
+
+.text-clip {
+	-webkit-background-clip: text;
+	background-clip: text;
+}
+
+/* Prevent loading overlays from blocking pointer events by default */
+.loading-overlay { pointer-events: none; }
+
+/* Notes:
+ - Avoid adding duplicate <meta> tags in app/layout.jsx when using App Router's
+	 `export const viewport = { ... }` feature. If you do set viewport via
+	 App Router, remove manual <meta name="viewport"> in the HTML.
+ - Swatches now use `data-swatch` attributes; a small client component will set
+	 the `--swatch-bg` CSS var at runtime so inline style attributes are not needed.
+*/
+
+/* --------- DEBUG HELPERS (temporary) ---------
+	Add these while debugging blocking overlays or unclosable modals. Remove
+	or comment out after confirming the issue. */
+.debug-temp-all-pointer-events * { pointer-events: auto !important; }
+.debug-overlay { pointer-events: none !important; }
+
+/* Usage (temporary):
+	Add `className="debug-temp-all-pointer-events"` to the <body> or root
+	container to force pointer events to be enabled for testing. */
+

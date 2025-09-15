@@ -1,0 +1,10 @@
+import type { NextRequest } from "next/server";
+import { NextResponse } from "next/server";
+import crypto from 'crypto';
+
+export const config = { matcher: ["/admin/:path*"] };
+
+export function middleware(req: NextRequest) {
+  // backup of original middleware (disabled)
+  return NextResponse.next();
+}

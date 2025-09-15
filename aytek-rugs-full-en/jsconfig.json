@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*", "src/*", "app/*", "app/components/*", "src/components/*"]
+    }
+  },
+  "exclude": ["node_modules", "aytek-rugs/node_modules"]
+}
