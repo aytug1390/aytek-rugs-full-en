@@ -1,0 +1,19 @@
+name: CSV Checks
+
+on:
+  pull_request:
+    paths:
+      - 'cappadocia.csv'
+      - 'scripts/**'
+
+jobs:
+  csv:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm ci --ignore-scripts || npm i --no-audit
+      - run: node scripts/count_csv_images.mjs
+      - run: node scripts/verify_images_count.mjs ./cappadocia.csv --csv-only

@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Özel global kurallarınızı buraya ekleyin. CSS'te // yorum YOK, sadece /* ... *\/ */
